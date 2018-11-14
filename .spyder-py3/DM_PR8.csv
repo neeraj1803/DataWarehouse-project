@@ -1,0 +1,200 @@
+Ride Duration(mins),Days,CATEGORY*,START*,STOP*,PURPOSE*,Gender,Cancelled,Delay,On-time,Young,Middle,Old,Rider Age
+20,1,0,West,North,Meal/Entertain,1,1,0,0,1,0,0,17
+60,0,0,East,West,Meal/Entertain,1,0,1,0,0,0,1,25
+40,1,1,East,South,Errand/Supplies,1,0,0,1,0,1,0,26
+70,1,0,East,West,Meeting,0,1,0,0,1,0,0,40
+20,1,0,East,West,Customer Visit,0,1,0,0,0,1,0,36
+25,0,0,South,West,Meal/Entertain,1,1,0,0,0,1,0,23
+35,0,1,East,West,Meeting,1,1,0,0,0,1,0,29
+44,0,1,East,South,Meeting,1,1,0,0,0,1,0,33
+10,0,1,East,West,Meeting,1,1,0,0,0,1,0,39
+30,0,1,East,West,Customer Visit,0,1,0,0,0,1,0,44
+15,1,1,North,West,Meeting,0,1,0,0,0,1,0,46
+20,1,1,North,West,Meeting,0,1,0,0,0,1,0,28
+23,1,0,North,West,Meeting,0,1,0,0,0,0,1,33
+40,1,0,North,West,Temporary Site,0,1,0,0,0,1,0,55
+42,1,1,North,West,Errand/Supplies,0,1,0,0,0,1,0,32
+60,1,1,North,East,Meal/Entertain,0,1,0,0,0,0,1,27
+70,0,0,North,West,Meal/Entertain,0,1,0,0,0,0,1,53
+70,1,0,North,West,Meal/Entertain,1,1,0,0,0,0,1,45
+70,0,1,South,West,Meal/Entertain,1,1,0,0,0,0,1,23
+70,1,1,North,West,Errand/Supplies,0,1,0,0,0,0,1,23
+70,0,0,North,West,Customer Visit,0,0,1,0,0,0,1,23
+70,1,0,North,West,Errand/Supplies,0,0,0,1,1,0,0,46
+70,0,0,North,West,Meeting,1,1,0,0,1,0,0,55
+70,0,0,North,West,Meeting,1,1,0,0,1,0,0,55
+50,0,0,North,East,Meeting,1,1,0,0,1,0,0,33
+50,0,1,North,East,Customer Visit,1,0,0,1,1,0,0,46
+50,0,1,North,East,Errand/Supplies,1,0,0,1,1,0,0,55
+50,0,1,South,East,Errand/Supplies,1,0,0,1,1,0,0,33
+50,1,0,North,East,Meal/Entertain,1,0,0,1,1,0,0,33
+50,1,0,North,East,Meal/Entertain,1,0,0,1,1,0,0,46
+50,1,1,West,East,Meal/Entertain,0,0,0,1,0,1,0,36
+50,1,0,North,East,Meal/Entertain,1,0,0,1,0,1,0,35
+50,1,0,North,East,Meal/Entertain,1,0,0,1,0,1,0,33
+45,1,1,East,South,Meal/Entertain,1,0,0,1,0,0,1,42
+45,0,0,North,South,Meeting,0,0,0,1,0,1,0,38
+45,1,0,North,South,Meeting,0,0,0,1,0,1,0,36
+45,1,1,North,South,Customer Visit,0,0,0,1,0,1,0,38
+45,0,0,West,South,Errand/Supplies,0,0,0,1,1,0,0,67
+45,0,0,West,East,Meal/Entertain,0,0,0,1,0,1,0,70
+45,0,0,West,South,Meal/Entertain,0,0,0,1,0,0,1,80
+45,0,0,West,South,Meal/Entertain,0,0,0,1,0,1,0,38
+45,0,0,West,South,Errand/Supplies,0,0,0,1,1,0,0,76
+45,0,0,West,North,Errand/Supplies,0,0,0,1,1,0,0,37
+45,0,0,West,South,Errand/Supplies,0,1,0,0,1,0,0,28
+30,0,1,West,South,Errand/Supplies,0,1,0,0,0,0,1,64
+30,0,1,East,South,Meeting,0,0,1,0,0,1,0,39
+30,0,1,East,South,Customer Visit,0,0,1,0,0,1,0,77
+30,1,0,East,North,Customer Visit,0,0,0,1,0,1,0,72
+30,1,0,East,West,Customer Visit,0,0,0,1,0,1,0,29
+30,1,1,East,West,Customer Visit,0,0,0,1,1,0,0,70
+30,1,0,East,West,Temporary Site,0,0,1,0,0,1,0,76
+30,1,0,East,South,Meeting,0,0,1,0,0,1,0,20
+30,1,1,East,West,Meeting,1,0,1,0,0,1,0,26
+30,1,0,East,West,Customer Visit,1,1,0,0,1,0,0,27
+30,1,0,East,West,Meeting,1,0,0,1,0,1,0,28
+30,1,1,East,East,Meeting,1,0,1,0,0,1,0,23
+30,0,0,East,North,Meeting,1,0,1,0,0,1,0,28
+20,1,0,East,North,Errand/Supplies,1,1,0,0,0,1,0,33
+20,1,0,East,North,Meal/Entertain,1,0,0,1,0,1,0,76
+20,1,0,South,North,Errand/Supplies,1,0,1,0,0,1,0,54
+20,1,0,East,North,Customer Visit,1,1,0,0,0,1,0,38
+20,1,0,East,North,Customer Visit,1,0,1,0,0,1,0,47
+20,1,0,East,North,Customer Visit,1,0,1,0,0,1,0,33
+20,1,1,West,North,Meal/Entertain,1,0,0,1,0,0,1,76
+20,0,0,East,North,Meeting,1,0,1,0,0,0,1,28
+20,0,0,East,South,Errand/Supplies,1,1,0,0,0,0,1,64
+20,0,0,East,North,Errand/Supplies,1,1,0,0,0,0,1,76
+20,1,0,East,North,Errand/Supplies,1,0,1,0,0,0,1,53
+20,0,1,West,North,Meal/Entertain,1,0,0,1,0,0,1,45
+20,1,1,East,South,Meal/Entertain,1,0,1,1,0,0,1,23
+20,0,1,East,North,Meal/Entertain,1,0,0,1,0,0,1,23
+20,0,0,East,North,Meal/Entertain,1,0,0,1,1,0,0,64
+62,1,0,East,North,Meeting,1,1,0,0,1,0,0,49
+62,0,1,South,East,Meeting,1,0,1,0,1,0,0,33
+62,1,0,East,North,Meeting,1,0,1,0,1,0,0,45
+62,0,0,East,North,Meeting,1,0,1,0,1,0,0,76
+62,1,1,East,North,Between Offices,1,0,0,1,1,0,0,76
+62,0,0,East,North,Errand/Supplies,1,0,0,1,1,0,0,53
+62,1,0,East,North,Meal/Entertain,1,0,0,1,0,1,0,76
+62,0,1,West,North,Errand/Supplies,1,1,0,0,0,1,0,54
+62,1,0,East,North,Customer Visit,1,1,0,0,0,1,0,38
+62,1,0,East,South,Temporary Site,1,0,1,0,0,1,0,64
+62,0,0,East,North,Meeting,1,1,0,0,0,1,0,49
+35,0,1,East,North,Meal/Entertain,1,1,0,0,0,1,0,33
+40,0,1,East,North,Meal/Entertain,1,1,0,0,0,1,0,20
+25,1,0,East,East,Meal/Entertain,1,0,0,1,0,1,0,26
+20,0,0,East,North,Meeting,1,0,1,0,0,1,0,27
+19,0,1,East,North,Meeting,1,0,1,0,0,1,0,28
+20,0,0,East,South,Meeting,1,0,0,1,0,1,0,38
+40,0,0,East,North,Meal/Entertain,1,0,0,1,0,1,0,67
+60,0,0,South,North,Meal/Entertain,1,0,0,1,0,1,0,70
+63,1,0,East,North,Meal/Entertain,1,0,0,1,0,1,0,80
+40,0,0,East,West,Meal/Entertain,1,0,0,1,0,1,0,27
+40,1,0,East,North,Temporary Site,1,0,0,1,0,1,0,28
+40,1,1,West,North,Temporary Site,1,0,0,1,0,0,1,23
+40,1,1,East,West,Temporary Site,1,0,0,1,0,0,1,33
+40,1,1,East,South,Temporary Site,1,0,0,1,0,0,1,76
+40,1,0,West,North,Customer Visit,1,0,0,1,0,0,1,54
+40,1,0,East,North,Meeting,1,0,0,1,0,0,1,38
+40,1,1,East,South,Meeting,1,0,0,1,0,0,1,42
+40,1,0,East,North,Customer Visit,1,0,0,1,0,0,1,38
+14,0,0,East,North,Meeting,1,0,0,1,0,0,1,36
+40,1,1,North,South,Meal/Entertain,1,0,0,1,0,0,1,53
+40,1,0,North,South,Meal/Entertain,1,0,0,1,0,0,1,45
+40,1,0,North,South,Meeting,1,0,0,1,0,1,0,23
+40,0,1,North,East,Meeting,1,1,0,0,0,1,0,23
+40,0,0,North,South,Meeting,1,0,1,0,0,0,1,36
+40,0,0,West,South,Meeting,1,0,0,1,0,1,0,23
+40,0,0,North,West,Customer Visit,1,0,0,1,0,1,0,29
+40,0,1,North,South,Meal/Entertain,1,0,0,1,0,1,0,33
+40,0,0,East,East,Meeting,1,0,0,1,0,1,0,39
+40,0,0,North,South,Meal/Entertain,1,0,0,1,0,1,0,20
+40,0,0,North,South,Meeting,1,0,0,1,1,0,0,26
+40,1,0,South,North,Temporary Site,1,0,0,1,0,1,0,27
+25,1,1,West,North,Customer Visit,1,0,0,1,0,1,0,28
+40,1,1,South,East,Meal/Entertain,1,0,0,1,0,1,0,23
+40,1,1,South,North,Errand/Supplies,1,0,0,1,0,1,0,36
+40,1,0,South,North,Temporary Site,1,0,0,1,0,1,0,23
+40,0,0,South,North,Meal/Entertain,1,0,0,1,0,1,0,29
+40,1,0,South,North,Temporary Site,1,0,0,1,0,1,0,33
+40,1,0,South,East,Errand/Supplies,1,0,0,1,0,1,0,39
+40,0,1,East,East,Temporary Site,1,0,1,0,0,1,0,44
+40,0,1,West,East,Temporary Site,1,0,1,0,0,1,0,46
+40,0,1,West,East,Temporary Site,1,0,1,0,0,1,0,28
+20,0,0,West,East,Customer Visit,1,0,1,0,0,1,0,33
+40,1,0,South,East,Meeting,1,0,1,0,1,0,0,55
+40,0,1,North,East,Meeting,1,0,1,0,19,1,0,19
+40,0,0,North,East,Meeting,1,0,1,0,25,1,0,25
+40,0,0,South,East,Meeting,1,0,1,0,35,1,0,35
+40,0,0,East,East,Meal/Entertain,1,1,0,0,1,0,0,55
+40,0,0,North,East,Meeting,1,1,0,0,45,1,0,45
+40,0,0,South,East,Temporary Site,1,1,0,0,37,1,0,37
+40,1,1,South,East,Meal/Entertain,1,1,0,0,26,1,0,26
+40,1,1,South,South,Meeting,1,1,0,0,77,1,0,77
+75,1,1,South,South,Meeting,1,1,0,0,57,1,0,57
+75,1,0,South,West,Meal/Entertain,1,1,0,0,67,0,1,67
+75,1,0,South,West,Meal/Entertain,1,1,0,0,29,1,0,29
+75,1,1,South,West,Meeting,1,1,0,0,31,1,0,31
+75,1,0,South,South,Meal/Entertain,1,1,0,0,35,1,0,35
+60,0,0,South,North,Meal/Entertain,1,0,1,0,38,1,0,38
+75,1,1,South,North,Meeting,1,0,0,1,1,1,0,39
+75,1,0,South,North,Meeting,1,0,0,1,40,1,0,40
+75,1,0,South,South,Errand/Supplies,1,0,1,0,62,1,0,62
+75,0,1,South,South,Errand/Supplies,1,0,1,0,43,0,0,43
+75,0,0,South,East,Meeting,1,1,0,0,23,1,0,23
+65,0,0,South,East,Errand/Supplies,1,1,0,0,29,0,1,29
+65,0,0,South,South,Errand/Supplies,1,0,0,1,33,0,1,33
+65,0,0,South,South,Meal/Entertain,1,0,1,0,39,0,1,39
+19,1,0,West ,East,Temporary Site,1,0,0,1,23,1,0,23
+65,0,0,South,East,Temporary Site,1,1,0,0,33,1,0,33
+65,1,0,North,East,Temporary Site,1,0,1,0,76,1,0,76
+65,1,0,North,East,Temporary Site,1,0,0,1,28,1,0,28
+24,1,1,North,East,Meal/Entertain,1,0,1,0,38,1,0,38
+24,0,1,West,East,Meal/Entertain,1,0,1,0,1,0,1,76
+24,1,1,North,North,Meeting,1,0,0,1,1,0,1,28
+24,0,0,North,East,Customer Visit,1,0,1,0,1,0,1,64
+24,1,0,East,South,Meal/Entertain,1,1,0,0,1,0,1,76
+24,0,1,North,East,Errand/Supplies,1,1,0,0,1,0,1,53
+24,1,0,West,East,Errand/Supplies,1,0,0,1,1,0,1,45
+24,0,0,North,South,Errand/Supplies,1,0,1,0,1,0,1,23
+24,1,1,South,South,Meal/Entertain,1,0,1,0,1,0,1,38
+24,1,0,North,South,Meal/Entertain,1,0,0,1,0,0,1,33
+20,0,0,North,South,Meal/Entertain,1,0,0,1,1,0,1,20
+20,0,1,East,North,Meal/Entertain,1,0,0,1,1,0,1,26
+20,0,0,North,West,Meeting,1,0,0,1,1,0,0,27
+20,0,0,North,South,Meeting,1,0,0,1,1,0,0,28
+20,0,0,North,South,Meal/Entertain,1,0,0,1,1,1,0,38
+20,0,0,West,West,Meal/Entertain,1,0,0,1,1,0,0,29
+16,0,1,West,South,Customer Visit,1,0,0,1,1,0,0,33
+20,0,1,West,South,Meeting,1,0,0,1,1,0,1,39
+20,0,1,West,South,Meeting,1,0,0,1,1,0,0,44
+27,0,0,West,North,Meal/Entertain,1,0,0,1,1,0,0,46
+20,0,0,West,South,Meeting,1,0,0,1,1,0,0,28
+26,0,1,East,South,Meeting,0,0,1,0,1,0,0,33
+20,0,0,North,East,Meal/Entertain,0,1,0,0,1,0,0,57
+20,1,0,West,South,Customer Visit,0,0,1,0,1,0,0,67
+29,1,0,West,North,Meal/Entertain,0,0,1,0,1,0,1,29
+20,1,0,West,South,Meeting,0,0,1,0,0,0,1,31
+20,1,0,South,South,Meal/Entertain,0,0,1,0,1,0,1,55
+20,1,1,West,South,Errand/Supplies,0,0,1,0,1,0,1,32
+16,0,1,East,North,Meal/Entertain,1,1,0,0,0,0,1,27
+16,0,1,West,West,Customer Visit,1,1,0,0,1,0,0,53
+16,0,0,West,South,Meeting,1,1,0,0,1,0,1,45
+16,0,0,North,South,Meeting,1,1,0,0,1,0,1,23
+16,0,1,West,East,Customer Visit,0,1,0,0,1,0,1,80
+16,1,0,West,South,Meeting,0,1,0,0,0,0,1,38
+16,0,0,West,South,Meeting,0,0,1,0,1,0,1,76
+30,0,1,East,West,Customer Visit,0,0,1,0,1,0,1,37
+30,0,0,North,South,Meal/Entertain,0,0,1,0,1,0,1,28
+30,1,0,West,South,Errand/Supplies,0,0,0,1,1,0,1,64
+30,0,0,West,South,Meeting,0,0,0,1,1,1,0,72
+30,1,0,East,South,Temporary Site,0,0,0,1,1,0,1,29
+18,0,0,West,North,Meal/Entertain,0,0,0,1,1,1,0,70
+30,0,0,East,North,Meal/Entertain,0,0,0,1,1,1,0,76
+30,1,1,West,South,Temporary Site,0,0,1,0,1,0,0,20
+30,1,1,West,North,Temporary Site,0,0,1,0,1,1,0,26
+10,0,1,East,South,Meal/Entertain,0,0,1,0,1,1,0,33
+30,1,0,West,North,Meal/Entertain,0,1,0,0,1,0,0,33
+30,0,1,East,West,Meal/Entertain,0,0,1,0,1,1,0,46

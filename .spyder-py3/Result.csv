@@ -1,0 +1,1157 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE,Days,Gender,Status ,Rider Age,Fare,Ride_Duration
+1/1/2016 21:11,1/1/2016 21:17,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain,WEEKEND,Male,Cancelled,25,4,20
+1/2/2016 1:25,1/2/2016 1:37,Business,Fort Pierce,Fort Pierce,5,Other,WEEKEND,Male,On-time,26,12,60
+1/2/2016 20:25,1/2/2016 20:38,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies,WEEKEND,Male,On-time,25,8,40
+1/5/2016 17:31,1/5/2016 17:45,Business,Fort Pierce,Fort Pierce,4.7,Meeting,WEEKEND,Female,On-time,35,20,70
+1/6/2016 14:42,1/6/2016 15:49,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit,WEEKEND,Female,Cancelled,25,16,20
+1/6/2016 17:15,1/6/2016 17:19,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain,WEEKEND,Male,Cancelled,36,28,25
+1/6/2016 17:30,1/6/2016 17:35,Business,West Palm Beach,Palm Beach,7.1,Meeting,WEEKEND,Male,Cancelled,23,24,35
+1/7/2016 13:27,1/7/2016 13:33,Business,Chicago Downtown,Chicago Downtown,0.8,Meeting,WEEKEND,Male,Cancelled,29,36,44
+1/10/2016 8:05,1/10/2016 8:25,Business,Chicago Downtown,Chicago Suburb,8.3,Meeting,WEEKEND,Male,Cancelled,33,32,10
+1/10/2016 12:17,1/10/2016 12:44,Business,Richmond Downtown,Richmond hindu temple,16.5,Customer Visit,WEEKEND,Female,Cancelled,39,40,30
+1/10/2016 15:08,1/10/2016 15:51,Business,Richmond hindu temple,Richmond Downtown,10.8,Meeting,WEEKEND,Female,On-time,44,4,15
+1/10/2016 18:18,1/10/2016 18:53,Business,Richmond Downtown,Richmond hindu temple,7.5,Meeting,WEEKDAY,Female,On-time,46,12,20
+1/10/2016 19:12,1/10/2016 19:32,Business,Boston Downtown,Boston Tea Party,6.2,Meeting,WEEKDAY,Female,On-time,28,8,23
+1/11/2016 8:55,1/11/2016 9:21,Business,Dallas Downtown,Dallas airport,6.4,Temporary Site,WEEKDAY,Female,On-time,33,20,40
+1/11/2016 11:56,1/11/2016 12:03,Business,Dallas airport,Dallas Downtown,1.6,Errand/Supplies,WEEKDAY,Female,On-time,55,16,42
+1/11/2016 13:32,1/11/2016 13:46,Business,Boston Downtown,Boston Downtown East,1.7,Meal/Entertain,WEEKDAY,Female,On-time,32,28,60
+1/11/2016 14:30,1/11/2016 14:43,Business,Boston Downtown East,Boston Downtown,1.9,Meal/Entertain,WEEKEND,Female,On-time,27,24,60
+1/12/2016 12:33,1/12/2016 12:49,Business,Boston Downtown,Boston Tea Party,1.9,Meal/Entertain,WEEKEND,Male,On-time,53,36,60
+1/12/2016 12:53,1/12/2016 13:09,Business,New york Downtown,Newyork timesquare,4,Meal/Entertain,WEEKEND,Male,On-time,45,32,60
+1/12/2016 14:42,1/12/2016 14:56,Business,Newyork timesquare,New york Downtown,1.8,Errand/Supplies,WEEKEND,Female,On-time,23,40,70
+1/12/2016 15:13,1/12/2016 15:28,Business,New york Downtown,Boston tea party,2.4,Customer Visit,WEEKEND,Female,Cancelled,23,4,70
+1/12/2016 15:42,1/12/2016 15:54,Business,Boston tea party,Boston Downtown,2,Errand/Supplies,WEEKEND,Female,Delay,23,12,30
+1/12/2016 16:02,1/12/2016 17:00,Business,Richmond hindu temple,Richmond Downtown,15.1,Meeting,WEEKEND,Male,On-time,46,8,72
+1/13/2016 13:54,1/13/2016 14:07,Business,LA Downtown,LA Downtown,11.2,Meeting,WEEKEND,Male,Cancelled,55,20,40
+1/13/2016 15:00,1/13/2016 15:28,Business,LA Downtown,LA Downtown,11.8,Meeting,WEEKEND,Male,Cancelled,55,16,50
+1/14/2016 16:29,1/14/2016 17:05,Business,Miami beach,Miami beach,21.9,Customer Visit,WEEKEND,Male,Cancelled,33,28,50
+1/14/2016 21:39,1/14/2016 21:45,Business,Newjersey Airport,Newjersey Downtown,3.9,Errand/Supplies,WEEKEND,Male,On-time,46,24,50
+1/15/2016 0:41,1/15/2016 1:01,Business,Chicago Suburb,Chicago Downtown,8,Errand/Supplies,WEEKEND,Male,On-time,55,36,50
+1/15/2016 11:43,1/15/2016 12:03,Business,Chicago Downtown,Chicago Suburb,10.4,Meal/Entertain,WEEKEND,Male,On-time,33,32,50
+1/15/2016 13:26,1/15/2016 13:44,Business,Chicago Suburb,Chicago Downtown,10.4,Meal/Entertain,WEEKEND,Male,On-time,33,40,50
+1/18/2016 14:55,1/18/2016 15:06,Business,Chicago Downtown,Chicago Downtown,4.8,Meal/Entertain,WEEKEND,Female,On-time,46,4,50
+1/18/2016 16:13,1/18/2016 16:24,Business,LA Amtrak station,LA Downtown,4.7,Meal/Entertain,WEEKEND,Male,On-time,36,12,50
+1/19/2016 9:09,1/19/2016 9:23,Business,LA Downtown,LA Amtrak station,7.2,Other,WEEKEND,Male,On-time,35,8,50
+1/19/2016 10:55,1/19/2016 11:09,Business,LA Amtrak station,LA Downtown,7.6,Temporary Site,WEEKDAY,Male,On-time,33,20,45
+1/20/2016 10:36,1/20/2016 11:11,Business,Chicago Downtown,Chicago suburb,17.1,Meeting,WEEKEND,Female,On-time,42,16,45
+1/20/2016 11:48,1/20/2016 12:19,Business,Dallas Downtown,Dallas airport,15.1,Meeting,WEEKEND,Female,On-time,38,28,45
+1/20/2016 13:25,1/20/2016 14:19,Business,Chicago suburb,Chicago Downtown,40.2,Customer Visit,WEEKEND,Female,On-time,36,24,45
+1/21/2016 14:25,1/21/2016 14:29,Business,Chicago Downtown,Chicago Downtown,1.6,Errand/Supplies,WEEKEND,Female,On-time,38,36,45
+1/21/2016 14:43,1/21/2016 14:51,Business,Chicago Downtown,Chicago Downtown,2.4,Meal/Entertain,WEEKEND,Female,On-time,67,32,45
+1/21/2016 16:01,1/21/2016 16:06,Business,Chicago Downtown,Chicago Downtown,1,Meal/Entertain,WEEKEND,Female,On-time,70,40,45
+1/26/2016 10:41,1/26/2016 10:50,Business,LA Downtown,LA Amtrak station,2,Meal/Entertain,WEEKEND,Female,On-time,80,4,45
+1/26/2016 12:33,1/26/2016 12:41,Business,LA Amtrak station,LA Downtown,2.3,Errand/Supplies,WEEKEND,Female,On-time,38,12,45
+1/26/2016 16:24,1/26/2016 16:32,Business,LA Downtown,Westpark Place,1.9,Errand/Supplies,WEEKEND,Female,On-time,76,8,45
+1/26/2016 17:17,1/26/2016 17:22,Business,Chicago Downtown,Chicago Downtown,1.4,Errand/Supplies,WEEKEND,Female,On-time,37,20,45
+1/26/2016 17:27,1/26/2016 17:29,Business,Chicago Downtown,Chicago Downtown,0.5,Errand/Supplies,WEEKEND,Female,Cancelled,28,16,30
+1/27/2016 9:24,1/27/2016 9:31,Business,Chicago Downtown,Chicago Downtown,1.8,Meeting,WEEKEND,Female,Cancelled,64,28,30
+1/27/2016 10:19,1/27/2016 10:48,Business,Chicago Downtown,Chicago Suburb,18.7,Customer Visit,WEEKEND,Female,Delay,39,24,30
+1/27/2016 12:34,1/27/2016 12:44,Business,Boston Downtown,Boston tea Party,3.4,Customer Visit,WEEKEND,Female,Delay,77,36,30
+1/27/2016 14:05,1/27/2016 14:13,Business,Dallas Downtown,Dallas Downtown,2.7,Customer Visit,WEEKEND,Female,On-time,72,32,30
+1/27/2016 14:46,1/27/2016 15:08,Business,Chicago Downtown,Chicago Downtown,12.9,Customer Visit,WEEKDAY,Female,On-time,29,40,30
+1/28/2016 12:28,1/28/2016 13:00,Business,Chicago Downtown,Raleigh,19,Temporary Site,WEEKDAY,Female,On-time,70,4,30
+1/28/2016 15:11,1/28/2016 15:31,Business,West Palm Beach,West Palm Beach,14.7,Meeting,WEEKDAY,Female,On-time,76,12,30
+1/28/2016 16:21,1/28/2016 16:51,Business,Chicago Downtown,Chicago Downtown,15.7,Meeting,WEEKDAY,Male,UNKNOWN,20,8,30
+1/29/2016 9:31,1/29/2016 9:45,Business,Chicago Downtown,Chicago Downtown,4.6,Customer Visit,WEEKDAY,Male,UNKNOWN,26,20,30
+1/29/2016 10:56,1/29/2016 11:07,Business,Chicago Downtown,Chicago Downtown,5.2,Meeting,WEEKEND,Male,UNKNOWN,27,16,30
+1/29/2016 11:43,1/29/2016 12:03,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKEND,Male,UNKNOWN,28,28,30
+1/29/2016 13:24,1/29/2016 13:47,Business,Chicago Downtown,Chicago Downtown,10.1,Meeting,WEEKDAY,Male,UNKNOWN,23,24,30
+1/29/2016 18:31,1/29/2016 18:52,Business,Chicago Downtown,Apex,5.8,Errand/Supplies,WEEKDAY,Male,UNKNOWN,28,36,20
+1/29/2016 21:21,1/29/2016 21:40,Business,Chicago Downtown,Chicago Downtown,5.5,Meal/Entertain,WEEKDAY,Male,UNKNOWN,33,32,20
+1/30/2016 16:21,1/30/2016 16:33,Business,Chicago Downtown,Apex,5.7,Errand/Supplies,WEEKDAY,Male,On-time,76,40,20
+1/30/2016 18:09,1/30/2016 18:24,Business,Chicago Downtown,Chicago Downtown,5.7,Customer Visit,WEEKDAY,Male,On-time,54,4,20
+2/1/2016 10:35,2/1/2016 11:15,Business,Chicago Downtown,Chapel Hill,19.4,Customer Visit,WEEKEND,Male,On-time,38,12,20
+2/1/2016 12:10,2/1/2016 12:43,Business,Milwaukee Downtown,Milwaukee Downtown,23.3,Customer Visit,WEEKEND,Male,On-time,47,8,20
+2/1/2016 12:56,2/1/2016 13:07,Business,LA amtrak station,LA Downtown,3.9,Meal/Entertain,WEEKDAY,Male,On-time,33,20,20
+2/2/2016 13:04,2/2/2016 13:23,Business,LA Downtown,Williamsburg Manor,8.3,Meeting,WEEKDAY,Male,On-time,76,16,20
+2/2/2016 13:51,2/2/2016 14:06,Business,Chicago Downtown,Chicago Downtown,6,Errand/Supplies,WEEKDAY,Male,On-time,28,28,20
+2/2/2016 14:38,2/2/2016 14:42,Business,Chicago Downtown,Chicago Downtown,1.6,Errand/Supplies,WEEKDAY,Male,On-time,64,24,20
+2/4/2016 8:40,2/4/2016 9:01,Business,Chicago Downtown,Chicago Suburb,5.2,Errand/Supplies,WEEKDAY,Male,On-time,76,36,20
+2/4/2016 9:37,2/4/2016 10:09,Business,Chicago Suburb,Chicago Downtown,9.7,Meal/Entertain,WEEKEND,Male,On-time,53,32,20
+2/4/2016 10:26,2/4/2016 10:32,Business,Chicago Downtown,Chicago Downtown,1.6,Meal/Entertain,WEEKEND,Male,On-time,45,40,20
+2/4/2016 15:59,2/4/2016 16:03,Business,Chicago Downtown,Chicago Downtown,1.1,Meal/Entertain,WEEKDAY,Male,On-time,23,4,20
+2/4/2016 16:35,2/4/2016 16:39,Business,Chicago Downtown,Chicago Downtown,1.6,Meal/Entertain,WEEKDAY,Male,On-time,23,12,20
+2/4/2016 18:04,2/4/2016 18:31,Business,LA Downtown,Macgregor Downs,9,Meeting,WEEKDAY,Male,On-time,64,8,62
+2/4/2016 20:36,2/4/2016 20:55,Business,Chicago Downtown,Chicago Downtown,7.7,Meeting,WEEKDAY,Male,On-time,49,20,62
+2/5/2016 11:47,2/5/2016 12:07,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKDAY,Male,On-time,33,16,62
+2/5/2016 13:22,2/5/2016 13:41,Business,Chicago Downtown,Chicago Downtown,10.4,Meeting,WEEKEND,Male,On-time,45,28,62
+2/6/2016 16:20,2/6/2016 16:53,Business,Chicago Downtown,Raleigh,11.4,Between Offices,WEEKEND,Male,On-time,76,24,62
+2/6/2016 18:57,2/6/2016 19:21,Business,Chicago Downtown,Chicago Downtown,9,Errand/Supplies,WEEKDAY,Male,On-time,76,36,62
+2/6/2016 19:28,2/6/2016 19:37,Business,LA Downtown,LA Downtown,3.2,Meal/Entertain,WEEKDAY,Male,On-time,53,32,62
+2/7/2016 16:49,2/7/2016 17:01,Business,Chicago Downtown,Apex,5.6,Errand/Supplies,WEEKDAY,Male,On-time,76,40,62
+2/7/2016 18:03,2/7/2016 18:17,Business,Chicago Downtown,Chicago Downtown,5.7,Customer Visit,WEEKDAY,Male,On-time,54,4,62
+2/7/2016 18:39,2/7/2016 18:53,Business,Chicago Downtown,Chicago Suburb,6.1,Temporary Site,WEEKDAY,Male,On-time,38,12,62
+2/7/2016 20:22,2/7/2016 20:40,Business,Chicago Suburb,Chicago Downtown,6.1,Meeting,WEEKEND,Male,On-time,64,8,62
+2/8/2016 12:57,2/8/2016 13:08,Business,LA Downtown,Edgehill Farms,4.3,Meal/Entertain,WEEKEND,Male,On-time,49,20,35
+2/8/2016 14:00,2/8/2016 14:10,Business,LA Downtown,LA Downtown,2.7,Meal/Entertain,WEEKDAY,Male,On-time,33,16,40
+2/9/2016 10:54,2/9/2016 11:07,Personal,LA Downtown,Northwoods,5.3,Other,WEEKDAY,Male,On-time,20,28,25
+2/9/2016 11:43,2/9/2016 11:50,Personal,Newjersey Airport,Newjersey Downtown,3,Other,WEEKDAY,Male,On-time,26,24,20
+2/9/2016 13:36,2/9/2016 13:52,Personal,Chicago Suburb,Chicago Suburb,5.1,Other,WEEKDAY,Male,On-time,27,36,19
+2/9/2016 13:58,2/9/2016 14:02,Personal,LA Downtown,LA Downtown,1.5,Other,WEEKDAY,Male,On-time,28,32,20
+2/9/2016 18:55,2/9/2016 19:11,Business,Chicago Downtown,Chicago Suburb,6.1,Other,WEEKEND,Male,On-time,38,40,40
+2/9/2016 20:24,2/9/2016 20:40,Business,Chicago Suburb,Chicago Downtown,6.1,Meal/Entertain,WEEKEND,Male,On-time,67,4,60
+2/11/2016 16:28,2/11/2016 17:10,Business,Chicago Downtown,Raleigh,17.3,Meal/Entertain,WEEKDAY,Male,On-time,70,12,63
+2/11/2016 17:49,2/11/2016 18:10,Business,LA Downtown,LA Downtown,5.7,Meal/Entertain,WEEKDAY,Male,On-time,80,8,40
+2/11/2016 18:24,2/11/2016 18:46,Business,Chicago Downtown,Chicago Downtown,13.5,Temporary Site,WEEKDAY,Male,On-time,27,20,40
+2/11/2016 20:36,2/11/2016 20:51,Business,Chicago Suburb,Chicago Downtown,6.1,Temporary Site,WEEKDAY,Male,On-time,28,16,40
+2/12/2016 8:21,2/12/2016 8:42,Business,Chicago Downtown,Durham,8.5,Temporary Site,WEEKDAY,Male,On-time,23,28,40
+2/12/2016 10:45,2/12/2016 10:52,Business,Chicago Downtown,Chicago Suburb,2.6,Temporary Site,WEEKEND,Male,On-time,33,24,40
+2/12/2016 11:14,2/12/2016 11:35,Business,Chicago Suburb,Raleigh,17,Customer Visit,WEEKEND,Male,On-time,76,36,40
+2/12/2016 13:02,2/12/2016 13:36,Business,Chicago Downtown,Chicago Downtown,18,Meeting,WEEKDAY,Male,On-time,54,32,40
+2/12/2016 14:49,2/12/2016 15:06,Business,Chicago Downtown,Chicago Suburb,8.4,Meeting,WEEKDAY,Male,On-time,38,40,40
+2/12/2016 15:33,2/12/2016 16:06,Business,Chicago Suburb,Chicago Downtown,11.5,Customer Visit,WEEKDAY,Male,On-time,42,4,40
+2/13/2016 14:21,2/13/2016 14:41,Business,Chicago Downtown,Chicago Suburb,8.9,Meeting,WEEKEND,Male,On-time,38,12,14
+2/13/2016 23:45,2/14/2016 0:01,Personal,LA Downtown,LA amtrak station,2.7,Other,WEEKEND,Male,On-time,36,8,40
+2/14/2016 0:50,2/14/2016 1:00,Personal,Richmond hindu temple ,Richmond Downtown,1.8,Other,WEEKEND,Male,On-time,53,20,40
+2/14/2016 14:07,2/14/2016 14:40,Business,LA Downtown,LA amtrak station,8.1,Meeting,WEEKEND,Male,On-time,45,16,40
+2/14/2016 14:46,2/14/2016 15:03,Business,Boston Downtown,Boston Downtown West,2,Meeting,WEEKEND,Male,On-time,23,28,40
+2/14/2016 16:35,2/14/2016 17:02,Business,Richmond hindu temple,Long Island City,13,Meeting,WEEKEND,Male,On-time,23,24,40
+2/14/2016 17:06,2/14/2016 17:29,Business,NewYork Downtown,NewYork Downtown,13.9,Meeting,WEEKDAY,Male,On-time,36,36,40
+2/16/2016 3:21,2/16/2016 4:13,Business,Dallas Airport,Dallas Downtown,43.7,Customer Visit,WEEKDAY,Male,On-time,23,32,40
+2/16/2016 8:29,2/16/2016 9:34,Business,Chicago Suburb,Chicago Suburb,14.1,Other,WEEKDAY,Male,On-time,29,40,40
+2/16/2016 10:31,2/16/2016 10:41,Business,Milwaukee Downtown,Milwaukee Downtown,2.6,Other,WEEKDAY,Male,On-time,33,4,40
+2/16/2016 11:32,2/16/2016 12:02,Business,Milwaukee Downtown,Milwaukee Downtown,4.5,Other,WEEKDAY,Male,On-time,39,12,40
+2/16/2016 12:39,2/16/2016 12:42,Business,Milwaukee Downtown,Milwaukee Downtown,1.7,Other,WEEKEND,Male,On-time,20,8,40
+2/16/2016 13:43,2/16/2016 13:55,Business,Milwaukee Downtown,Milwaukee Downtown,1.8,Temporary Site,WEEKEND,Male,On-time,26,20,40
+2/16/2016 16:34,2/16/2016 17:10,Business,Milwaukee Downtown,Milwaukee Downtown,6,Other,WEEKDAY,Male,On-time,27,16,25
+2/16/2016 17:17,2/16/2016 17:26,Business,Milwaukee Downtown,Milwaukee Downtown,1.1,Meal/Entertain,WEEKDAY,Male,On-time,28,28,40
+2/16/2016 17:40,2/16/2016 17:44,Business,Newjersey Airport,Newjersey Downtown,3.6,Errand/Supplies,WEEKDAY,Male,On-time,23,24,40
+2/17/2016 13:18,2/17/2016 14:04,Business,Chicago Suburb,Chicago Suburb,14.7,Temporary Site,WEEKDAY,Male,On-time,36,36,40
+2/17/2016 15:17,2/17/2016 15:22,Business,Milwaukee Downtown,Milwaukee Downtown,1.7,Meal/Entertain,WEEKDAY,Male,On-time,23,32,40
+2/17/2016 15:33,2/17/2016 16:17,Business,Milwaukee Downtown,Milwaukee Downtown,21.4,Temporary Site,WEEKEND,Male,On-time,29,40,40
+2/17/2016 16:38,2/17/2016 16:43,Business,Dallas Airport,Dallas Downtown,0.5,Errand/Supplies,WEEKEND,Male,On-time,33,4,40
+2/18/2016 8:19,2/18/2016 8:27,Business,Chicago Suburb,Chicago Suburb,23.5,Temporary Site,WEEKDAY,Male,On-time,39,12,40
+2/18/2016 14:03,2/18/2016 14:45,Business,Chicago Suburb,Chicago Suburb,12.7,Temporary Site,WEEKDAY,Male,On-time,44,8,40
+2/18/2016 15:16,2/18/2016 15:31,Business,Richmond hindu temple ,Richmond Downtown,6,Temporary Site,WEEKDAY,Male,On-time,46,20,40
+2/18/2016 18:44,2/18/2016 18:58,Business,Chicago Suburb,Chicago Suburb,5.2,Customer Visit,WEEKDAY,Male,On-time,28,16,20
+2/18/2016 19:27,2/18/2016 20:08,Business,Richmond hindu temple ,Richmond Downtown,10,Meeting,WEEKDAY,Male,On-time,33,28,40
+2/19/2016 9:02,2/19/2016 9:14,Business,Chicago Suburb,Chicago Suburb,18.3,Meeting,WEEKEND,Male,On-time,55,24,40
+2/19/2016 9:21,2/19/2016 9:51,Business,Chicago Suburb,Chicago Suburb,11.2,Meeting,WEEKEND,Male,On-time,19,36,40
+2/19/2016 10:21,2/19/2016 10:48,Business,Chicago Suburb,Chicago Suburb,7.6,Meeting,WEEKDAY,Male,On-time,25,32,40
+2/19/2016 11:20,2/19/2016 11:26,Personal,Richmond hindu temple ,Richmond Downtown,1.5,Other,WEEKDAY,Male,On-time,35,40,40
+2/19/2016 11:45,2/19/2016 11:50,Personal,Richmond hindu temple ,Richmond Downtown,1,Other,WEEKDAY,Male,On-time,55,4,40
+2/19/2016 12:09,2/19/2016 12:27,Business,Richmond hindu temple ,Richmond Downtown,7.3,Temporary Site,WEEKDAY,Male,On-time,45,12,40
+2/19/2016 16:26,2/19/2016 16:45,Business,Chicago Suburb,Chicago Suburb,3.5,Other,WEEKDAY,Male,On-time,37,8,40
+2/19/2016 17:09,2/19/2016 17:20,Business,Richmond hindu temple ,Richmond Downtown,4.2,Other,WEEKEND,Male,On-time,26,20,40
+2/19/2016 20:08,2/19/2016 20:30,Personal,Richmond hindu temple ,Richmond Downtown,13.6,Other,WEEKEND,Male,On-time,77,16,75
+2/19/2016 20:34,2/19/2016 20:51,Personal,Chicago Suburb,Chicago Suburb,2.5,Other,WEEKDAY,Male,On-time,57,28,75
+2/20/2016 7:59,2/20/2016 8:32,Personal,Chicago Suburb,Chicago Suburb,14.4,Other,WEEKDAY,Male,On-time,67,24,75
+2/20/2016 10:48,2/20/2016 10:56,Personal,Richmond hindu temple ,Richmond Downtown,3,Other,WEEKDAY,Male,On-time,29,36,75
+2/20/2016 11:45,2/20/2016 11:53,Personal,Richmond hindu temple ,Richmond Downtown,1.5,Other,WEEKDAY,Male,On-time,31,32,75
+2/20/2016 12:41,2/20/2016 13:17,Business,Richmond hindu temple ,Richmond Downtown,18.4,Other,WEEKDAY,Male,On-time,35,40,60
+2/20/2016 14:50,2/20/2016 15:54,Business,Chicago Downtown,Chicago Downtown,23.1,Meeting,WEEKEND,Male,On-time,38,4,75
+2/20/2016 16:59,2/20/2016 17:54,Personal,Chicago Downtown,Chicago Downtown,16.5,Other,WEEKEND,Male,On-time,39,12,75
+2/20/2016 18:00,2/20/2016 18:03,Business,Chicago Suburb,Chicago Suburb,3.2,Errand/Supplies,WEEKDAY,Male,On-time,40,8,75
+2/20/2016 19:28,2/20/2016 19:49,Business,Chicago Suburb,Chicago Suburb,7.7,Errand/Supplies,WEEKDAY,Male,On-time,62,20,75
+2/21/2016 9:07,2/21/2016 9:46,Business,Chicago Suburb,Chicago Suburb,14.5,Other,WEEKDAY,Male,On-time,43,16,75
+2/21/2016 11:39,2/21/2016 11:43,Business,Chicago Suburb,Chicago Suburb,2.4,Errand/Supplies,WEEKDAY,Male,On-time,23,28,65
+2/21/2016 11:47,2/21/2016 12:01,Business,Richmond hindu temple ,Richmond Downtown,4.6,Errand/Supplies,WEEKDAY,Male,On-time,29,24,65
+2/21/2016 12:13,2/21/2016 12:35,Business,Richmond hindu temple ,Richmond Downtown,8.8,Meal/Entertain,WEEKEND,Male,On-time,33,36,65
+2/21/2016 12:51,2/21/2016 13:12,Business,Chicago Suburb,Chicago Suburb,8.3,Temporary Site,WEEKEND,Male,On-time,39,32,19
+2/21/2016 13:33,2/21/2016 14:30,Business,Chicago Suburb,Chicago Suburb,22.7,Temporary Site,WEEKDAY,Male,On-time,23,40,65
+2/21/2016 14:36,2/21/2016 15:03,Business,Chicago Suburb,Chicago Suburb,13,Temporary Site,WEEKDAY,Male,On-time,33,4,65
+2/21/2016 15:14,2/21/2016 15:31,Business,Richmond hindu temple ,Richmond Downtown,8.1,Temporary Site,WEEKDAY,Male,On-time,76,12,65
+2/21/2016 15:36,2/21/2016 15:41,Business,Newjersey Airport,Newjersey Downtown,2.2,Meal/Entertain,WEEKDAY,Male,On-time,28,8,24
+2/21/2016 16:04,2/21/2016 16:32,Business,Chicago Suburb,Chicago Suburb,9.7,Other,WEEKDAY,Male,On-time,38,20,24
+2/21/2016 23:15,2/21/2016 23:52,Business,Chicago Suburb,Chicago Suburb,20,Meeting,WEEKEND,Male,On-time,76,16,24
+2/22/2016 21:54,2/22/2016 22:09,Business,Chicago Suburb,Chicago Downtown,8.1,Customer Visit,WEEKEND,Male,On-time,28,28,24
+2/24/2016 14:30,2/24/2016 14:35,Business,LA Downtown,Preston,1.5,Other,WEEKDAY,Male,On-time,64,24,24
+2/24/2016 15:19,2/24/2016 15:25,Business,LA Downtown,LA Downtown,1.7,Errand/Supplies,WEEKDAY,Male,On-time,76,36,24
+2/25/2016 16:27,2/25/2016 16:35,Business,LA Downtown,Heritage Pines,3.1,Errand/Supplies,WEEKDAY,Male,On-time,53,32,24
+2/25/2016 16:47,2/25/2016 17:02,Business,Richmond hindu temple ,Richmond Downtown,3.2,Errand/Supplies,WEEKDAY,Male,On-time,45,40,24
+2/25/2016 17:16,2/25/2016 17:36,Business,LA Downtown,Tanglewood,6,Meal/Entertain,WEEKDAY,Male,On-time,23,4,24
+2/25/2016 18:22,2/25/2016 18:39,Business,LA Downtown,LA Downtown,5.8,Meal/Entertain,WEEKEND,Male,On-time,38,12,24
+2/26/2016 9:06,2/26/2016 9:29,Business,LA Downtown,Westpark Place,6.3,Other,WEEKEND,Male,On-time,33,8,20
+2/26/2016 11:05,2/26/2016 11:11,Personal,LA amtrak station,LA Downtown,1.7,Other,WEEKDAY,Male,On-time,20,20,20
+2/26/2016 11:35,2/26/2016 11:59,Business,Chicago Downtown,Durham,10.6,Meeting,WEEKDAY,Male,On-time,26,16,20
+2/26/2016 13:01,2/26/2016 13:24,Business,Chicago Downtown,Chicago Downtown,9.9,Meeting,WEEKDAY,Male,On-time,27,28,20
+2/26/2016 14:38,2/26/2016 14:46,Personal,LA Downtown,Westpark Place,1.9,Other,WEEKDAY,Male,On-time,28,24,20
+2/26/2016 15:00,2/26/2016 15:18,Personal,LA amtrak station,LA Downtown,4.2,Other,WEEKDAY,Male,On-time,38,36,20
+2/26/2016 17:01,2/26/2016 17:12,Personal,Chicago Downtown,Chicago suburb,2,Other,WEEKEND,Male,On-time,29,32,16
+2/28/2016 5:22,2/28/2016 5:38,Business,LA Downtown,Waverly Place,7.7,Meeting,WEEKEND,Male,On-time,33,40,20
+2/28/2016 9:26,2/28/2016 9:42,Business,LA amtrak station,LA Downtown,6.8,Meeting,WEEKDAY,Male,On-time,39,4,20
+2/29/2016 11:07,2/29/2016 11:14,Personal,LA Downtown,Westpark Place,2.1,Other,WEEKDAY,Male,On-time,44,12,27
+2/29/2016 11:30,2/29/2016 11:40,Business,Chicago Downtown,Apex,3.8,Meeting,WEEKDAY,Male,On-time,46,8,20
+2/29/2016 12:36,2/29/2016 12:48,Business,Chicago Downtown,Chicago Downtown,5.6,Meeting,WEEKDAY,Female,On-time,28,20,26
+2/29/2016 14:55,2/29/2016 15:03,Business,LA Downtown,Hazelwood,2.6,Other,WEEKDAY,Female,On-time,33,16,20
+2/29/2016 16:40,2/29/2016 17:00,Business,Chicago Downtown,Chicago suburb,6.6,Customer Visit,WEEKEND,Female,On-time,57,28,20
+3/1/2016 18:47,3/1/2016 19:10,Business,LA Downtown,Wayne Ridge,8,Meal/Entertain,WEEKEND,Female,On-time,67,24,29
+3/1/2016 21:27,3/1/2016 21:45,Business,LA amtrak station,LA Downtown,8,Meeting,WEEKDAY,Female,On-time,29,36,20
+3/3/2016 9:45,3/3/2016 9:52,Personal,LA Downtown,Westpark Place,2.2,Other,WEEKDAY,Female,On-time,31,32,20
+3/3/2016 11:04,3/3/2016 11:10,Business,LA amtrak station,LA Downtown,2.3,Errand/Supplies,WEEKDAY,Female,On-time,55,40,20
+3/3/2016 14:44,3/3/2016 14:58,Business,LA Downtown,Northwoods,5.2,Meal/Entertain,WEEKDAY,Male,On-time,32,4,16
+3/3/2016 15:27,3/3/2016 15:48,Business,Chicago Downtown,Raleigh,7.6,Customer Visit,WEEKDAY,Male,On-time,27,12,16
+3/3/2016 16:02,3/3/2016 16:42,Business,Chicago Downtown,Chicago Downtown,17.3,Meeting,WEEKEND,Male,On-time,53,8,16
+3/4/2016 7:47,3/4/2016 8:06,Business,Chicago Downtown,Durham,9.9,Meeting,WEEKEND,Male,On-time,45,20,16
+3/4/2016 9:46,3/4/2016 10:03,Business,Chicago Downtown,Chicago Downtown,9.9,Customer Visit,WEEKDAY,Female,On-time,23,16,16
+3/4/2016 11:46,3/4/2016 12:06,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKDAY,Female,On-time,80,28,16
+3/4/2016 13:03,3/4/2016 13:25,Business,Chicago Downtown,Chicago Downtown,10.9,Meeting,WEEKDAY,Female,On-time,38,24,16
+3/4/2016 13:40,3/4/2016 14:09,Business,Chicago Downtown,Raleigh,15.7,Customer Visit,WEEKDAY,Female,On-time,76,36,30
+3/4/2016 15:56,3/4/2016 16:08,Business,Chicago Downtown,Chicago Downtown,4.9,Meal/Entertain,WEEKDAY,Female,On-time,37,32,30
+3/4/2016 16:16,3/4/2016 16:22,Business,Dallas Downtown,Depot Historic District,0.8,Errand/Supplies,WEEKEND,Female,On-time,28,40,30
+3/4/2016 16:43,3/4/2016 17:12,Business,Chicago Downtown,Chicago Downtown,13.5,Meeting,WEEKEND,Female,On-time,64,4,30
+3/4/2016 19:02,3/4/2016 19:08,Business,Chicago Downtown,Chicago Suburb,1.9,Temporary Site,WEEKDAY,Female,On-time,72,12,30
+3/4/2016 19:16,3/4/2016 19:25,Business,Chicago Suburb,Chicago Downtown,2,Meal/Entertain,WEEKDAY,Female,On-time,29,8,18
+3/5/2016 11:44,3/5/2016 11:59,Business,Chicago Downtown,Chicago Suburb,6.5,Meal/Entertain,WEEKDAY,Female,On-time,70,20,30
+3/5/2016 12:57,3/5/2016 13:12,Personal,LA amtrak station,LA Downtown,4.2,Other,WEEKDAY,Female,On-time,76,16,30
+3/5/2016 14:08,3/5/2016 14:18,Personal,Chicago Suburb,Chicago Downtown,3.5,Other,WEEKDAY,Female,On-time,20,28,30
+3/5/2016 14:39,3/5/2016 15:01,Business,LA Downtown,Wayne Ridge,7.8,Meal/Entertain,WEEKEND,Female,On-time,26,24,10
+3/5/2016 16:52,3/5/2016 17:13,Business,Chicago Downtown,Chicago Suburb,7.8,Meal/Entertain,WEEKEND,Female,On-time,33,36,30
+3/5/2016 17:23,3/5/2016 17:34,Business,Chicago Suburb,Chicago Downtown,3.9,Meal/Entertain,WEEKDAY,Female,On-time,33,32,35
+3/7/2016 9:10,3/7/2016 9:20,Business,LA Downtown,Edgehill Farms,2.8,Errand/Supplies,WEEKDAY,Female,On-time,46,40,35
+3/7/2016 9:23,3/7/2016 9:47,Business,Chicago Downtown,Raleigh,12.4,Customer Visit,WEEKDAY,Female,On-time,36,4,35
+3/7/2016 12:10,3/7/2016 12:26,Business,Dallas Downtown,Meredith Townes,5.9,Customer Visit,WEEKDAY,Female,On-time,35,12,35
+3/7/2016 13:57,3/7/2016 14:18,Business,West Palm Beach,West Palm Beach,9.4,Meeting,WEEKDAY,Female,On-time,33,8,35
+3/7/2016 15:19,3/7/2016 15:45,Business,Chicago Downtown,Chicago Downtown,11.9,Between Offices,WEEKEND,Female,On-time,23,20,20
+3/8/2016 14:38,3/8/2016 14:55,Business,LA Downtown,Waverly Place,7.2,Between Offices,WEEKEND,Female,On-time,36,16,35
+3/8/2016 15:35,3/8/2016 16:00,Business,LA amtrak station,LA Downtown,7.6,Meal/Entertain,WEEKDAY,Female,On-time,23,28,35
+3/8/2016 16:13,3/8/2016 16:25,Personal,LA Downtown,LA Downtown,1.6,Other,WEEKDAY,Female,On-time,29,24,35
+3/10/2016 3:36,3/10/2016 3:53,Business,Chicago Downtown,Chicago Suburb,8.4,Meeting,WEEKDAY,Female,On-time,33,36,60
+3/10/2016 10:08,3/10/2016 10:37,Business,LA Downtown,LA amtrak station,12.8,Meeting,WEEKDAY,Female,On-time,39,32,35
+3/10/2016 14:39,3/10/2016 14:55,Business,LA amtrak station,LA Downtown,2.3,Other,WEEKDAY,Female,On-time,44,40,35
+3/10/2016 16:18,3/10/2016 16:28,Business,LA amtrak station,LA Downtown,1.6,Other,WEEKEND,Female,On-time,46,4,35
+3/11/2016 9:47,3/11/2016 9:59,Business,LA Downtown,LA Downtown,2,Meal/Entertain,WEEKEND,Female,On-time,28,12,35
+3/11/2016 10:29,3/11/2016 10:36,Business,Dallas Downtown,Dallas airport,0.8,Other,WEEKDAY,Female,On-time,33,8,35
+3/11/2016 11:57,3/11/2016 12:04,Business,Chicago Downtown,Chicago Downtown,1.2,Other,WEEKDAY,Female,On-time,55,20,48
+3/11/2016 13:43,3/11/2016 13:51,Business,Chicago Downtown,Chicago Downtown,1,Other,WEEKDAY,Female,On-time,18,16,48
+3/11/2016 19:21,3/11/2016 19:35,Business,LA amtrak station,LA Downtown,2.1,Other,WEEKDAY,Female,On-time,65,28,48
+3/12/2016 9:13,3/12/2016 9:22,Business,LA Downtown,LA Downtown,2.2,Other,WEEKDAY,Female,On-time,31,24,48
+3/12/2016 18:27,3/12/2016 18:37,Personal,LA amtrak station,LA Downtown,1.9,Other,WEEKEND,Female,On-time,23,36,20
+3/13/2016 9:07,3/13/2016 9:37,Business,LA Downtown,LA Downtown,5.7,Meal/Entertain,WEEKEND,Female,On-time,28,32,48
+3/13/2016 18:23,3/13/2016 18:43,Business,LA amtrak station,LA Downtown,8.4,Meal/Entertain,WEEKDAY,Female,On-time,33,40,48
+3/13/2016 20:07,3/13/2016 20:28,Business,Chicago Downtown,Chicago suburb,6.2,Meal/Entertain,WEEKDAY,Male,On-time,55,4,48
+3/13/2016 20:39,3/13/2016 20:58,Business,LA Downtown,LA Downtown,10.5,Meal/Entertain,WEEKDAY,Male,On-time,32,12,48
+3/13/2016 21:11,3/13/2016 21:23,Business,Newjersey Airport,Newjersey Downtown,7.2,Meal/Entertain,WEEKDAY,Male,On-time,27,8,48
+3/13/2016 22:19,3/13/2016 22:39,Business,Dallas airport,Dallas Downtown,12.5,Other,WEEKDAY,Male,Delay,23,20,48
+3/14/2016 8:34,3/14/2016 8:49,Business,LA Downtown,LA Downtown,2,Errand/Supplies,WEEKEND,Female,Delay,36,16,48
+3/14/2016 18:39,3/14/2016 18:55,Business,LA amtrak station,LA Downtown,2.7,Other,WEEKEND,Female,Delay,23,28,48
+3/15/2016 8:45,3/15/2016 8:57,Business,LA Downtown,LA Downtown,2,Meal/Entertain,WEEKDAY,Female,Delay,29,24,20
+3/15/2016 20:48,3/15/2016 21:01,Business,Richmond hindu temple,Richmond Downtown,2.8,Meal/Entertain,WEEKDAY,Female,Delay,33,32,16
+3/16/2016 11:34,3/16/2016 11:45,Business,LA Downtown,LA Downtown,1.7,Meal/Entertain,WEEKDAY,Female,Delay,46,40,16
+3/16/2016 14:44,3/16/2016 14:55,Business,Dallas airport,Dallas Downtown,2,Other,WEEKDAY,Female,Delay,28,4,16
+3/16/2016 18:43,3/16/2016 18:56,Business,LA amtrak station,LA Downtown,2.1,Meal/Entertain,WEEKDAY,Female,Delay,33,12,16
+3/17/2016 0:33,3/17/2016 0:44,Personal,Richmond hindu temple,Richmond Downtown,1.7,Other,WEEKEND,Female,Delay,55,8,16
+3/17/2016 12:52,3/17/2016 15:11,Business,Ohio Suburb,Ohio Suburb,136,Customer Visit,WEEKEND,Female,Delay,32,20,16
+3/17/2016 15:16,3/17/2016 15:58,Business,Dallas Airport,Dallas Downtown,30.2,Meeting,WEEKDAY,Female,Delay,27,16,16
+3/17/2016 17:20,3/17/2016 18:02,Business,Boston Downtown,Alief,15.5,Meal/Entertain,WEEKDAY,Female,Delay,23,28,30
+3/17/2016 18:47,3/17/2016 19:09,Personal,Miami beach,Miami beach,4.9,Other,WEEKDAY,Female,Delay,36,24,30
+3/17/2016 20:57,3/17/2016 21:28,Personal,Miami beach,Miami beach,12.6,Other,WEEKDAY,Female,Delay,23,36,30
+3/17/2016 21:48,3/17/2016 22:04,Personal,Boston Downtown,Boston Downtown,10.4,Other,WEEKDAY,Female,Delay,29,32,30
+3/18/2016 7:15,3/18/2016 7:21,Business,Boston Downtown,Boston Downtown,1.1,Meal/Entertain,WEEKEND,Female,Delay,33,40,30
+3/18/2016 8:35,3/18/2016 8:43,Business,Boston Downtown,Boston Downtown,1.1,Meal/Entertain,WEEKEND,Female,Delay,19,4,18
+3/18/2016 18:24,3/18/2016 19:08,Business,Boston Downtown,Sharpstown,13.2,Meeting,WEEKDAY,Female,Delay,25,12,30
+3/18/2016 19:23,3/18/2016 19:29,Business,Boston Downtown,Boston Downtown,1,Errand/Supplies,WEEKDAY,Female,Delay,35,8,30
+3/18/2016 21:01,3/18/2016 21:15,Business,Boston Downtown,Boston Downtown,9.2,Customer Visit,WEEKDAY,Female,Delay,55,20,30
+3/19/2016 9:10,3/19/2016 9:25,Business,Boston Downtown,Sharpstown,9.4,Meal/Entertain,WEEKDAY,Female,Delay,45,16,10
+3/19/2016 12:50,3/19/2016 13:13,Business,Miami beach,Sugar Land,12,Customer Visit,WEEKDAY,Female,Delay,37,28,30
+3/19/2016 14:01,3/19/2016 14:57,Business,West Palm Beach,Miami beach,35.1,Customer Visit,WEEKEND,Female,Delay,26,24,35
+3/19/2016 15:34,3/19/2016 16:38,Business,Miami beach,Galveston,36.5,Meal/Entertain,WEEKEND,Female,Delay,28,36,35
+3/19/2016 17:17,3/19/2016 17:32,Business,Chicago Downtown,Chicago suburb,3.1,Meal/Entertain,WEEKDAY,Female,Delay,33,32,35
+3/19/2016 17:37,3/19/2016 17:47,Business,Dallas Downtown,Dallas Downtown,2.1,Errand/Supplies,WEEKDAY,Female,Delay,55,40,35
+3/19/2016 17:52,3/19/2016 18:00,Business,Dallas Downtown,Dallas Downtown,1.2,Other,WEEKDAY,Female,Delay,67,4,35
+3/19/2016 18:53,3/19/2016 19:29,Business,Dallas Downtown,Dallas Downtown,7.5,Meeting,WEEKDAY,Female,Delay,29,12,20
+3/19/2016 19:33,3/19/2016 20:39,Business,Chicago Downtown,Chicago suburb,57,Customer Visit,WEEKDAY,Male,Delay,31,8,35
+3/20/2016 7:37,3/20/2016 7:48,Business,Boston Downtown,Washington Avenue,5.9,Meeting,WEEKEND,Male,Delay,35,20,35
+3/20/2016 11:42,3/20/2016 11:56,Business,Boston tea party,Boston Downtown,6.2,Meeting,WEEKEND,Male,Delay,38,16,35
+3/20/2016 17:08,3/20/2016 17:34,Business,Boston Downtown,Sharpstown,10.4,Other,WEEKDAY,Male,Delay,39,28,60
+3/20/2016 18:34,3/20/2016 18:40,Personal,Boston Downtown,Boston Downtown,1.2,Other,WEEKDAY,Female,Delay,23,24,35
+3/20/2016 18:45,3/20/2016 19:06,Business,Boston Downtown,Boston Downtown,9.6,Customer Visit,WEEKDAY,Female,Delay,36,36,35
+3/21/2016 10:21,3/21/2016 10:26,Personal,Boston Downtown,Downtown,1,Other,WEEKDAY,Female,Delay,23,32,35
+3/21/2016 16:05,3/21/2016 16:13,Business,Richmond hindu temple,Richmond Downtown,0.9,Meal/Entertain,WEEKDAY,Female,Delay,33,40,35
+3/21/2016 18:59,3/21/2016 19:15,Business,Boston Downtown,Sharpstown,8.8,Other,WEEKEND,Female,Delay,76,4,35
+3/21/2016 20:18,3/21/2016 20:55,Business,Boston Downtown,Boston Downtown,25.6,Meal/Entertain,WEEKEND,Female,Delay,28,12,48
+3/22/2016 6:17,3/22/2016 6:43,Business,Boston Downtown,Greater Greenspoint,23,Meal/Entertain,WEEKDAY,Female,Delay,64,8,48
+3/22/2016 12:06,3/22/2016 12:24,Personal,Chicago Suburb,Chicago Downtown,8.1,Other,WEEKDAY,Female,Delay,76,20,48
+3/22/2016 19:12,3/22/2016 19:25,Personal,LA Downtown,LA Downtown,1.4,Other,WEEKDAY,Female,Delay,53,16,48
+3/23/2016 14:37,3/23/2016 14:42,Personal,LA Downtown,Preston,1.7,Other,WEEKDAY,Female,Delay,53,28,20
+3/23/2016 14:53,3/23/2016 14:59,Personal,LA Downtown,LA Downtown,1.6,Other,WEEKDAY,Female,Delay,76,24,48
+3/24/2016 19:47,3/24/2016 19:54,Personal,LA Downtown,Westpark Place,2,Other,WEEKEND,Female,Delay,54,36,20
+3/24/2016 20:34,3/24/2016 20:40,Business,LA Downtown,LA Downtown,2.2,Other,WEEKEND,Female,Delay,38,32,20
+3/25/2016 13:24,3/25/2016 16:22,Business,Chicago Downtown,Latta,144,Customer Visit,WEEKDAY,Female,Delay,64,40,16
+3/25/2016 16:52,3/25/2016 22:22,Business,NewYork Downtown,NewYork Downtown,310.3,Customer Visit,WEEKDAY,Female,Delay,49,4,16
+3/25/2016 22:54,3/26/2016 1:39,Business,Richmond hindu temple ,Richmond Downtown,201,Meeting,WEEKDAY,Female,Delay,33,12,16
+3/26/2016 14:05,3/26/2016 14:29,Personal,Dallas airport,Dallas Downtown,6.7,Other,WEEKDAY,Female,Delay,20,8,16
+3/26/2016 15:19,3/26/2016 15:49,Personal,California Downtown,California suburb,8.8,Other,WEEKDAY,Male,Delay,18,20,16
+3/26/2016 16:26,3/26/2016 16:30,Personal,NewYork Downtown,NewYork Downtown,1.2,Other,WEEKEND,Male,Delay,65,16,16
+3/27/2016 0:31,3/27/2016 0:40,Business,NewYork Downtown,NewYork Downtown,2.1,Errand/Supplies,WEEKEND,Female,Delay,31,28,16
+3/27/2016 1:11,3/27/2016 1:23,Business,Newjersey Airport,Newjersey Downtown,6.6,Meal/Entertain,WEEKDAY,Male,Delay,23,24,30
+3/27/2016 15:31,3/27/2016 15:56,Business,California Downtown,California suburb,6.1,Customer Visit,WEEKDAY,Female,Delay,36,36,30
+3/27/2016 21:26,3/27/2016 21:41,Personal,Newjersey Airport,Newjersey Downtown,6.9,Other,WEEKDAY,Female,Delay,23,32,30
+3/27/2016 23:04,3/27/2016 23:18,Personal,Newjersey Airport,Newjersey Downtown,7.3,Other,WEEKDAY,Female,Delay,23,40,30
+3/28/2016 12:29,3/28/2016 12:42,Personal,California Downtown,California suburb,3.6,Other,WEEKDAY,Female,Delay,28,4,30
+3/28/2016 19:30,3/28/2016 20:23,Personal,Dallas airport,Dallas Downtown,27.2,Other,WEEKEND,Female,Delay,33,12,18
+3/28/2016 22:55,3/28/2016 23:26,Personal,Newjersey Airport,Newjersey Downtown,25.7,Other,WEEKEND,Female,Delay,55,8,30
+3/29/2016 15:27,3/29/2016 16:11,Personal,California Downtown,California suburb,13.6,Other,WEEKDAY,Female,Delay,76,20,30
+3/29/2016 18:20,3/29/2016 18:39,Personal,Chicago Downtown,Chicago Downtown,6.2,Other,WEEKDAY,Female,Delay,37,16,30
+3/29/2016 20:29,3/29/2016 20:44,Personal,Boston Downtown,Boston Downtown,6,Other,WEEKDAY,Female,Delay,28,28,10
+3/29/2016 23:04,3/29/2016 23:21,Personal,Newjersey Airport,Newjersey Downtown,13.8,Other,WEEKDAY,Female,Delay,64,24,30
+3/30/2016 22:05,3/30/2016 22:55,Business,Newjersey Airport,Newjersey Downtown,28.8,Meal/Entertain,WEEKDAY,Female,Delay,72,36,35
+3/31/2016 12:47,3/31/2016 13:22,Business,California Downtown,California suburb,16.1,Temporary Site,WEEKEND,Female,Delay,29,32,35
+3/31/2016 14:37,3/31/2016 15:09,Business,Newjersey Airport,Newjersey Downtown,16.4,Meal/Entertain,WEEKEND,Female,Delay,70,40,35
+4/1/2016 13:43,4/1/2016 14:01,Business,California Downtown,California suburb,11,Meeting,WEEKDAY,Female,Delay,76,4,35
+4/1/2016 14:36,4/1/2016 15:24,Business,California Downtown,California suburb,15.5,Customer Visit,WEEKDAY,Female,Delay,20,12,35
+4/1/2016 16:01,4/1/2016 16:49,Business,Newjersey Airport,Newjersey Downtown,20.3,Meeting,WEEKDAY,Female,Delay,26,8,20
+4/1/2016 16:52,4/1/2016 16:57,Personal,California Downtown,California suburb,0.7,Other,WEEKDAY,Female,Delay,33,20,35
+4/2/2016 8:48,4/2/2016 9:04,Personal,California Downtown,California suburb,5.5,Other,WEEKDAY,Male,Delay,33,16,35
+4/2/2016 11:01,4/2/2016 11:16,Personal,California Downtown,California suburb,5.1,Other,WEEKEND,Male,Delay,45,28,35
+4/2/2016 12:21,4/2/2016 14:47,Business,California Downtown,California suburb,77.3,Customer Visit,WEEKEND,Female,Delay,37,24,60
+4/2/2016 16:57,4/2/2016 18:09,Business,Richmond hindu temple,Richmond Downtown,80.5,Customer Visit,WEEKDAY,Male,Delay,26,36,35
+4/2/2016 19:38,4/2/2016 22:36,Business,Richmond hindu temple ,Richmond Downtown,174.2,Customer Visit,WEEKDAY,Male,Delay,77,32,35
+4/2/2016 23:11,4/3/2016 1:34,Business,Chicago Downtown,Chicago Downtown,144,Meeting,WEEKDAY,Female,Delay,57,40,35
+4/3/2016 2:00,4/3/2016 4:16,Business,Boston Downtown,Boston tea Party,159.3,Meeting,WEEKDAY,Female,Delay,67,4,35
+4/5/2016 21:39,4/5/2016 21:55,Business,LA Downtown,Wayne Ridge,7.9,Meal/Entertain,WEEKDAY,Female,Delay,36,12,35
+4/6/2016 0:19,4/6/2016 0:39,Business,LA Downtown,LA Downtown,8,Meal/Entertain,WEEKEND,Female,Delay,23,8,48
+4/7/2016 18:20,4/7/2016 18:39,Business,Chicago Downtown,Chicago Suburb,6.1,Meal/Entertain,WEEKEND,Female,Delay,29,20,48
+4/7/2016 19:45,4/7/2016 20:00,Business,Chicago Suburb,Chicago Downtown,6.1,Errand/Supplies,WEEKDAY,Female,Delay,33,16,48
+4/8/2016 12:30,4/8/2016 12:48,Business,Chicago Downtown,Durham,10.5,Meeting,WEEKDAY,Female,Delay,39,28,48
+4/8/2016 13:34,4/8/2016 13:51,Business,Richmond hindu temple,Richmond Downtown,8.7,Meal/Entertain,WEEKDAY,Female,Delay,44,24,20
+4/8/2016 13:55,4/8/2016 14:03,Business,LA Downtown,LA Downtown,1.8,Errand/Supplies,WEEKDAY,Female,Delay,46,36,48
+4/8/2016 14:43,4/8/2016 15:20,Business,Chicago Downtown,Raleigh,19.1,Meeting,WEEKDAY,Female,Delay,28,32,20
+4/8/2016 16:05,4/8/2016 16:47,Business,Chicago Downtown,Chicago Downtown,18.6,Meeting,WEEKEND,Female,Delay,33,40,20
+4/12/2016 9:15,4/12/2016 9:26,Business,LA Downtown,Edgehill Farms,2.8,Errand/Supplies,WEEKEND,Female,Delay,55,4,16
+4/12/2016 9:34,4/12/2016 9:53,Business,Chicago Downtown,Raleigh,8.9,Meeting,WEEKDAY,Female,Delay,32,12,16
+4/12/2016 10:58,4/12/2016 11:18,Business,West Palm Beach,West Palm Beach,7.5,Customer Visit,WEEKDAY,Female,Delay,27,8,16
+4/12/2016 12:22,4/12/2016 12:44,Business,Chicago Downtown,Chicago Suburb,15.9,Meeting,WEEKDAY,Female,Delay,28,20,16
+4/12/2016 13:42,4/12/2016 14:01,Business,Chicago Suburb,Chicago Downtown,6.5,Meal/Entertain,WEEKDAY,Female,Delay,38,16,16
+4/14/2016 7:29,4/14/2016 8:09,Business,Chicago Downtown,Holly Springs,15.3,Temporary Site,WEEKDAY,Female,Delay,76,28,16
+4/14/2016 16:00,4/14/2016 16:43,Business,Richmond hindu temple ,Richmond Downtown,13.7,Temporary Site,WEEKEND,Male,Delay,28,24,16
+4/15/2016 11:36,4/15/2016 12:07,Business,Chicago Downtown,Raleigh,11.9,Temporary Site,WEEKEND,Female,Delay,64,36,30
+4/15/2016 12:29,4/15/2016 12:32,Business,West Palm Beach,West Palm Beach,1.4,Errand/Supplies,WEEKDAY,Male,Delay,76,32,30
+4/15/2016 14:31,4/15/2016 15:01,Business,Chicago Downtown,Chicago Downtown,15.2,Meeting,WEEKDAY,Male,Delay,53,40,30
+4/16/2016 12:59,4/16/2016 13:17,Business,Chicago Downtown,Chicago Suburb,6,Errand/Supplies,WEEKDAY,Female,Delay,45,4,30
+4/16/2016 15:10,4/16/2016 15:26,Business,Chicago Suburb,Chicago Downtown,6.1,Meal/Entertain,WEEKDAY,Female,Delay,27,8,18
+4/19/2016 17:44,4/19/2016 18:08,Business,LA Downtown,Wayne Ridge,8.2,Meal/Entertain,WEEKDAY,Female,Delay,28,20,30
+4/19/2016 19:57,4/19/2016 20:19,Business,LA Downtown,LA Downtown,8,Meal/Entertain,WEEKEND,Female,Delay,23,16,30
+4/22/2016 8:25,4/22/2016 9:04,Business,Chicago Downtown,Raleigh,13.6,Meeting,WEEKEND,Female,Delay,36,28,30
+4/22/2016 10:10,4/22/2016 10:40,Business,Chicago Downtown,Chicago Downtown,22.5,Meeting,WEEKDAY,Female,Delay,23,24,10
+4/22/2016 12:08,4/22/2016 12:28,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKDAY,Female,Delay,76,36,30
+4/22/2016 13:02,4/22/2016 13:26,Business,Richmond hindu temple,Richmond Downtown,10,Meeting,WEEKDAY,Female,Delay,54,32,35
+4/23/2016 17:03,4/23/2016 17:16,Business,LA Downtown,Tanglewood,6,Meal/Entertain,WEEKDAY,Female,Delay,38,40,35
+4/23/2016 18:49,4/23/2016 19:05,Business,LA Downtown,LA Downtown,6.5,Meal/Entertain,WEEKDAY,Female,Delay,64,4,35
+4/24/2016 19:07,4/24/2016 19:16,Business,Chicago Downtown,Chicago Suburb,3.1,Errand/Supplies,WEEKEND,Female,Delay,49,12,35
+4/24/2016 19:46,4/24/2016 19:52,Business,Milwaukee Downtown,Milwaukee Downtown,1.9,Errand/Supplies,WEEKEND,Female,Delay,33,8,35
+4/24/2016 21:41,4/24/2016 21:50,Business,Chicago Suburb,Chicago Downtown,4.2,Between Offices,WEEKDAY,Female,Delay,20,20,20
+4/27/2016 13:30,4/27/2016 13:40,Business,LA Downtown,Burtrose,4.9,Between Offices,WEEKDAY,Female,Delay,26,16,35
+4/27/2016 14:13,4/27/2016 14:25,Business,LA Downtown,LA Downtown,4.8,Between Offices,WEEKDAY,Female,Delay,27,28,35
+4/28/2016 12:09,4/28/2016 12:34,Business,Chicago Downtown,Raleigh,12.4,Customer Visit,WEEKDAY,Female,Delay,36,24,35
+4/28/2016 13:30,4/28/2016 13:49,Business,Chicago Downtown,Chicago Downtown,32.8,Customer Visit,WEEKDAY,Female,Delay,23,36,60
+4/28/2016 22:10,4/28/2016 22:28,Business,Chicago Suburb,Chicago Downtown,5.5,Customer Visit,WEEKEND,Female,Delay,29,32,35
+4/29/2016 11:44,4/29/2016 12:01,Business,Chicago Downtown,Durham,9.9,Meeting,WEEKEND,Female,Delay,33,40,35
+4/29/2016 13:13,4/29/2016 13:34,Business,Richmond hindu temple,Richmond Downtown,10,Meeting,WEEKDAY,Male,Delay,39,4,35
+4/29/2016 18:46,4/29/2016 19:18,Business,Chicago Downtown,Durham,14.2,Customer Visit,WEEKDAY,Female,Delay,44,12,35
+4/29/2016 22:44,4/29/2016 23:19,Business,Richmond hindu temple,Richmond Downtown,18.2,Meeting,WEEKDAY,Male,Delay,46,8,35
+4/30/2016 18:42,4/30/2016 18:57,Business,LA Downtown,Waverly Place,7.7,Meal/Entertain,WEEKDAY,Male,Delay,28,20,48
+4/30/2016 22:16,4/30/2016 22:34,Business,LA Downtown,LA Downtown,6.8,Other,WEEKDAY,Female,Delay,33,16,48
+5/1/2016 13:45,5/1/2016 13:53,Business,LA Downtown,Westpark Place,2.1,Meal/Entertain,WEEKEND,Female,Delay,29,28,48
+5/1/2016 14:26,5/1/2016 14:31,Business,LA Downtown,LA Downtown,2.3,Other,WEEKEND,Female,Delay,33,24,48
+5/1/2016 17:33,5/1/2016 17:45,Business,LA Downtown,Tanglewood,6.2,Between Offices,WEEKDAY,Female,Delay,39,36,20
+5/1/2016 17:54,5/1/2016 18:10,Business,LA Downtown,LA Downtown,7.5,Meeting,WEEKDAY,Female,Delay,44,32,48
+5/1/2016 22:38,5/1/2016 22:49,Business,LA Downtown,LA Downtown,3.1,Errand/Supplies,WEEKDAY,Female,Delay,46,40,20
+5/2/2016 14:14,5/2/2016 14:21,Business,LA Downtown,Westpark Place,2.2,Errand/Supplies,WEEKDAY,Female,Delay,28,4,20
+5/2/2016 15:37,5/2/2016 15:48,Business,LA Downtown,LA Downtown,3.9,Meal/Entertain,WEEKDAY,Female,Delay,33,12,16
+5/3/2016 22:20,5/3/2016 22:28,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain,WEEKEND,Female,Delay,55,20,16
+5/4/2016 15:16,5/4/2016 15:37,Business,Chicago Downtown,Chicago Suburb,8.7,Meal/Entertain,WEEKEND,Female,Delay,32,16,16
+5/4/2016 20:55,5/4/2016 21:14,Business,West Palm Beach,West Palm Beach,14.5,Errand/Supplies,WEEKDAY,Female,Delay,28,28,16
+5/4/2016 21:30,5/4/2016 21:36,Business,Miami beach,West Palm Beach,4.5,Meal/Entertain,WEEKDAY,Female,Delay,33,24,16
+5/4/2016 22:19,5/4/2016 22:27,Business,LA Downtown,LA Downtown,5,Meal/Entertain,WEEKDAY,Female,Delay,55,36,16
+5/5/2016 21:24,5/5/2016 21:36,Business,Boston Downtown,Boston Downtown,14.2,Meal/Entertain,WEEKDAY,Female,Delay,67,32,30
+5/5/2016 22:34,5/5/2016 22:40,Business,Chicago Downtown,Chicago Downtown,2.9,Errand/Supplies,WEEKDAY,Female,Delay,29,40,30
+5/5/2016 23:55,5/6/2016 0:08,Business,Fort Pierce,Miami beach,12.9,Meeting,WEEKEND,Female,Delay,53,4,30
+5/6/2016 5:47,5/6/2016 6:02,Business,Miami beach,West Palm Beach,14.4,Meeting,WEEKEND,Female,Delay,45,12,30
+5/6/2016 16:45,5/6/2016 16:59,Business,Milwaukee Downtown,Milwaukee Downtown,17,Meeting,WEEKDAY,Female,Delay,23,8,30
+5/6/2016 17:18,5/6/2016 17:44,Business,Chicago Suburb,Chicago Downtown,7.9,Customer Visit,WEEKDAY,Female,Delay,23,20,18
+5/9/2016 6:08,5/9/2016 6:25,Business,Chicago Downtown,Chicago Suburb,8.4,Customer Visit,WEEKDAY,Female,Delay,23,16,30
+5/9/2016 14:39,5/9/2016 15:06,Business,Chicago Downtown,Chicago Downtown,20.5,Between Offices,WEEKDAY,Female,Delay,46,28,30
+5/9/2016 17:58,5/9/2016 18:26,Business,Dallas Downtown,Dallas Downtown,9.8,Customer Visit,WEEKDAY,Female,Delay,55,24,30
+5/9/2016 19:35,5/9/2016 19:59,Business,LA Downtown,LA Downtown,17.6,Customer Visit,WEEKEND,Female,Delay,55,36,10
+5/10/2016 9:03,5/10/2016 9:20,Business,Newjersey Airport,Newjersey Downtown,9.3,Customer Visit,WEEKEND,Female,Delay,33,32,30
+5/10/2016 17:19,5/10/2016 17:31,Business,West Palm Beach,West Palm Beach,7.9,Customer Visit,WEEKDAY,Female,Delay,55,40,35
+5/11/2016 8:35,5/11/2016 9:12,Business,Newjersey Airport,Newjersey Downtown,25.6,Meeting,WEEKDAY,Female,Delay,42,4,35
+5/11/2016 21:47,5/11/2016 22:04,Business,Chicago Suburb,Chicago Downtown,8.1,Meeting,WEEKDAY,Female,Cancelled,62,12,35
+5/14/2016 18:35,5/14/2016 18:39,Business,Chicago Downtown,Chicago Suburb,3.1,Meal/Entertain,WEEKDAY,Female,Cancelled,37,8,35
+5/14/2016 23:01,5/14/2016 23:05,Business,Chicago Suburb,Chicago Downtown,3.1,Meal/Entertain,WEEKDAY,Female,Cancelled,73,20,35
+5/17/2016 13:15,5/17/2016 13:23,Business,LA Downtown,Preston,2.8,Errand/Supplies,WEEKEND,Female,Cancelled,48,16,20
+5/17/2016 13:56,5/17/2016 14:08,Business,Dallas Downtown,Dallas Downtown,2.7,Errand/Supplies,WEEKEND,Female,Cancelled,25,28,35
+5/17/2016 14:34,5/17/2016 14:40,Business,LA Downtown,LA Downtown,1.9,Errand/Supplies,WEEKDAY,Female,Cancelled,27,24,35
+5/18/2016 9:11,5/18/2016 9:41,Business,Chicago Downtown,Chicago Suburb,8.4,Customer Visit,WEEKDAY,Female,Cancelled,28,36,35
+5/18/2016 13:00,5/18/2016 13:02,Business,Chicago Suburb,Raleigh,7.6,Customer Visit,WEEKDAY,Female,Cancelled,24,32,60
+5/19/2016 14:37,5/19/2016 15:01,Business,Newjersey Airport,Newjersey Downtown,2.9,Meal/Entertain,WEEKDAY,Female,Cancelled,34,40,35
+5/20/2016 10:56,5/20/2016 11:07,Business,Newjersey Airport,Newjersey Downtown,11.2,Meeting,WEEKDAY,Female,Cancelled,32,4,35
+5/20/2016 15:43,5/20/2016 16:12,Business,Chicago Suburb,Chicago Downtown,8.2,Meal/Entertain,WEEKEND,Female,Cancelled,30,12,35
+5/22/2016 15:39,5/22/2016 15:46,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain,WEEKEND,Female,Cancelled,71,20,35
+5/22/2016 18:46,5/22/2016 18:53,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain,WEEKDAY,Female,Cancelled,29,16,48
+5/23/2016 20:19,5/23/2016 20:27,Business,LA Downtown,Savon Height,3.6,Meal/Entertain,WEEKDAY,Female,Cancelled,46,28,48
+5/23/2016 21:09,5/23/2016 21:21,Business,LA Downtown,LA Downtown,3.6,Errand/Supplies,WEEKDAY,Female,Cancelled,43,24,48
+5/27/2016 20:26,5/27/2016 20:30,Business,LA Downtown,Kildaire Farms,4.5,Errand/Supplies,WEEKDAY,Female,Cancelled,80,36,48
+5/27/2016 20:47,5/27/2016 20:53,Business,LA Downtown,LA Downtown,1.2,Other,WEEKDAY,Female,Cancelled,31,32,20
+5/27/2016 22:11,5/27/2016 22:14,Business,California Downtown,California suburb,1.7,Errand/Supplies,WEEKEND,Female,Cancelled,73,40,48
+5/28/2016 0:15,5/28/2016 0:21,Business,California Downtown,California suburb,4.7,Errand/Supplies,WEEKEND,Female,Cancelled,68,4,20
+5/28/2016 12:52,5/28/2016 13:06,Business,Chicago Downtown,Chicago Suburb,6.1,Meal/Entertain,WEEKDAY,Female,Cancelled,22,12,20
+5/28/2016 14:35,5/28/2016 15:04,Business,Chicago Suburb,Chicago Downtown,11.3,Customer Visit,WEEKDAY,Female,Cancelled,20,8,16
+5/31/2016 13:54,5/31/2016 14:41,Business,Chicago Downtown,Raleigh,14.9,Meeting,WEEKDAY,Female,Cancelled,28,20,16
+5/31/2016 16:02,5/31/2016 16:39,Business,Chicago Downtown,Chicago Downtown,14,Meeting,WEEKDAY,Female,Cancelled,29,16,16
+5/31/2016 17:50,5/31/2016 17:59,Business,LA Downtown,LA Downtown,1.8,Other,WEEKDAY,Male,Cancelled,33,28,16
+6/1/2016 10:19,6/1/2016 10:47,Business,Chicago Downtown,Chicago Suburb,6.7,Customer Visit,WEEKEND,Male,Cancelled,39,24,16
+6/1/2016 13:10,6/1/2016 13:39,Business,Chicago Suburb,Chicago Downtown,9.6,Meeting,WEEKEND,Female,Cancelled,44,36,16
+6/3/2016 11:29,6/3/2016 11:49,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKDAY,Male,Cancelled,46,32,16
+6/3/2016 13:08,6/3/2016 13:38,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKDAY,Female,Cancelled,28,40,30
+6/3/2016 15:31,6/3/2016 15:54,Business,Chicago Downtown,Chicago Suburb,6,Meal/Entertain,WEEKDAY,Female,Cancelled,33,4,30
+6/3/2016 18:14,6/3/2016 18:29,Business,LA Downtown,LA Downtown,3.3,Errand/Supplies,WEEKDAY,Female,Cancelled,55,12,30
+6/3/2016 18:41,6/3/2016 18:53,Business,Chicago Suburb,Chicago Downtown,3.1,Errand/Supplies,WEEKDAY,Female,Cancelled,32,8,30
+6/3/2016 19:36,6/3/2016 19:42,Business,Richmond hindu temple ,Richmond Downtown,1.7,Errand/Supplies,WEEKEND,Female,Cancelled,28,20,30
+6/3/2016 22:47,6/3/2016 23:06,Business,Chicago Suburb,Chicago Downtown,4,Between Offices,WEEKEND,Female,Cancelled,33,16,18
+6/5/2016 14:03,6/5/2016 14:33,Business,LA Downtown,Savon Height,7.8,Customer Visit,WEEKDAY,Female,Cancelled,55,28,30
+6/5/2016 15:06,6/5/2016 15:22,Business,Chicago Downtown,Chicago Suburb,7.8,Customer Visit,WEEKDAY,Female,Cancelled,67,24,30
+6/5/2016 15:57,6/5/2016 16:08,Business,Richmond Downtown,Richmond Downtown,3.8,Meal/Entertain,WEEKDAY,Male,Cancelled,29,36,30
+6/5/2016 18:05,6/5/2016 18:14,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain,WEEKDAY,Male,Cancelled,28,32,10
+6/5/2016 21:53,6/5/2016 22:05,Business,Chicago Downtown,Durham,9.9,Meeting,WEEKDAY,Male,Cancelled,33,40,30
+6/5/2016 23:52,6/6/2016 0:08,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKEND,Female,On-time,55,4,35
+6/6/2016 15:36,6/6/2016 15:45,Business,LA Downtown,Hazelwood,3,Errand/Supplies,WEEKEND,Male,On-time,67,12,35
+6/6/2016 16:16,6/6/2016 16:24,Business,Chicago Downtown,Chicago suburb,2.4,Errand/Supplies,WEEKDAY,Male,On-time,29,8,35
+6/6/2016 20:06,6/6/2016 20:20,Business,Chicago Downtown,Apex,5.7,Meal/Entertain,WEEKDAY,Female,On-time,29,20,35
+6/6/2016 21:08,6/6/2016 21:37,Business,Chicago suburb,Chicago Downtown,7.2,Meal/Entertain,WEEKDAY,Female,Delay,46,16,35
+6/6/2016 21:41,6/6/2016 22:00,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKDAY,Female,Delay,28,28,20
+6/6/2016 23:34,6/6/2016 23:48,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKDAY,Female,Delay,33,24,35
+6/7/2016 21:42,6/7/2016 22:00,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKEND,Female,Delay,55,36,35
+6/7/2016 23:41,6/8/2016 0:04,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKEND,Female,Delay,32,32,35
+6/8/2016 8:23,6/8/2016 8:53,Business,Chicago Downtown,Chicago Suburb,8.7,Meal/Entertain,WEEKDAY,Female,Delay,28,40,60
+6/8/2016 12:04,6/8/2016 13:01,Business,Richmond Downtown,Richmond hindu temple,22.3,Errand/Supplies,WEEKDAY,Female,Delay,33,4,35
+6/8/2016 13:12,6/8/2016 13:29,Business,LA Downtown,LA Downtown,3.3,Meal/Entertain,WEEKDAY,Female,Delay,55,12,35
+6/8/2016 14:31,6/8/2016 14:37,Business,West Palm Beach,West Palm Beach,0.7,Errand/Supplies,WEEKDAY,Female,Cancelled,67,8,35
+6/8/2016 16:55,6/8/2016 17:11,Business,Chicago Downtown,Chicago Downtown,2.5,Meal/Entertain,WEEKDAY,Male,Cancelled,29,20,35
+6/8/2016 17:16,6/8/2016 17:18,Business,LA Downtown,LA Downtown,0.5,Errand/Supplies,WEEKEND,Male,Cancelled,53,16,35
+6/8/2016 17:59,6/8/2016 18:05,Business,LA Downtown,LA Downtown,0.9,Errand/Supplies,WEEKEND,Male,Cancelled,45,28,48
+6/8/2016 20:11,6/8/2016 20:25,Business,Boston Downtown,Boston tea Party,4.8,Errand/Supplies,WEEKDAY,Female,Delay,23,24,48
+6/10/2016 15:19,6/10/2016 16:28,Business,Richmond hindu temple,Richmond Downtown,16.3,Meeting,WEEKDAY,Male,Delay,23,36,48
+6/10/2016 21:47,6/10/2016 22:04,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKDAY,Male,Delay,23,32,48
+6/10/2016 23:53,6/11/2016 0:01,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKDAY,Female,On-time,46,40,20
+6/11/2016 17:08,6/11/2016 17:16,Business,Chicago Downtown,Chicago Suburb,3.7,Errand/Supplies,WEEKDAY,Male,Cancelled,55,4,48
+6/11/2016 17:34,6/11/2016 17:39,Business,Chicago Suburb,Chicago Downtown,4.6,Meal/Entertain,WEEKEND,Male,Cancelled,55,12,20
+6/11/2016 17:50,6/11/2016 17:56,Business,LA Downtown,LA Downtown,1.7,Other,WEEKEND,Male,Cancelled,46,8,20
+6/11/2016 21:45,6/11/2016 22:04,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKDAY,Male,Cancelled,28,20,16
+6/11/2016 23:39,6/12/2016 0:05,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKDAY,Male,Cancelled,33,16,16
+6/12/2016 19:53,6/12/2016 19:56,Business,Chicago Downtown,Chicago Suburb,2.5,Meal/Entertain,WEEKDAY,Male,Cancelled,55,28,16
+6/12/2016 20:05,6/12/2016 20:16,Business,Chicago Suburb,Chicago Downtown,4.3,Errand/Supplies,WEEKDAY,Male,Cancelled,32,24,16
+6/12/2016 21:58,6/12/2016 22:19,Business,LA Downtown,LA Downtown,2.8,Errand/Supplies,WEEKDAY,Male,Cancelled,33,36,16
+6/13/2016 5:23,6/13/2016 5:42,Business,Chicago Downtown,Chicago Suburb,8.4,Meal/Entertain,WEEKEND,Female,Cancelled,39,32,16
+6/13/2016 14:17,6/13/2016 14:46,Business,Newjersey Airport,Newjersey Downtown,13.2,Meeting,WEEKEND,Male,Cancelled,44,40,16
+6/13/2016 18:08,6/13/2016 18:47,Business,Boston Downtown,Boston tea Party,3.9,Meal/Entertain,WEEKDAY,Male,Delay,46,3,30
+6/13/2016 18:54,6/13/2016 19:23,Business,Richmond Downtown,Richmond hindu temple,5.1,Meal/Entertain,WEEKDAY,Male,Delay,28,9,30
+6/13/2016 20:00,6/13/2016 20:05,Business,Newjersey Airport,Newjersey Downtown,5.2,Customer Visit,WEEKDAY,Female,Cancelled,33,6,30
+6/14/2016 12:03,6/14/2016 12:21,Business,Boston Downtown,Boston tea Party,9.8,Other,WEEKDAY,Female,Cancelled,53,15,30
+6/14/2016 16:09,6/14/2016 16:39,Business,Chicago Downtown,Chicago Downtown,11.6,Meeting,WEEKDAY,Female,Cancelled,45,12,30
+6/14/2016 17:15,6/14/2016 17:24,Business,Boston Downtown,Boston tea Party,5.1,Meeting,WEEKEND,Female,Cancelled,23,18,30
+6/14/2016 17:27,6/14/2016 17:57,Business,Richmond hindu temple,Richmond Downtown,9.3,Errand/Supplies,WEEKEND,Male,Cancelled,23,27,30
+6/15/2016 1:46,6/15/2016 2:06,Business,West Palm Beach,West Palm Beach,12.4,Between Offices,WEEKDAY,Male,Cancelled,23,24,30
+6/15/2016 15:26,6/15/2016 15:34,Business,Miami beach,Miami beach,1.9,Between Offices,WEEKDAY,Male,Cancelled,46,30,10
+6/15/2016 16:37,6/15/2016 17:02,Business,NewYork Downtown,NewYork Downtown,6.4,Customer Visit,WEEKDAY,Female,Cancelled,55,3,30
+6/15/2016 17:29,6/15/2016 17:49,Personal,NewYork Downtown,NewYork Downtown,5.5,Other,WEEKDAY,Male,Cancelled,55,9,35
+6/15/2016 19:52,6/15/2016 19:58,Business,Chicago downtown,Chicago downtown,1.5,Meal/Entertain,WEEKDAY,Male,Cancelled,33,6,35
+6/16/2016 13:36,6/16/2016 14:30,Business,Newjersey Airport,Newjersey Downtown,14.5,Other,WEEKEND,Male,Cancelled,55,15,35
+6/16/2016 14:42,6/16/2016 14:46,Business,Newjersey Airport,Newjersey Downtown,2.7,Other,WEEKEND,Male,Cancelled,32,12,35
+6/16/2016 15:17,6/16/2016 15:41,Business,West Palm Beach,West Palm Beach,15,Other,WEEKDAY,Male,Cancelled,33,21,35
+6/16/2016 19:39,6/16/2016 19:56,Business,Newjersey Airport,Newjersey Downtown,12.9,Other,WEEKDAY,Male,Cancelled,55,18,20
+6/16/2016 21:43,6/16/2016 21:56,Business,West Palm Beach,West Palm Beach,13.6,Other,WEEKDAY,Male,Cancelled,32,27,35
+6/17/2016 16:11,6/17/2016 16:44,Business,Newjersey Airport,Newjersey Downtown,12.2,Other,WEEKDAY,Male,Cancelled,28,24,35
+6/18/2016 0:29,6/18/2016 0:51,Business,Chicago Suburb,Chicago Downtown,8.7,Other,WEEKDAY,Female,Cancelled,33,30,35
+6/19/2016 2:39,6/19/2016 2:50,Business,Chicago Downtown,Raleigh,6,Other,WEEKEND,Male,Cancelled,55,3,60
+6/19/2016 5:51,6/19/2016 6:00,Business,Chicago Downtown,Chicago Downtown,5.9,Other,WEEKEND,Male,Cancelled,67,9,35
+6/21/2016 15:39,6/21/2016 16:08,Business,Chicago Downtown,Raleigh,19.3,Other,WEEKDAY,Female,Cancelled,29,6,35
+6/21/2016 17:11,6/21/2016 18:02,Business,Chicago Downtown,Chicago Downtown,16.6,Meal/Entertain,WEEKDAY,Male,Cancelled,34,15,35
+6/24/2016 10:41,6/24/2016 10:57,Business,LA Downtown,Waverly Place,7.1,Meal/Entertain,WEEKDAY,Male,Cancelled,29,12,35
+6/24/2016 11:54,6/24/2016 12:01,Business,Chicago downtown,Chicago downtown,2.1,Meal/Entertain,WEEKDAY,Male,Cancelled,33,21,35
+6/24/2016 12:19,6/24/2016 12:37,Business,Chicago Downtown,Raleigh,8.6,Errand/Supplies,WEEKDAY,Female,Cancelled,39,18,48
+6/24/2016 12:50,6/24/2016 13:12,Business,Chicago Downtown,Chicago Suburb,9,Errand/Supplies,WEEKEND,Female,Cancelled,44,27,48
+6/24/2016 13:18,6/24/2016 13:27,Business,Chicago Suburb,Chicago Downtown,3.1,Errand/Supplies,WEEKEND,Female,Delay,46,24,48
+6/24/2016 14:01,6/24/2016 14:20,Business,Chicago Downtown,Chicago Suburb,8.4,Temporary Site,WEEKDAY,Female,Delay,28,30,48
+6/24/2016 20:44,6/24/2016 21:02,Business,West Palm Beach,West Palm Beach,12.8,Other,WEEKDAY,Female,Delay,33,3,20
+6/25/2016 9:03,6/25/2016 9:12,Business,Miami beach,Miami beach,4.5,Other,WEEKDAY,Female,Delay,55,9,48
+6/25/2016 9:15,6/25/2016 10:08,Business,Newjersey Airport,Newjersey Downtown,11.8,Between Offices,WEEKDAY,Female,Delay,32,6,20
+6/25/2016 10:18,6/25/2016 10:25,Business,Milwaukee Downtown,Milwaukee Downtown,1.1,Errand/Supplies,WEEKDAY,Female,Delay,46,15,20
+6/25/2016 10:50,6/25/2016 11:18,Business,Boston Downtown,Boston Downtown,17,Meal/Entertain,WEEKEND,Female,Delay,28,12,16
+6/25/2016 11:25,6/25/2016 11:34,Business,Dallas Downtown,LA Downtown,1.7,Meeting,WEEKEND,Female,Delay,33,21,16
+6/25/2016 11:53,6/25/2016 13:21,Business,Newjersey Airport,Newjersey Downtown,15.5,Meeting,WEEKDAY,Female,Delay,55,18,16
+6/25/2016 19:47,6/25/2016 19:58,Business,Chicago downtown,Chicago downtown,1.6,Other,WEEKDAY,Male,Delay,32,27,16
+6/25/2016 23:19,6/25/2016 23:26,Business,NewYork Downtown,NewYork Downtown,1.5,Other,WEEKDAY,Female,Delay,77,24,16
+6/26/2016 17:43,6/26/2016 18:18,Business,Newjersey Airport,Newjersey Downtown,12.6,Meeting,WEEKDAY,Male,Delay,80,30,16
+6/26/2016 18:45,6/26/2016 19:12,Business,Dallas Downtown,LA Downtown,4.8,Other,WEEKDAY,Male,Delay,76,3,16
+6/26/2016 19:41,6/26/2016 19:50,Business,West Palm Beach,West Palm Beach,2.2,Other,WEEKEND,Male,Delay,36,9,30
+6/26/2016 21:14,6/26/2016 21:42,Business,West Palm Beach,West Palm Beach,13,Other,WEEKEND,Male,Delay,23,6,30
+6/27/2016 7:37,6/27/2016 8:48,Business,Newjersey Airport,Newjersey Downtown,46.9,Other,WEEKDAY,Male,Delay,29,15,30
+6/27/2016 8:51,6/27/2016 9:00,Business,Dallas airport,Dallas Downtown,2.5,Other,WEEKDAY,Female,Delay,33,12,30
+6/27/2016 9:05,6/27/2016 9:33,Business,Dallas airport,Dallas Downtown,8.6,Other,WEEKDAY,Female,Delay,39,21,30
+6/27/2016 9:43,6/27/2016 10:08,Business,Dallas airport,Dallas Downtown,5.2,Other,WEEKDAY,Female,Delay,44,18,18
+6/27/2016 10:22,6/27/2016 10:39,Business,Dallas airport,Dallas Downtown,7.6,Other,WEEKDAY,Female,Delay,46,27,30
+6/27/2016 10:51,6/27/2016 10:58,Business,Dallas airport,Dallas Downtown,1.8,Other,WEEKEND,Male,Delay,28,24,30
+6/27/2016 11:06,6/27/2016 11:24,Business,Dallas airport,Dallas Downtown,4.7,Other,WEEKEND,Male,Delay,33,30,30
+6/27/2016 11:30,6/27/2016 11:42,Business,NewYork Downtown,NewYork Downtown,2.8,Other,WEEKDAY,Male,Delay,60,3,10
+6/27/2016 12:22,6/27/2016 13:02,Business,NewYork Downtown,NewYork Downtown,30,Other,WEEKDAY,Male,Delay,50,9,30
+6/27/2016 13:56,6/27/2016 14:05,Business,Newjersey Airport,Newjersey Downtown,4.4,Other,WEEKDAY,Male,Delay,28,6,35
+6/27/2016 21:09,6/27/2016 21:19,Business,Newjersey Downtown,Newjersey Downtown,1,Other,WEEKDAY,Female,Delay,33,15,35
+6/28/2016 0:48,6/28/2016 1:05,Business,Chicago Suburb,Chicago Downtown,8.2,Customer Visit,WEEKDAY,Male,Delay,55,12,35
+6/28/2016 20:13,6/28/2016 20:33,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKEND,Male,Delay,67,21,35
+6/28/2016 23:34,6/28/2016 23:59,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKEND,Female,Delay,29,18,35
+6/28/2016 23:34,6/28/2016 23:59,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKDAY,Male,Delay,28,27,20
+6/29/2016 8:56,6/29/2016 9:24,Business,Chicago Downtown,Chicago Suburb,7.3,Other,WEEKDAY,Male,Delay,33,24,35
+6/29/2016 10:22,6/29/2016 10:38,Business,Chicago Suburb,Chicago Downtown,7.4,Other,WEEKDAY,Male,Delay,55,30,35
+6/29/2016 11:49,6/29/2016 11:51,Business,LA Downtown,Westpark Place,1.6,Other,WEEKDAY,Male,Delay,67,3,35
+6/29/2016 12:11,6/29/2016 12:16,Business,LA Downtown,LA Downtown,1.8,Other,WEEKDAY,Male,Delay,29,9,60
+6/29/2016 20:11,6/29/2016 20:29,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKEND,Female,Delay,44,6,35
+6/29/2016 23:38,6/30/2016 0:00,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKEND,Male,Delay,46,15,35
+6/30/2016 20:09,6/30/2016 20:26,Business,Chicago Downtown,Durham,9.9,Meeting,WEEKDAY,Male,Delay,28,12,35
+7/1/2016 0:00,7/1/2016 0:25,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKDAY,Female,Delay,33,21,35
+7/1/2016 9:34,7/1/2016 9:57,Business,Chicago Downtown,Raleigh,13.3,Meeting,WEEKDAY,Male,Delay,55,18,35
+7/1/2016 12:36,7/1/2016 13:00,Business,Chicago Downtown,Chicago Downtown,11.3,Meeting,WEEKDAY,Female,Delay,32,24,48
+7/1/2016 20:06,7/1/2016 20:24,Business,Chicago Downtown,Durham,10.5,Meeting,WEEKDAY,Male,Delay,53,30,48
+7/1/2016 23:48,7/2/2016 0:09,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKEND,Male,Delay,45,3,48
+7/2/2016 20:18,7/2/2016 20:36,Business,Chicago Downtown,Durham,10.1,Meeting,WEEKEND,Male,Delay,23,9,20
+7/2/2016 23:48,7/3/2016 0:12,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting,WEEKDAY,Male,Delay,23,6,48
+7/3/2016 0:28,7/3/2016 0:38,Business,Chicago Downtown,Chicago Suburb,3.1,Errand/Supplies,WEEKDAY,Male,Delay,23,15,20
+7/3/2016 3:02,7/3/2016 3:08,Business,Chicago Suburb,Chicago Downtown,3.1,Errand/Supplies,WEEKDAY,Female,Delay,46,12,20
+7/3/2016 20:00,7/3/2016 20:18,Business,Chicago Downtown,Durham,9.9,Meeting,WEEKDAY,Male,Delay,55,21,16
+7/4/2016 0:32,7/4/2016 0:47,Business,Ohio Downtown,Ohio Downtown,9.9,Meeting,WEEKDAY,Female,Delay,55,18,16
+7/4/2016 17:31,7/4/2016 17:49,Business,LA Downtown,Summerwinds,8.8,Meeting,WEEKEND,Female,Delay,39,27,16
+7/4/2016 18:23,7/4/2016 18:49,Business,LA Downtown,LA Downtown,8.7,Temporary Site,WEEKEND,Female,Delay,54,24,16
+7/4/2016 20:00,7/4/2016 20:17,Business,Chicago Downtown,Durham,11.8,Meeting,WEEKDAY,Female,Delay,72,30,16
+7/5/2016 0:00,7/5/2016 0:05,Business,Dallas Downtown,LA Downtown,1.2,Errand/Supplies,WEEKDAY,Female,Delay,28,3,16
+7/5/2016 0:08,7/5/2016 0:28,Business,Ohio Downtown,Ohio Downtown,9.9,Meeting,WEEKDAY,Female,Delay,33,9,16
+7/5/2016 16:48,7/5/2016 16:52,Business,LA Downtown,LA Downtown,0.6,Errand/Supplies,WEEKDAY,Female,Delay,55,6,30
+7/5/2016 20:06,7/5/2016 20:26,Business,Chicago Downtown,Durham,9.9,Other,WEEKDAY,Female,Delay,67,15,30
+7/5/2016 22:41,7/5/2016 23:02,Business,Ohio Downtown,Ohio Downtown,8.6,Other,WEEKEND,Female,Delay,29,12,30
+7/6/2016 0:33,7/6/2016 0:53,Business,Chicago Suburb,Chicago Downtown,6.3,Meal/Entertain,WEEKEND,Female,Delay,53,21,30
+7/6/2016 9:06,7/6/2016 9:25,Business,Chicago Downtown,Durham,9.9,Meeting,WEEKDAY,Female,Delay,45,18,30
+7/6/2016 12:48,7/6/2016 13:08,Business,Ohio Downtown,Ohio Downtown,9.9,Other,WEEKDAY,Male,Delay,23,27,18
+7/6/2016 20:04,7/6/2016 20:14,Business,Chicago Downtown,Chicago Suburb,3.3,Meal/Entertain,WEEKDAY,Male,Delay,23,24,30
+7/6/2016 23:46,7/6/2016 23:59,Business,Chicago Suburb,Chicago Downtown,3.1,Customer Visit,WEEKDAY,Female,Delay,23,30,30
+7/7/2016 8:22,7/7/2016 8:50,Business,Chicago Downtown,Chicago Suburb,7.9,Temporary Site,WEEKDAY,Male,Delay,46,3,30
+7/7/2016 10:27,7/7/2016 10:33,Business,Chicago Suburb,Chicago Downtown,8.9,Other,WEEKEND,Male,Delay,55,9,10
+7/7/2016 12:59,7/7/2016 13:35,Business,West Palm Beach,West Palm Beach,12.8,Other,WEEKEND,Male,Delay,55,6,30
+7/8/2016 9:50,7/8/2016 10:13,Business,Miami beach,Miami beach,7.7,Other,WEEKDAY,Male,Delay,67,15,35
+7/8/2016 10:51,7/8/2016 11:12,Business,Dallas Downtown,LA Downtown,7,Other,WEEKDAY,Male,Delay,29,12,35
+7/8/2016 13:48,7/8/2016 14:11,Business,Newjersey Airport,Newjersey Downtown,12.5,Other,WEEKDAY,Female,Delay,53,21,35
+7/8/2016 17:11,7/8/2016 17:30,Business,West Palm Beach,West Palm Beach,13.2,Other,WEEKDAY,Male,Delay,45,18,35
+7/9/2016 9:03,7/9/2016 9:46,Business,Newjersey Airport,Newjersey Downtown,13,Other,WEEKDAY,Male,Delay,23,27,35
+7/9/2016 9:52,7/9/2016 10:06,Business,West Palm Beach,West Palm Beach,4.9,Other,WEEKEND,Male,Delay,23,30,35
+7/9/2016 10:15,7/9/2016 10:33,Business,Newjersey Airport,Newjersey Downtown,8.5,Other,WEEKEND,Male,Delay,23,3,35
+7/10/2016 14:10,7/10/2016 14:17,Business,Miami beach,Miami beach,1.3,Other,WEEKDAY,Female,Delay,46,9,35
+7/10/2016 16:04,7/10/2016 16:15,Business,LA Downtown,LA Downtown,1.8,Other,WEEKDAY,Male,Delay,55,6,60
+7/10/2016 18:05,7/10/2016 18:21,Business,Newjersey Airport,Newjersey Downtown,13.6,Other,WEEKDAY,Male,Delay,55,15,35
+7/10/2016 19:51,7/10/2016 20:08,Business,West Palm Beach,West Palm Beach,13.4,Other,WEEKDAY,Male,Delay,23,12,35
+7/12/2016 16:10,7/12/2016 16:45,Business,Newjersey Airport,Newjersey Downtown,12.3,Other,WEEKDAY,Male,Delay,29,21,35
+7/12/2016 19:21,7/12/2016 19:26,Personal,West Palm Beach,West Palm Beach,1.4,Other,WEEKEND,Male,Delay,33,18,35
+7/12/2016 23:47,7/13/2016 0:11,Personal,Chicago Suburb,Chicago Downtown,8.7,Other,WEEKEND,Female,Delay,39,27,35
+7/13/2016 12:39,7/13/2016 13:20,Personal,Chicago Downtown,Chicago Suburb,23.5,Other,WEEKDAY,Male,Delay,44,24,48
+7/13/2016 13:25,7/13/2016 13:39,Personal,Chicago Suburb,Chicago Suburb,2.2,Other,WEEKDAY,Male,Delay,46,30,48
+7/13/2016 13:42,7/13/2016 13:54,Personal,Chicago Suburb,Chicago Downtown,4.4,Other,WEEKDAY,Male,Delay,28,3,48
+7/14/2016 15:51,7/14/2016 15:59,Personal,Chicago Downtown,Chicago Suburb,3.3,Other,WEEKDAY,Male,Delay,33,9,48
+7/14/2016 16:03,7/14/2016 16:34,Business,Chicago Suburb,Chicago Suburb,11.8,Errand/Supplies,WEEKDAY,Male,Delay,53,6,20
+7/14/2016 16:39,7/14/2016 20:05,Business,Chicago Suburb,Banner Elk,195.3,Other,WEEKEND,Female,On-time,45,15,48
+7/15/2016 11:32,7/15/2016 11:53,Personal,Miami beach,Miami Downtown,8.3,Other,WEEKEND,Male,On-time,23,12,20
+7/15/2016 12:09,7/15/2016 12:19,Personal,Miami beach,Miami Downtown,3.2,Other,WEEKDAY,Female,On-time,23,21,20
+7/15/2016 12:35,7/15/2016 13:15,Personal,Miami beach,Miami Downtown,22.4,Other,WEEKDAY,Female,On-time,23,18,16
+7/15/2016 15:03,7/15/2016 15:33,Personal,Boston Downtown,Boston tea Party,12.2,Other,WEEKDAY,Female,On-time,46,27,16
+7/15/2016 15:40,7/15/2016 15:52,Personal,Miami beach,Miami Downtown,4.5,Other,WEEKDAY,Female,On-time,55,24,16
+7/16/2016 13:14,7/16/2016 14:10,Personal,Miami beach,Miami Downtown,28.1,Other,WEEKDAY,Female,On-time,55,30,16
+7/16/2016 14:14,7/16/2016 14:30,Personal,Newjersey Airport,Newjersey Downtown,3.8,Other,WEEKEND,Male,On-time,55,3,16
+7/16/2016 15:29,7/16/2016 16:57,Personal,Newjersey Airport,Newjersey Downtown,41.9,Other,WEEKEND,Male,On-time,67,9,16
+7/16/2016 19:42,7/16/2016 20:35,Personal,Chicago Downtown,Chicago Downtown,23.8,Other,WEEKDAY,Female,On-time,29,6,16
+7/16/2016 21:45,7/16/2016 22:18,Personal,Miami beach,Miami Downtown,13,Other,WEEKDAY,Male,On-time,53,15,30
+7/16/2016 22:50,7/16/2016 23:03,Business,Miami beach,Miami Downtown,4.4,Errand/Supplies,WEEKDAY,Female,On-time,45,12,30
+7/17/2016 11:23,7/17/2016 11:50,Personal,Miami beach,Miami Downtown,15.1,Charity ($),WEEKDAY,Female,On-time,23,21,30
+7/17/2016 12:20,7/17/2016 15:25,Personal,Chicago Downtown,Chicago Downtown,180.2,Commute,WEEKDAY,Female,On-time,23,18,30
+7/18/2016 10:37,7/18/2016 10:49,Personal,Chicago Downtown,Chicago Suburb,4.1,Moving,WEEKEND,Female,On-time,23,27,30
+7/18/2016 10:54,7/18/2016 11:15,Personal,Chicago Suburb,Chicago Downtown,6.1,Moving,WEEKEND,Female,On-time,46,24,18
+7/18/2016 11:25,7/18/2016 11:36,Personal,Newjersey Airport,Newjersey Downtown,3.3,Moving,WEEKDAY,Female,On-time,55,30,30
+7/18/2016 11:40,7/18/2016 11:56,Personal,LA Downtown,LA Downtown,4.7,Moving,WEEKDAY,Female,On-time,55,3,30
+7/18/2016 17:12,7/18/2016 17:33,Business,Chicago Downtown,Apex,7.2,Meeting,WEEKDAY,Female,On-time,67,9,30
+7/18/2016 18:32,7/18/2016 18:47,Business,Chicago suburb,Chicago Downtown,5.5,Meal/Entertain,WEEKDAY,Female,On-time,29,6,10
+7/18/2016 19:07,7/18/2016 19:14,Business,Chicago Downtown,Chicago Suburb,3.3,Meal/Entertain,WEEKDAY,Female,On-time,26,15,30
+7/18/2016 20:28,7/18/2016 20:32,Business,Chicago Downtown,Chicago suburb,0.9,Errand/Supplies,WEEKEND,Female,On-time,29,12,35
+7/18/2016 21:11,7/18/2016 21:19,Business,Chicago Suburb,Chicago Downtown,3.8,Meal/Entertain,WEEKEND,Male,On-time,30,21,35
+7/19/2016 10:35,7/19/2016 10:51,Business,LA Downtown,Stonewater,6.4,Customer Visit,WEEKDAY,Male,Cancelled,37,18,35
+7/19/2016 10:56,7/19/2016 11:11,Business,LA Downtown,LA Downtown,3,Meeting,WEEKDAY,Female,Cancelled,29,27,35
+7/19/2016 11:30,7/19/2016 12:00,Business,NewYork Downtown,NewYork Downtown,8.7,Meal/Entertain,WEEKDAY,Male,Cancelled,78,24,35
+7/19/2016 17:14,7/19/2016 17:24,Business,LA Downtown,Chessington,3.9,Errand/Supplies,WEEKDAY,Male,Cancelled,28,30,20
+7/19/2016 17:50,7/19/2016 18:08,Personal,Milwaukee Downtown,Milwaukee Downtown,4.8,Other,WEEKDAY,Male,Cancelled,53,3,35
+7/20/2016 17:12,7/20/2016 17:24,Personal,LA Downtown,Edgehill Farms,2.8,Other,WEEKEND,Male,Cancelled,39,9,35
+7/20/2016 17:50,7/20/2016 17:57,Personal,LA Downtown,LA amtrak station,1.4,Other,WEEKEND,Male,Cancelled,48,6,35
+7/20/2016 18:16,7/20/2016 18:20,Personal,LA Downtown,LA Downtown,1.4,Other,WEEKDAY,Female,Cancelled,28,15,60
+7/21/2016 17:17,7/21/2016 17:23,Business,LA Downtown,Edgehill Farms,2.7,Other,WEEKDAY,Male,Cancelled,28,12,35
+7/21/2016 17:42,7/21/2016 17:51,Business,LA Downtown,LA amtrak station,2.3,Other,WEEKDAY,Male,Cancelled,33,21,35
+7/21/2016 18:27,7/21/2016 18:42,Business,Chicago Downtown,Chicago Suburb,3.7,Other,WEEKDAY,Male,Cancelled,55,18,35
+7/21/2016 19:30,7/21/2016 19:39,Business,Chicago Suburb,Chicago Downtown,2.9,Other,WEEKDAY,Male,Delay,67,27,35
+7/22/2016 10:42,7/22/2016 10:53,Business,Chicago Downtown,Chicago Suburb,3.8,Other,WEEKEND,Male,Cancelled,29,24,35
+7/22/2016 11:11,7/22/2016 11:25,Business,Chicago Suburb,Chicago Downtown,5.1,Other,WEEKEND,Male,Cancelled,53,30,48
+7/22/2016 11:37,7/22/2016 12:00,Business,Chicago Downtown,Chicago suburb,9.1,Other,WEEKDAY,Male,Delay,45,3,48
+7/22/2016 12:14,7/22/2016 12:31,Business,Chicago Downtown,Durham,8,Other,WEEKDAY,Male,Delay,23,9,48
+7/22/2016 13:21,7/22/2016 13:42,Business,Ohio Downtown,Ohio Downtown,9.9,Meeting,WEEKDAY,Female,Delay,23,6,48
+7/22/2016 14:27,7/22/2016 14:43,Business,Chicago Downtown,Chicago Suburb,6.1,Meal/Entertain,WEEKDAY,Male,Delay,23,15,20
+7/22/2016 15:49,7/22/2016 16:22,Business,Chicago Suburb,Chicago Downtown,12.2,Other,WEEKDAY,Male,Delay,46,12,48
+7/22/2016 18:33,7/22/2016 18:51,Business,LA Downtown,LA Downtown,8,Other,WEEKEND,Male,Delay,55,21,20
+7/23/2016 14:27,7/23/2016 14:44,Business,Chicago Downtown,Chicago Suburb,4,Other,WEEKEND,Male,Delay,55,18,20
+7/23/2016 14:48,7/23/2016 15:12,Business,Chicago Suburb,Chicago Downtown,9.5,Other,WEEKDAY,Male,Delay,37,27,16
+7/23/2016 15:15,7/23/2016 15:27,Business,Chicago Downtown,Chicago Suburb,3,Other,WEEKDAY,Female,Delay,28,24,16
+7/23/2016 15:50,7/23/2016 16:10,Business,Chicago Suburb,Chicago Downtown,6.3,Other,WEEKDAY,Female,Delay,33,30,16
+7/23/2016 20:17,7/23/2016 20:33,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKDAY,Female,Delay,55,9,16
+7/23/2016 23:18,7/23/2016 23:43,Business,Ohio Downtown,Ohio Downtown,9.9,Meeting,WEEKDAY,Female,Delay,67,6,16
+7/25/2016 10:35,7/25/2016 10:41,Business,LA Downtown,Parkway,1.5,Other,WEEKEND,Female,Delay,29,15,16
+7/25/2016 10:47,7/25/2016 10:58,Business,Chicago Downtown,Chicago Suburb,4.9,Other,WEEKEND,Female,Delay,30,12,30
+7/25/2016 11:04,7/25/2016 11:33,Business,Chicago Suburb,Chicago Downtown,7.9,Other,WEEKDAY,Female,Delay,36,21,30
+7/25/2016 11:37,7/25/2016 11:44,Business,LA Downtown,LA Downtown,1.7,Other,WEEKDAY,Female,Delay,23,18,30
+7/26/2016 15:43,7/26/2016 15:49,Business,LA Downtown,Westpark Place,2.2,Other,WEEKDAY,Female,Delay,29,27,30
+7/26/2016 17:14,7/26/2016 17:24,Business,LA Downtown,LA Downtown,2.1,Other,WEEKDAY,Female,Delay,33,24,30
+7/26/2016 20:52,7/26/2016 21:00,Business,Chicago Downtown,Chicago Suburb,2.5,Meal/Entertain,WEEKDAY,Female,Delay,39,30,18
+7/26/2016 22:31,7/26/2016 22:39,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain,WEEKEND,Female,Delay,44,3,30
+7/27/2016 19:08,7/27/2016 19:20,Business,Chicago Downtown,Chicago Suburb,2.8,Other,WEEKEND,Male,Delay,46,9,30
+7/27/2016 21:34,7/27/2016 21:57,Business,Chicago Suburb,Raleigh,14.7,Other,WEEKDAY,Male,Delay,28,6,30
+7/27/2016 22:00,7/27/2016 22:26,Business,Chicago Downtown,Chicago Suburb,14.6,Other,WEEKDAY,Male,Delay,33,15,10
+7/28/2016 0:04,7/28/2016 0:09,Business,Chicago Suburb,Chicago Downtown,2.3,Other,WEEKDAY,Male,Delay,44,12,30
+7/29/2016 15:45,7/29/2016 15:47,Business,LA Downtown,Westpark Place,2.2,Other,WEEKDAY,Male,Delay,55,21,35
+7/29/2016 17:27,7/29/2016 17:45,Business,LA Downtown,LA Downtown,2.2,Meal/Entertain,WEEKDAY,Female,Delay,77,18,35
+7/30/2016 17:02,7/30/2016 17:27,Business,Chicago Downtown,Durham,14,Other,WEEKEND,Male,Delay,33,27,35
+7/30/2016 21:16,7/30/2016 21:41,Business,Ohio Downtown,Ohio Downtown,13.3,Other,WEEKEND,Male,Delay,36,24,35
+7/31/2016 17:30,7/31/2016 17:37,Business,LA Downtown,LA Downtown,1.8,Other,WEEKDAY,Male,Delay,23,30,35
+8/1/2016 12:47,8/1/2016 13:04,Business,LA Downtown,Arlington Park at Amberly,6.2,Other,WEEKDAY,Male,Delay,29,3,20
+8/1/2016 13:08,8/1/2016 13:19,Business,Newjersey Airport,Newjersey Downtown,1.3,Other,WEEKDAY,Male,Delay,33,9,35
+8/1/2016 13:28,8/1/2016 13:46,Business,NewYork Downtown,NewYork Downtown,1.9,Other,WEEKDAY,Female,Delay,39,6,35
+8/1/2016 13:52,8/1/2016 14:14,Business,Chicago Downtown,Apex,6.9,Other,WEEKDAY,Female,Delay,44,15,35
+8/1/2016 15:40,8/1/2016 15:47,Business,Chicago suburb,Chicago Downtown,4.6,Other,WEEKEND,Female,Delay,46,12,60
+8/1/2016 16:18,8/1/2016 16:25,Business,LA Downtown,Edgehill Farms,2.8,Other,WEEKEND,Female,Delay,28,21,35
+8/1/2016 16:29,8/1/2016 16:59,Business,Chicago Downtown,Chicago Suburb,9.1,Other,WEEKDAY,Female,Delay,33,18,35
+8/1/2016 17:23,8/1/2016 17:55,Business,Chicago Suburb,Chicago Downtown,8.1,Other,WEEKDAY,Male,Delay,37,27,35
+8/2/2016 8:11,8/2/2016 8:32,Business,Chicago Downtown,Chicago Suburb,8.4,Meeting,WEEKDAY,Male,Delay,48,24,35
+8/2/2016 11:51,8/2/2016 12:15,Business,Newjersey Airport,Newjersey Downtown,4.9,Other,WEEKDAY,Male,Delay,38,30,35
+8/2/2016 19:15,8/2/2016 19:23,Business,Dallas Airport,Dallas Downtown,1,Other,WEEKDAY,Male,Delay,34,3,48
+8/2/2016 21:23,8/2/2016 21:29,Business,Dallas Airport,Dallas Downtown,1,Other,WEEKEND,Female,Delay,26,6,48
+8/3/2016 12:46,8/3/2016 13:00,Business,LA Downtown,LA Downtown,2,Other,WEEKEND,Female,Delay,33,15,48
+8/3/2016 14:59,8/3/2016 15:03,Business,Dallas Airport,Dallas Downtown,1.1,Other,WEEKDAY,Female,Delay,55,12,20
+8/3/2016 16:00,8/3/2016 16:04,Business,Dallas Airport,Dallas Downtown,1.5,Other,WEEKDAY,Female,Delay,42,21,48
+8/5/2016 17:23,8/5/2016 17:30,Business,Dallas Downtown,Dallas airport,1.3,Other,WEEKDAY,Female,Delay,62,18,20
+8/5/2016 18:17,8/5/2016 18:21,Business,Dallas Airport,Dallas Downtown,1.8,Other,WEEKDAY,Female,Delay,37,27,20
+8/5/2016 19:17,8/5/2016 19:27,Business,Milwaukee Downtown,Milwaukee Downtown,1.5,Other,WEEKDAY,Female,Delay,73,24,16
+8/6/2016 6:40,8/6/2016 6:58,Business,LA Downtown,LA Downtown,6.6,Other,WEEKEND,Female,Delay,48,30,16
+8/6/2016 9:31,8/6/2016 9:53,Business,Chicago Suburb,Chicago Downtown,8,Other,WEEKEND,Male,Delay,25,3,16
+8/7/2016 17:14,8/7/2016 17:23,Business,LA Downtown,Edgehill Farms,2.7,Other,WEEKDAY,Male,Delay,27,9,16
+8/7/2016 17:28,8/7/2016 17:43,Business,LA Downtown,LA amtrak station,2.7,Customer Visit,WEEKDAY,Male,Delay,28,6,16
+8/7/2016 18:17,8/7/2016 18:23,Business,Chicago Downtown,Chicago Suburb,2.5,Other,WEEKDAY,Male,Delay,24,15,16
+8/7/2016 20:15,8/7/2016 20:23,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain,WEEKDAY,Male,Delay,34,12,16
+8/8/2016 16:17,8/8/2016 16:31,Business,LA Downtown,LA Amtrak station,5.2,Other,WEEKDAY,Male,Delay,32,21,30
+8/8/2016 16:37,8/8/2016 16:50,Business,LA Amtrak station,Edgehill Farms,4,Other,WEEKEND,Male,Delay,30,18,30
+8/8/2016 17:02,8/8/2016 17:13,Business,LA Downtown,LA amtrak station,2.7,Customer Visit,WEEKEND,Male,Delay,71,27,30
+8/8/2016 21:50,8/8/2016 22:15,Business,Chicago Downtown,Chicago Suburb,4.8,Other,WEEKDAY,Male,Delay,25,24,30
+8/8/2016 23:28,8/8/2016 23:37,Business,Chicago Suburb,Chicago Downtown,3.2,Customer Visit,WEEKDAY,Male,Delay,32,30,30
+8/9/2016 14:20,8/9/2016 14:38,Business,LA Downtown,Waverly Place,6.9,Other,WEEKDAY,Female,Delay,35,3,18
+8/9/2016 15:15,8/9/2016 15:36,Business,Chicago Downtown,Raleigh,14.9,Other,WEEKDAY,Female,Delay,44,9,30
+8/9/2016 16:04,8/9/2016 16:37,Business,Chicago Downtown,Chicago Downtown,17.4,Other,WEEKDAY,Female,Delay,55,6,30
+8/10/2016 16:56,8/10/2016 17:24,Business,Chicago Downtown,Durham,12.9,Other,WEEKEND,Female,Delay,38,15,30
+8/10/2016 17:53,8/10/2016 18:28,Business,Ohio Downtown,Ohio Downtown,15.3,Other,WEEKEND,Female,Delay,69,12,10
+8/10/2016 18:49,8/10/2016 18:50,Business,Chicago suburb,Chicago Downtown,1,Other,WEEKDAY,Female,Delay,78,21,30
+8/10/2016 19:47,8/10/2016 20:02,Business,Chicago suburb,Chicago Downtown,6,Other,WEEKDAY,Female,Delay,28,18,35
+8/11/2016 12:53,8/11/2016 13:00,Business,LA Downtown,Heritage Pines,2.2,Other,WEEKDAY,Female,Delay,53,27,35
+8/11/2016 13:14,8/11/2016 13:28,Business,Richmond hindu temple ,Richmond Downtown,4.4,Other,WEEKDAY,Female,Delay,39,24,35
+8/11/2016 13:32,8/11/2016 13:42,Business,LA Downtown,LA amtrak station,2.8,Other,WEEKDAY,Female,Delay,48,30,35
+8/11/2016 18:37,8/11/2016 19:29,Business,Chicago Downtown,Wake Forest,31.7,Other,WEEKEND,Female,Delay,28,3,35
+8/11/2016 20:59,8/11/2016 21:44,Business,Chicago suburb,Chicago Downtown,31.9,Other,WEEKEND,Male,Delay,37,6,35
+8/12/2016 18:49,8/12/2016 18:52,Business,LA Downtown,Westpark Place,1.9,Other,WEEKDAY,Male,Delay,48,15,35
+8/12/2016 18:56,8/12/2016 19:05,Business,LA Downtown,LA Downtown,1.8,Other,WEEKDAY,Male,Delay,38,12,35
+8/13/2016 15:35,8/13/2016 15:58,Business,Chicago Downtown,Chicago Suburb,8.4,Meeting,WEEKDAY,Male,Delay,34,21,60
+8/15/2016 9:05,8/15/2016 9:52,Business,Chicago Downtown,Chicago Downtown,15.6,Other,WEEKDAY,Male,Delay,26,18,35
+8/15/2016 15:20,8/15/2016 15:47,Business,LA Downtown,LA Downtown,14.1,Other,WEEKDAY,Female,Delay,25,27,35
+8/15/2016 16:52,8/15/2016 17:30,Business,LA Downtown,LA Downtown,15.7,Other,WEEKEND,Female,Delay,32,24,35
+8/15/2016 19:08,8/15/2016 20:30,Business,LA Downtown,LA Downtown,25.9,Temporary Site,WEEKEND,Female,Delay,37,30,35
+8/16/2016 7:58,8/16/2016 8:11,Business,LA Downtown,LA Downtown,7.9,Other,WEEKDAY,Female,Delay,48,3,35
+8/16/2016 8:16,8/16/2016 8:23,Business,LA Downtown,LA Downtown,2.7,Other,WEEKDAY,Female,Delay,26,9,48
+8/16/2016 8:46,8/16/2016 8:53,Business,LA Downtown,LA Downtown,5.5,Other,WEEKDAY,Female,Delay,37,6,48
+8/16/2016 10:06,8/16/2016 10:27,Business,LA Downtown,LA Downtown,5.7,Other,WEEKDAY,Female,Delay,34,15,48
+8/16/2016 10:31,8/16/2016 10:38,Business,Richmond hindu temple ,Richmond Downtown,1.2,Other,WEEKDAY,Female,On-time,29,12,48
+8/16/2016 11:47,8/16/2016 12:03,Business,Richmond hindu temple ,Richmond Downtown,5.7,Temporary Site,WEEKEND,Female,On-time,46,21,20
+8/16/2016 15:13,8/16/2016 15:36,Business,LA Downtown,LA Downtown,16.2,Other,WEEKEND,Male,On-time,43,18,48
+8/17/2016 10:17,8/17/2016 10:41,Business,Richmond Downtown,Richmond Hindu temple,2.6,Other,WEEKDAY,Male,On-time,80,27,20
+8/17/2016 10:57,8/17/2016 11:20,Business,Richmond Downtown,Richmond Hindu temple,12.1,Other,WEEKDAY,Male,On-time,31,24,20
+8/17/2016 14:45,8/17/2016 14:50,Business,Richmond Downtown,Richmond Hindu temple,1.4,Other,WEEKDAY,Male,On-time,73,30,16
+8/17/2016 15:32,8/17/2016 15:47,Business,Chicago Downtown,Chicago Downtown,6.4,Other,WEEKDAY,Male,On-time,68,3,16
+8/17/2016 16:29,8/17/2016 16:50,Business,Richmond hindu temple ,Richmond Downtown,7.3,Other,WEEKDAY,Male,On-time,22,9,16
+8/17/2016 16:54,8/17/2016 17:00,Business,Richmond Downtown,Richmond Hindu temple,5.3,Other,WEEKEND,Male,On-time,20,6,16
+8/17/2016 17:05,8/17/2016 17:34,Business,Richmond Downtown,Richmond Hindu temple,5.5,Other,WEEKEND,Female,On-time,28,15,16
+8/17/2016 18:38,8/17/2016 18:57,Business,Richmond Downtown,Richmond Hindu temple,7.7,Temporary Site,WEEKDAY,Female,On-time,26,12,16
+8/18/2016 18:40,8/18/2016 19:07,Business,Richmond Downtown,Richmond Hindu temple,7.6,Temporary Site,WEEKDAY,Female,On-time,29,21,16
+8/19/2016 8:24,8/19/2016 8:45,Business,Richmond Downtown,Richmond Hindu temple,7.6,Other,WEEKDAY,Female,On-time,30,18,30
+8/19/2016 8:54,8/19/2016 9:07,Business,Newjersey Airport,Newjersey Downtown,3.3,Other,WEEKDAY,Female,On-time,37,27,30
+8/19/2016 9:27,8/19/2016 9:47,Business,Richmond hindu temple ,Richmond Downtown,6.5,Other,WEEKDAY,Female,On-time,29,24,30
+8/19/2016 10:57,8/19/2016 11:06,Business,Chicago Downtown,Chicago Downtown,2,Other,WEEKEND,Female,On-time,48,30,30
+8/19/2016 12:07,8/19/2016 12:24,Business,Richmond Downtown,Richmond Hindu temple,5.7,Other,WEEKEND,Female,On-time,25,3,30
+8/19/2016 15:51,8/19/2016 16:06,Business,Richmond hindu temple ,Richmond Downtown,3.2,Other,WEEKDAY,Female,On-time,27,9,18
+8/19/2016 17:12,8/19/2016 17:52,Business,Richmond hindu temple ,Richmond Downtown,12.5,Other,WEEKDAY,Female,On-time,28,6,30
+8/21/2016 10:00,8/21/2016 10:29,Business,Richmond Downtown,Richmond Hindu temple,7.6,Airport/Travel,WEEKDAY,Male,On-time,24,12,30
+8/21/2016 14:05,8/21/2016 14:34,Business,Richmond Downtown,Richmond Hindu temple,7.7,Other,WEEKDAY,Male,On-time,34,21,10
+8/21/2016 16:30,8/21/2016 17:02,Business,Richmond Downtown,Richmond Hindu temple,12.2,Other,WEEKDAY,Male,On-time,32,18,30
+8/21/2016 18:10,8/21/2016 18:17,Business,Richmond hindu temple ,Richmond Downtown,1.4,Other,WEEKEND,Male,On-time,30,27,35
+8/21/2016 18:48,8/21/2016 19:24,Business,Richmond hindu temple ,Richmond Downtown,20.2,Other,WEEKEND,Female,On-time,71,24,35
+8/22/2016 10:00,8/22/2016 10:44,Business,Richmond Downtown,Richmond Hindu temple,9.8,Other,WEEKDAY,Female,On-time,39,30,35
+8/22/2016 11:07,8/22/2016 11:23,Business,Richmond hindu temple ,Richmond Downtown,6.3,Other,WEEKDAY,Female,On-time,44,3,35
+8/22/2016 12:36,8/22/2016 12:49,Business,Richmond Downtown,Richmond Hindu temple,4.9,Other,WEEKDAY,Female,On-time,46,9,35
+8/22/2016 13:02,8/22/2016 13:11,Business,Richmond hindu temple ,Richmond Downtown,1.5,Other,WEEKDAY,Female,On-time,28,6,20
+8/22/2016 14:07,8/22/2016 14:31,Business,Richmond hindu temple ,Richmond Downtown,10.9,Other,WEEKDAY,Female,On-time,33,15,35
+8/22/2016 15:14,8/22/2016 15:49,Business,Richmond Downtown,Richmond Hindu temple,19,Other,WEEKEND,Female,On-time,78,12,35
+8/22/2016 15:59,8/22/2016 17:16,Business,Richmond Downtown,Richmond Hindu temple,19,Other,WEEKEND,Female,On-time,28,21,35
+8/22/2016 19:58,8/22/2016 20:50,Business,Richmond Downtown,Richmond Hindu temple,7.9,Other,WEEKDAY,Female,On-time,53,18,60
+8/22/2016 20:53,8/22/2016 21:31,Business,Chicago Downtown,Chicago Downtown,4.1,Other,WEEKDAY,Male,On-time,39,27,35
+8/22/2016 22:31,8/22/2016 23:00,Business,Chicago Downtown,Chicago Downtown,18.7,Other,WEEKDAY,Male,On-time,48,24,35
+8/23/2016 8:10,8/23/2016 8:25,Business,Richmond Downtown,Richmond Hindu temple,8.7,Other,WEEKDAY,Male,On-time,28,30,35
+8/23/2016 9:35,8/23/2016 10:09,Business,Newjersey Airport,Newjersey Downtown,7.5,Other,WEEKDAY,Male,On-time,37,3,35
+8/23/2016 12:59,8/23/2016 13:15,Business,Richmond Downtown,Richmond Hindu temple,7.7,Other,WEEKEND,Male,On-time,48,9,35
+8/23/2016 13:19,8/23/2016 13:30,Business,Newjersey Airport,Newjersey Downtown,4.4,Other,WEEKEND,Male,On-time,38,6,48
+8/23/2016 13:49,8/23/2016 14:04,Business,Richmond hindu temple ,Richmond Downtown,5,Other,WEEKDAY,Male,On-time,34,15,48
+8/23/2016 15:07,8/23/2016 15:12,Business,Richmond Downtown,Richmond Hindu temple,1.9,Other,WEEKDAY,Female,On-time,26,12,48
+8/23/2016 15:15,8/23/2016 17:16,Business,Richmond Downtown,Richmond Hindu temple,7.9,Other,WEEKDAY,Female,On-time,25,21,48
+8/23/2016 17:42,8/23/2016 18:31,Business,Richmond Downtown,Richmond Hindu temple,17.7,Other,WEEKDAY,Female,On-time,32,18,20
+8/24/2016 12:05,8/24/2016 12:56,Business,Richmond Downtown,Richmond Hindu temple,25.2,Other,WEEKDAY,Male,On-time,68,27,48
+8/24/2016 13:01,8/24/2016 15:25,Business,Richmond Downtown,Richmond Hindu temple,96.2,Other,WEEKEND,Male,On-time,22,24,20
+8/25/2016 15:17,8/25/2016 16:22,Business,Richmond Downtown,Richmond Hindu temple,35,Other,WEEKEND,Male,On-time,20,30,20
+8/25/2016 16:36,8/25/2016 16:56,Business,Richmond Downtown,Richmond Hindu temple,5.5,Other,WEEKDAY,Male,On-time,28,3,16
+8/25/2016 17:19,8/25/2016 19:20,Business,Richmond Downtown,Richmond Hindu temple,50.4,Other,WEEKDAY,Female,On-time,26,9,16
+8/25/2016 19:25,8/25/2016 19:57,Business,Richmond Downtown,Richmond Hindu temple,9.2,Other,WEEKDAY,Female,On-time,29,6,16
+8/25/2016 22:58,8/25/2016 23:16,Business,NewYork Downtown,NewYork Downtown,7.3,Other,WEEKDAY,Female,On-time,30,15,16
+8/26/2016 9:06,8/26/2016 9:20,Business,Richmond Downtown,Richmond Hindu temple,5,Other,WEEKDAY,Female,On-time,37,21,16
+8/26/2016 11:14,8/26/2016 11:26,Business,Richmond Downtown,Richmond Hindu temple,3.8,Other,WEEKEND,Female,On-time,29,18,16
+8/26/2016 12:10,8/26/2016 12:20,Business,Richmond Downtown,Richmond Hindu temple,3.9,Other,WEEKEND,Female,On-time,37,27,30
+8/26/2016 14:10,8/26/2016 14:33,Business,NewYork Downtown,NewYork Downtown,7.4,Other,WEEKDAY,Female,On-time,73,24,30
+8/26/2016 15:23,8/26/2016 15:35,Business,NewYork Downtown,NewYork Downtown,1.5,Other,WEEKDAY,Female,On-time,48,30,30
+8/26/2016 15:59,8/26/2016 16:24,Business,NewYork Downtown,NewYork Downtown,7.9,Other,WEEKDAY,Female,On-time,25,3,30
+8/26/2016 16:55,8/26/2016 17:12,Business,Richmond Downtown,Richmond Hindu temple,2.9,Other,WEEKDAY,Female,On-time,27,9,30
+8/26/2016 18:42,8/26/2016 18:56,Business,NewYork Downtown,NewYork Downtown,3.4,Other,WEEKDAY,Male,On-time,28,6,18
+8/26/2016 19:31,8/26/2016 19:54,Business,NewYork Downtown,NewYork Downtown,3.8,Other,WEEKEND,Male,On-time,24,15,30
+8/26/2016 20:06,8/26/2016 20:16,Business,NewYork Downtown,NewYork Downtown,5.9,Other,WEEKEND,Male,On-time,34,12,30
+8/27/2016 9:34,8/27/2016 10:11,Business,Richmond Downtown,Richmond Hindu temple,9.6,Other,WEEKDAY,Male,On-time,32,21,30
+8/27/2016 11:47,8/27/2016 12:06,Business,NewYork Downtown,NewYork Downtown,7,Other,WEEKDAY,Male,On-time,30,18,10
+8/27/2016 12:12,8/27/2016 12:17,Business,NewYork Downtown,NewYork Downtown,0.9,Other,WEEKDAY,Female,On-time,71,27,30
+8/27/2016 14:01,8/27/2016 15:44,Business,NewYork Downtown,NewYork Downtown,86.6,Other,WEEKDAY,Female,On-time,35,24,35
+8/27/2016 16:15,8/27/2016 19:13,Business,Richmond Downtown,Richmond Hindu temple,156.9,Other,WEEKDAY,Female,On-time,44,30,35
+8/28/2016 9:57,8/28/2016 10:18,Business,Richmond Downtown,Richmond Hindu temple,10.1,Other,WEEKEND,Female,On-time,55,3,35
+8/28/2016 16:39,8/28/2016 16:55,Business,Newjersey Airport,Newjersey Downtown,6.2,Other,WEEKEND,Female,On-time,38,9,35
+8/28/2016 17:37,8/28/2016 17:55,Business,Richmond hindu temple ,Richmond Downtown,5.3,Other,WEEKDAY,Male,On-time,69,6,35
+8/28/2016 21:15,8/28/2016 21:59,Business,Richmond hindu temple ,Richmond Downtown,12.1,Other,WEEKDAY,Male,On-time,37,15,20
+8/29/2016 12:02,8/29/2016 12:31,Business,Richmond Downtown,Richmond Hindu temple,10.8,Other,WEEKDAY,Male,On-time,48,12,35
+8/29/2016 13:38,8/29/2016 13:48,Business,Richmond hindu temple ,Richmond Downtown,4.3,Other,WEEKDAY,Female,On-time,26,21,35
+8/29/2016 14:31,8/29/2016 14:41,Business,Richmond hindu temple ,Richmond Downtown,2.5,Other,WEEKDAY,Female,On-time,48,18,35
+8/29/2016 14:49,8/29/2016 15:04,Business,Richmond hindu temple ,Richmond Downtown,5.7,Temporary Site,WEEKEND,Female,On-time,28,27,60
+8/29/2016 15:49,8/29/2016 15:59,Business,Richmond Downtown,Richmond Hindu temple,2.8,Other,WEEKEND,Female,On-time,37,24,35
+8/29/2016 16:06,8/29/2016 16:21,Business,LA Amtrak station,LA Amtrak Downtown,4,Other,WEEKDAY,Female,On-time,48,30,35
+8/29/2016 17:24,8/29/2016 17:41,Business,Richmond Downtown,Richmond Hindu temple,5.5,Other,WEEKDAY,Female,On-time,38,3,35
+8/29/2016 18:27,8/29/2016 18:36,Business,LA Amtrak station,LA Amtrak Downtown,2.6,Other,WEEKDAY,Male,On-time,34,9,35
+8/30/2016 11:53,8/30/2016 12:05,Business,Richmond Downtown,Richmond Hindu temple,2.1,Other,WEEKDAY,Female,On-time,26,6,35
+8/30/2016 12:46,8/30/2016 13:09,Business,Richmond Downtown,Richmond Hindu temple,8.8,Other,WEEKDAY,Female,On-time,25,15,48
+8/30/2016 13:25,8/30/2016 13:46,Business,LA Amtrak station,LA Amtrak Downtown,4.4,Other,WEEKEND,Female,On-time,32,12,48
+8/30/2016 14:00,8/30/2016 14:20,Business,LA Amtrak station,LA Amtrak Downtown,5.3,Other,WEEKEND,Male,On-time,35,18,48
+8/30/2016 17:27,8/30/2016 18:09,Business,Richmond Downtown,Richmond Hindu temple,13,Other,WEEKDAY,Male,On-time,25,27,20
+9/1/2016 11:51,9/1/2016 12:24,Business,Richmond Downtown,Richmond Hindu temple,13,Other,WEEKDAY,Male,On-time,23,24,48
+9/1/2016 17:21,9/1/2016 17:36,Business,LA Amtrak station,LA Amtrak Downtown,10.6,Other,WEEKDAY,Female,On-time,27,30,20
+9/1/2016 18:49,9/1/2016 19:08,Business,Richmond Downtown,Richmond Hindu temple,2.2,Other,WEEKDAY,Female,On-time,29,3,20
+9/2/2016 11:37,9/2/2016 12:24,Business,Richmond Downtown,Richmond Hindu temple,9.2,Other,WEEKDAY,Female,On-time,46,9,16
+9/2/2016 18:56,9/2/2016 19:37,Business,Richmond Downtown,Richmond Hindu temple,12.9,Other,WEEKEND,Female,On-time,43,6,16
+9/5/2016 10:25,9/5/2016 10:44,Business,Richmond Downtown,Richmond Hindu temple,17.2,Other,WEEKEND,Female,On-time,80,15,16
+9/6/2016 17:49,9/6/2016 17:49,Business,Richmond Downtown,Richmond Hindu temple,69.1,Other,WEEKDAY,Female,On-time,31,12,16
+9/10/2016 10:28,9/10/2016 10:45,Business,Richmond Downtown,Richmond Hindu temple,2.8,Other,WEEKDAY,Female,On-time,73,21,16
+9/11/2016 9:51,9/11/2016 9:55,Business,Richmond Downtown,Richmond Hindu temple,8.6,Other,WEEKDAY,Female,On-time,68,18,16
+9/11/2016 21:40,9/11/2016 21:42,Business,Richmond Downtown,Richmond Hindu temple,9.8,Other,WEEKDAY,Female,On-time,22,27,16
+9/12/2016 8:07,9/12/2016 8:12,Business,Richmond Downtown,Richmond Hindu temple,3.6,Other,WEEKDAY,Female,On-time,20,24,30
+9/12/2016 11:15,9/12/2016 11:24,Business,Richmond Downtown,Richmond Hindu temple,1.7,Other,WEEKEND,Female,On-time,28,30,30
+9/12/2016 13:04,9/12/2016 13:44,Business,Richmond Downtown,Richmond Hindu temple,11.5,Other,WEEKEND,Male,On-time,26,3,30
+9/13/2016 16:56,9/13/2016 17:02,Business,Richmond Downtown,Richmond Hindu temple,0.7,Other,WEEKDAY,Male,On-time,29,9,30
+9/14/2016 11:55,9/14/2016 11:59,Business,Richmond Downtown,Richmond Hindu temple,0.7,Other,WEEKDAY,Female,On-time,30,6,30
+9/15/2016 20:33,9/15/2016 20:38,Business,Richmond Downtown,Richmond Hindu temple,0.9,Other,WEEKDAY,Female,On-time,37,15,18
+9/16/2016 7:08,9/16/2016 7:08,Business,Richmond Downtown,Richmond Hindu temple,1.6,Other,WEEKDAY,Female,On-time,29,12,30
+9/18/2016 18:07,9/18/2016 18:11,Business,Richmond Downtown,Richmond Hindu temple,9.4,Other,WEEKDAY,Female,On-time,25,21,30
+9/19/2016 6:18,9/19/2016 6:49,Business,Chicago Downtown,Chicago Downtown,18.2,Other,WEEKEND,Female,On-time,27,18,30
+9/19/2016 14:40,9/19/2016 14:56,Business,Richmond Downtown,Richmond Hindu temple,10.5,Other,WEEKEND,Female,On-time,28,27,10
+9/19/2016 16:23,9/19/2016 16:31,Business,LA Amtrak station,LA Amtrak Downtown,5.7,Other,WEEKDAY,Female,On-time,24,24,30
+9/19/2016 17:36,9/19/2016 18:20,Business,Richmond Downtown,Richmond Hindu temple,18,Other,WEEKDAY,Male,On-time,34,30,35
+9/19/2016 19:10,9/19/2016 19:49,Business,Richmond Downtown,Richmond Hindu temple,18.3,Other,WEEKDAY,Male,On-time,32,3,35
+9/20/2016 11:29,9/20/2016 11:48,Business,LA Amtrak station,LA Amtrak Downtown,16.5,Other,WEEKDAY,Male,On-time,30,9,35
+9/20/2016 20:47,9/20/2016 22:47,Business,Richmond Downtown,Richmond Hindu temple,9.6,Other,WEEKDAY,Male,On-time,71,6,35
+9/23/2016 13:15,9/23/2016 13:40,Business,Dallas Airport,Dallas Downtown,2.9,Other,WEEKEND,Male,On-time,29,15,35
+9/24/2016 14:34,9/24/2016 15:15,Business,Dallas Airport,Dallas Downtown,8.2,Other,WEEKEND,Male,On-time,78,12,20
+9/24/2016 20:29,9/24/2016 20:33,Business,Richmond Downtown,Richmond Hindu temple,2.4,Other,WEEKDAY,Male,On-time,28,21,35
+9/27/2016 8:33,9/27/2016 8:35,Business,Richmond Downtown,Richmond Hindu temple,5.8,Other,WEEKDAY,Female,On-time,53,18,35
+9/27/2016 13:21,9/27/2016 14:43,Business,NewYork Downtown,NewYork Downtown,9.8,Other,WEEKDAY,Female,On-time,39,27,35
+9/27/2016 19:14,9/27/2016 20:34,Business,NewYork Downtown,NewYork Downtown,7.3,Other,WEEKDAY,Female,On-time,48,24,60
+9/27/2016 21:01,9/28/2016 2:37,Business,Richmond Downtown,Richmond Hindu temple,195.6,Other,WEEKDAY,Female,On-time,28,30,35
+9/28/2016 17:21,9/28/2016 19:36,Business,LA Amtrak station,LA Amtrak Downtown,20.5,Other,WEEKEND,Male,On-time,37,3,35
+9/29/2016 16:13,9/29/2016 18:47,Business,Richmond Downtown,Richmond Hindu temple,12.6,Other,WEEKEND,Male,On-time,48,9,35
+9/30/2016 17:39,9/30/2016 20:20,Business,LA Amtrak station,LA Amtrak Downtown,37.7,Other,WEEKDAY,Male,On-time,38,6,35
+9/30/2016 20:59,9/30/2016 22:34,Business,LA Amtrak station,LA Amtrak Downtown,16.7,Other,WEEKDAY,Male,On-time,34,15,35
+10/3/2016 17:09,10/3/2016 17:12,Business,Richmond Downtown,Richmond Hindu temple,10.5,Other,WEEKDAY,Female,On-time,26,12,48
+10/3/2016 18:17,10/3/2016 18:34,Business,LA Amtrak station,LA Amtrak Downtown,2.8,Other,WEEKDAY,Female,On-time,25,21,48
+10/3/2016 18:51,10/3/2016 19:01,Business,LA Amtrak station,LA Amtrak Downtown,1.6,Other,WEEKDAY,Female,On-time,32,18,48
+10/3/2016 22:04,10/3/2016 22:33,Business,LA Amtrak station,LA Amtrak Downtown,12.7,Other,WEEKEND,Female,On-time,38,27,48
+10/4/2016 9:50,10/4/2016 10:52,Business,Richmond Downtown,Richmond Hindu temple,28.6,Other,WEEKEND,Female,On-time,34,24,20
+10/4/2016 12:17,10/4/2016 12:18,Business,Richmond Downtown,Richmond Hindu temple,15.1,Other,WEEKDAY,Female,On-time,26,30,48
+10/6/2016 8:49,10/6/2016 11:36,Business,Richmond Downtown,Richmond Hindu temple,17.9,Other,WEEKDAY,Female,On-time,25,3,20
+10/6/2016 17:23,10/6/2016 17:40,Business,Chicago Downtown,Chicago Downtown,112.6,Other,WEEKDAY,Female,On-time,32,9,20
+10/6/2016 18:37,10/6/2016 18:39,Business,Richmond Downtown,Richmond Hindu temple,18.4,Other,WEEKDAY,Female,On-time,33,6,16
+10/6/2016 19:46,10/6/2016 20:26,Business,Richmond Downtown,Richmond Hindu temple,13.8,Other,WEEKDAY,Female,On-time,29,15,16
+10/7/2016 10:56,10/7/2016 10:59,Business,Richmond Downtown,Richmond Hindu temple,33.2,Other,WEEKEND,Female,On-time,46,12,16
+10/7/2016 11:27,10/7/2016 11:50,Business,NewYork Downtown,NewYork Downtown,2.6,Other,WEEKEND,Male,On-time,43,21,16
+10/7/2016 13:52,10/7/2016 14:08,Business,NewYork Downtown,NewYork Downtown,5.8,Other,WEEKDAY,Male,On-time,80,18,16
+10/7/2016 14:29,10/7/2016 15:11,Business,Richmond Downtown,Richmond Hindu temple,8.3,Other,WEEKDAY,Male,On-time,31,27,16
+10/7/2016 15:47,10/7/2016 16:02,Business,NewYork Downtown,NewYork Downtown,2.4,Other,WEEKDAY,Male,On-time,73,24,16
+10/7/2016 18:08,10/7/2016 18:27,Business,NewYork Downtown,NewYork Downtown,3.1,Other,WEEKDAY,Male,On-time,68,30,30
+10/7/2016 18:33,10/7/2016 19:01,Business,NewYork Downtown,NewYork Downtown,6.1,Other,WEEKDAY,Male,On-time,22,3,30
+10/8/2016 15:03,10/8/2016 15:03,Business,Dallas Airport,Dallas Downtown,3.6,Other,WEEKEND,Male,On-time,20,9,30
+10/8/2016 18:15,10/8/2016 18:18,Business,Dallas Airport,Dallas Downtown,8,Other,WEEKEND,Female,On-time,28,6,30
+10/9/2016 14:04,10/9/2016 14:23,Business,Richmond Downtown,Richmond Hindu temple,7.7,Temporary Site,WEEKDAY,Female,On-time,26,15,30
+10/10/2016 17:22,10/10/2016 17:28,Business,LA Amtrak station,LA Amtrak Downtown,1.7,Other,WEEKDAY,Female,On-time,29,12,18
+10/10/2016 17:33,10/10/2016 18:13,Business,LA Amtrak station,LA Amtrak Downtown,9.5,Other,WEEKDAY,Female,On-time,30,21,30
+10/11/2016 1:27,10/11/2016 2:08,Business,Richmond Downtown,Richmond Hindu temple,17.1,Meeting,WEEKDAY,Female,On-time,37,18,30
+10/12/2016 19:18,10/12/2016 19:21,Business,Chicago Downtown,Chicago Downtown,18.4,Other,WEEKDAY,Female,On-time,29,27,30
+10/13/2016 11:20,10/13/2016 11:58,Business,Richmond Downtown,Richmond Hindu temple,9.8,Other,WEEKEND,Female,On-time,48,30,30
+10/13/2016 12:08,10/13/2016 12:14,Business,LA Amtrak station,LA Amtrak Downtown,1,Other,WEEKEND,Female,On-time,25,3,35
+10/13/2016 13:02,10/13/2016 13:02,Business,LA Amtrak station,LA Amtrak Downtown,0.7,Other,WEEKDAY,Female,On-time,27,9,35
+10/13/2016 13:37,10/13/2016 13:46,Business,LA Amtrak station,LA Amtrak Downtown,2.3,Other,WEEKDAY,Male,On-time,28,6,35
+10/13/2016 16:08,10/13/2016 16:53,Business,LA Amtrak station,LA Amtrak Downtown,10.9,Other,WEEKDAY,Male,On-time,24,15,35
+10/14/2016 8:50,10/14/2016 9:44,Business,Richmond Downtown,Richmond Hindu temple,12.7,Other,WEEKDAY,Male,On-time,34,12,35
+10/14/2016 10:16,10/14/2016 10:52,Business,Chicago Downtown,Chicago Downtown,12.4,Other,WEEKDAY,Male,On-time,32,21,20
+10/14/2016 15:56,10/14/2016 16:20,Business,Richmond Downtown,Richmond Hindu temple,3.8,Other,WEEKEND,Male,On-time,30,18,35
+10/14/2016 23:54,10/15/2016 2:06,Business,Richmond Downtown,Richmond Hindu temple,17,Meeting,WEEKEND,Male,On-time,71,27,35
+10/15/2016 22:28,10/15/2016 22:48,Business,Chicago Suburb,Chicago Suburb,6.2,Other,WEEKDAY,Male,On-time,37,24,35
+10/16/2016 0:01,10/16/2016 0:14,Business,Chicago Suburb,Chicago Downtown,3.1,Other,WEEKDAY,Male,On-time,34,30,60
+10/16/2016 12:52,10/16/2016 13:11,Business,Chicago Downtown,Durham,10.5,Meeting,WEEKDAY,Male,On-time,35,3,35
+10/16/2016 14:40,10/16/2016 15:01,Business,Ohio Downtown,Ohio Downtown,8.1,Other,WEEKDAY,Female,On-time,25,9,35
+10/16/2016 15:10,10/16/2016 15:19,Business,Chicago Suburb,Chicago Downtown,3.1,Other,WEEKDAY,Female,On-time,23,6,35
+10/16/2016 19:27,10/16/2016 19:33,Business,LA Downtown,Parkway,2.1,Meeting,WEEKEND,Female,On-time,27,15,35
+10/16/2016 20:30,10/16/2016 20:39,Business,Chicago Downtown,Chicago Suburb,4.3,Other,WEEKEND,Female,On-time,29,12,35
+10/16/2016 21:34,10/16/2016 21:41,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain,WEEKDAY,Female,On-time,48,21,48
+10/17/2016 15:19,10/17/2016 15:57,Business,Chicago Downtown,Raleigh,20.6,Other,WEEKDAY,Female,On-time,26,18,48
+10/17/2016 16:29,10/17/2016 17:11,Business,Chicago Downtown,Chicago Downtown,17.6,Other,WEEKDAY,Female,On-time,37,27,48
+10/17/2016 18:02,10/17/2016 18:16,Business,Chicago Downtown,Apex,5.6,Other,WEEKDAY,Male,On-time,48,24,48
+10/17/2016 18:31,10/17/2016 18:45,Business,Chicago suburb,Chicago Downtown,3.3,Other,WEEKDAY,Male,On-time,38,30,20
+10/17/2016 19:08,10/17/2016 19:25,Business,Chicago suburb,Chicago Downtown,5.3,Other,WEEKEND,Male,On-time,34,3,48
+10/18/2016 8:12,10/18/2016 8:22,Business,LA Downtown,Edgehill Farms,3.3,Other,WEEKEND,Male,On-time,26,9,20
+10/18/2016 8:53,10/18/2016 9:02,Business,LA Downtown,LA amtrak station,3.3,Other,WEEKDAY,Male,On-time,25,6,20
+10/18/2016 10:41,10/18/2016 11:09,Business,Chicago Downtown,Chicago Suburb,7.9,Temporary Site,WEEKDAY,Female,On-time,32,15,16
+10/18/2016 18:12,10/18/2016 18:33,Business,Newjersey Airport,Newjersey Downtown,13,Other,WEEKDAY,Female,On-time,44,12,16
+10/18/2016 19:03,10/18/2016 19:13,Business,Boston Downtown,Boston tea Party,3,Other,WEEKDAY,Female,On-time,46,21,16
+10/18/2016 20:31,10/18/2016 20:37,Business,Richmond Downtown,Richmond hindu temple,3,Other,WEEKDAY,Female,On-time,28,18,16
+10/19/2016 9:33,10/19/2016 9:47,Business,Boston Downtown,Boston tea Party,3.8,Other,WEEKEND,Female,On-time,33,27,16
+10/19/2016 9:54,10/19/2016 10:21,Business,Newjersey Airport,Newjersey Downtown,9.5,Other,WEEKEND,Female,On-time,37,24,16
+10/19/2016 13:45,10/19/2016 13:56,Business,LA Downtown,LA Downtown,1.7,Other,WEEKDAY,Female,On-time,34,30,16
+10/19/2016 14:02,10/19/2016 14:31,Business,Chicago Downtown,Chicago Downtown,10.8,Other,WEEKDAY,Female,On-time,35,3,30
+10/19/2016 15:44,10/19/2016 16:02,Business,LA Downtown,LA Downtown,4.1,Other,WEEKDAY,Female,On-time,25,9,30
+10/19/2016 16:06,10/19/2016 16:19,Business,Newjersey Airport,Newjersey Downtown,2.2,Other,WEEKDAY,Female,On-time,23,6,30
+10/19/2016 16:33,10/19/2016 17:01,Business,Richmond Downtown,Richmond hindu temple,4.6,Other,WEEKDAY,Female,On-time,27,15,30
+10/20/2016 11:26,10/20/2016 11:34,Business,Boston Downtown,Boston tea Party,3.1,Other,WEEKEND,Male,On-time,29,12,30
+10/20/2016 12:19,10/20/2016 13:17,Business,Richmond Downtown,Richmond hindu temple,47.7,Other,WEEKEND,Male,On-time,48,21,18
+10/20/2016 20:44,10/20/2016 21:37,Business,Chicago Downtown,Chicago Downtown,44.6,Other,WEEKDAY,Female,On-time,26,18,30
+10/21/2016 10:06,10/21/2016 10:21,Business,Boston Downtown,Boston tea Party,13.2,Other,WEEKDAY,Female,On-time,48,27,30
+10/22/2016 0:54,10/22/2016 1:09,Business,Chicago Suburb,Chicago Downtown,8.7,Other,WEEKDAY,Female,On-time,38,24,30
+10/22/2016 13:26,10/22/2016 14:03,Business,Chicago Downtown,Raleigh,17.2,Other,WEEKDAY,Female,On-time,34,3,30
+10/22/2016 17:08,10/22/2016 17:55,Business,Chicago Downtown,Chicago Downtown,14,Other,WEEKDAY,Female,On-time,26,9,35
+10/23/2016 9:24,10/23/2016 10:05,Business,Chicago Downtown,Raleigh,28.1,Other,WEEKEND,Female,On-time,25,6,35
+10/23/2016 12:17,10/23/2016 12:59,Business,Chicago Downtown,Chicago Downtown,28.2,Other,WEEKEND,Female,On-time,32,15,35
+10/23/2016 19:04,10/23/2016 19:14,Business,Chicago Downtown,Chicago Suburb,3.1,Meal/Entertain,WEEKDAY,Female,On-time,28,12,35
+10/23/2016 21:10,10/23/2016 21:25,Business,Chicago Suburb,Chicago Downtown,3.1,Customer Visit,WEEKDAY,Female,On-time,24,21,35
+10/24/2016 14:57,10/24/2016 15:26,Business,Chicago Downtown,Durham,16.4,Other,WEEKDAY,Female,On-time,34,18,20
+10/24/2016 15:33,10/24/2016 16:13,Business,Ohio Downtown,Ohio Downtown,15.4,Other,WEEKDAY,Male,On-time,32,27,35
+10/24/2016 16:34,10/24/2016 16:41,Business,Chicago Suburb,Chicago Downtown,2.2,Other,WEEKDAY,Male,On-time,30,24,35
+10/25/2016 13:27,10/25/2016 14:08,Business,Chicago Downtown,Apex,11.2,Other,WEEKEND,Male,On-time,71,30,35
+10/25/2016 15:04,10/25/2016 15:11,Business,Chicago suburb,Chicago Downtown,2.2,Other,WEEKEND,Male,Delay,37,3,60
+10/25/2016 15:16,10/25/2016 15:33,Business,Ohio Downtown,Ohio Downtown,3.6,Other,WEEKDAY,Male,Delay,34,9,35
+10/25/2016 20:00,10/25/2016 20:11,Business,LA Downtown,Savon Height,3.6,Meal/Entertain,WEEKDAY,Male,Delay,35,6,35
+10/25/2016 20:54,10/25/2016 21:03,Business,LA Downtown,LA Downtown,4.9,Other,WEEKDAY,Male,Delay,25,15,35
+10/25/2016 22:24,10/25/2016 22:45,Business,LA Downtown,LA Downtown,8.7,Errand/Supplies,WEEKDAY,Male,Delay,23,12,35
+10/26/2016 19:25,10/26/2016 19:31,Business,LA Downtown,Parkway,2.1,Meeting,WEEKDAY,Female,Delay,27,21,35
+10/26/2016 20:53,10/26/2016 21:03,Business,LA Downtown,LA Downtown,2.1,Other,WEEKEND,Female,Delay,29,18,48
+10/27/2016 18:51,10/27/2016 19:16,Business,Chicago Downtown,Chicago Suburb,8.4,Meeting,WEEKEND,Female,Delay,31,27,48
+10/27/2016 19:20,10/27/2016 19:35,Business,Chicago Suburb,Chicago Suburb,5.9,Other,WEEKDAY,Female,Delay,73,24,48
+10/27/2016 19:52,10/27/2016 20:21,Business,LA Amtrak station,LA Amtrak Downtown,12.1,Other,WEEKDAY,Female,Delay,68,3,20
+10/27/2016 20:47,10/27/2016 20:54,Business,LA Amtrak station,LA Amtrak Downtown,3.9,Other,WEEKDAY,Female,Delay,22,9,48
+10/27/2016 21:26,10/27/2016 21:48,Business,Chicago Suburb,Chicago Downtown,6.2,Other,WEEKDAY,Female,Delay,20,6,20
+10/28/2016 11:34,10/28/2016 11:52,Business,Chicago Downtown,Durham,10.4,Meeting,WEEKDAY,Female,Delay,28,15,20
+10/28/2016 13:06,10/28/2016 13:36,Business,Ohio Downtown,Ohio Downtown,9.9,Meeting,WEEKEND,Female,Delay,26,12,16
+10/28/2016 15:53,10/28/2016 17:59,Business,Chicago Downtown,Winston Salem,107,Meeting,WEEKEND,Male,Delay,29,21,16
+10/28/2016 18:13,10/28/2016 20:07,Business,LA Downtown,LA Downtown,133.6,Meeting,WEEKDAY,Male,Delay,30,18,16
+10/28/2016 20:13,10/28/2016 22:00,Business,Ohio Suburb,Ohio Downtown,91.8,Meeting,WEEKDAY,Male,Delay,37,27,16
+10/29/2016 15:22,10/29/2016 17:05,Business,Richmond Downtown,Richmond Hindu temple,40.7,Meeting,WEEKDAY,Male,Delay,29,24,16
+10/29/2016 17:13,10/29/2016 19:19,Business,Chicago Downtown,Chicago suburb,75.7,Other,WEEKDAY,Male,Delay,39,30,16
+10/30/2016 7:49,10/30/2016 8:30,Business,Richmond Downtown,Richmond Hindu temple,29.8,Other,WEEKDAY,Female,Delay,44,3,16
+10/30/2016 9:07,10/30/2016 10:09,Business,Chicago Downtown,Chicago Downtown,16.3,Other,WEEKEND,Female,On-time,46,9,30
+10/30/2016 10:11,10/30/2016 10:38,Business,Chicago Downtown,Chicago Downtown,6.5,Other,WEEKEND,Female,On-time,28,6,30
+10/30/2016 10:51,10/30/2016 11:21,Business,Chicago Downtown,Chicago Downtown,6.3,Other,WEEKDAY,Female,On-time,33,15,30
+10/30/2016 12:24,10/30/2016 12:35,Business,Chicago Downtown,Chicago Downtown,6.6,Other,WEEKDAY,Female,On-time,78,12,30
+10/30/2016 12:58,10/30/2016 13:18,Business,Richmond Downtown,Richmond suburb,15.2,Other,WEEKDAY,Male,On-time,28,21,30
+10/30/2016 13:24,10/30/2016 14:37,Business,Chicago Downtown,Chicago Downtown,68.4,Other,WEEKDAY,Male,On-time,53,18,18
+10/30/2016 15:22,10/30/2016 18:23,Business,Ohio Suburb,Ohio Downtown,195.9,Other,WEEKDAY,Male,On-time,39,27,30
+10/30/2016 18:26,10/30/2016 19:39,Business,Chicago Downtown,Chicago Downtown,45.2,Other,WEEKEND,Female,On-time,48,24,30
+10/31/2016 18:11,10/31/2016 18:20,Business,Chicago Downtown,Chicago Suburb,3.2,Other,WEEKEND,Female,On-time,28,30,30
+10/31/2016 18:47,10/31/2016 19:16,Business,Chicago Suburb,Raleigh,10.3,Other,WEEKDAY,Female,On-time,37,3,10
+10/31/2016 20:18,10/31/2016 20:44,Business,Chicago Downtown,Chicago Downtown,13.1,Other,WEEKDAY,Female,On-time,48,9,30
+10/31/2016 21:45,10/31/2016 22:10,Business,LA Downtown,LA Downtown,9.6,Errand/Supplies,WEEKDAY,Female,On-time,38,6,35
+11/1/2016 11:50,11/1/2016 12:27,Business,Chicago Downtown,Durham,16.5,Other,WEEKDAY,Female,On-time,34,15,35
+11/1/2016 16:29,11/1/2016 17:02,Business,Ohio Downtown,Ohio Downtown,12.8,Other,WEEKDAY,Female,On-time,26,12,35
+11/1/2016 17:35,11/1/2016 17:42,Business,LA Downtown,LA Downtown,1.2,Other,WEEKEND,Female,On-time,25,21,35
+11/1/2016 19:14,11/1/2016 19:20,Business,LA Downtown,LA Downtown,1,Other,WEEKEND,Female,On-time,32,18,35
+11/1/2016 19:59,11/1/2016 20:12,Business,LA Downtown,LA Downtown,4.1,Other,WEEKDAY,Female,On-time,34,27,20
+11/1/2016 20:41,11/1/2016 20:55,Business,LA Downtown,LA Downtown,4.2,Meal/Entertain,WEEKDAY,Female,On-time,26,24,35
+11/2/2016 15:10,11/2/2016 15:18,Business,LA Downtown,Westpark Place,1.4,Other,WEEKDAY,Male,On-time,25,30,35
+11/2/2016 15:45,11/2/2016 15:52,Business,LA Downtown,LA Downtown,1.8,Other,WEEKDAY,Male,On-time,32,9,60
+11/2/2016 16:46,11/2/2016 17:11,Business,Chicago Downtown,Chicago Suburb,8.5,Meeting,WEEKDAY,Male,On-time,28,6,35
+11/2/2016 17:34,11/2/2016 17:49,Business,Chicago Suburb,Chicago Suburb,5,Other,WEEKEND,Male,Delay,24,15,35
+11/2/2016 17:53,11/2/2016 18:00,Business,Chicago Suburb,Chicago Downtown,3.8,Other,WEEKEND,Female,Delay,34,12,35
+11/3/2016 11:28,11/3/2016 11:34,Business,LA Downtown,Hazelwood,2.5,Other,WEEKDAY,Female,Delay,32,21,35
+11/3/2016 12:43,11/3/2016 12:49,Business,Chicago Downtown,Chicago suburb,2.4,Other,WEEKDAY,Female,Delay,30,18,35
+11/3/2016 13:42,11/3/2016 13:47,Business,LA Downtown,Westpark Place,1.4,Other,WEEKDAY,Female,Delay,71,27,48
+11/3/2016 14:13,11/3/2016 14:26,Business,LA Downtown,LA Downtown,1.8,Other,WEEKDAY,Female,Delay,35,24,48
+11/3/2016 18:51,11/3/2016 19:08,Business,Chicago Downtown,Chicago Suburb,3.1,Meal/Entertain,WEEKDAY,Female,Delay,44,30,48
+11/3/2016 22:46,11/3/2016 22:58,Business,Chicago Suburb,Chicago Downtown,3.1,Customer Visit,WEEKEND,Female,On-time,55,3,48
+11/4/2016 10:02,11/4/2016 10:18,Business,Chicago Downtown,Chicago Suburb,7.9,Temporary Site,WEEKEND,Female,On-time,38,9,20
+11/4/2016 18:14,11/4/2016 18:21,Business,Chicago Downtown,Chicago Downtown,3.8,Other,WEEKDAY,Male,On-time,69,6,48
+11/4/2016 21:04,11/4/2016 21:20,Business,Chicago Downtown,Chicago Suburb,4.3,Other,WEEKDAY,Male,On-time,37,15,20
+11/4/2016 22:12,11/4/2016 22:25,Business,Dallas airport,Dallas Downtown,3.9,Other,WEEKDAY,Male,On-time,48,12,20
+11/5/2016 8:34,11/5/2016 8:43,Business,Chicago Downtown,Chicago Suburb,2.2,Other,WEEKDAY,Male,On-time,26,21,16
+11/5/2016 17:29,11/5/2016 17:40,Business,Chicago Downtown,Chicago Downtown,2.8,Other,WEEKDAY,Male,On-time,37,18,16
+11/5/2016 19:20,11/5/2016 19:28,Business,Chicago Downtown,Chicago Suburb,2.2,Other,WEEKEND,Male,On-time,48,24,16
+11/6/2016 10:50,11/6/2016 11:04,Business,Chicago Downtown,Chicago Suburb,2.4,Other,WEEKEND,Male,On-time,38,30,16
+11/6/2016 16:05,11/6/2016 16:22,Business,Chicago Downtown,Chicago Downtown,2.8,Meeting,WEEKDAY,Male,On-time,34,3,16
+11/6/2016 16:27,11/6/2016 17:28,Business,LA Downtown,LA Downtown,43.9,Customer Visit,WEEKDAY,Female,On-time,26,9,16
+11/6/2016 19:04,11/6/2016 19:12,Business,Ohio Downtown,Ohio Downtown,1.8,Other,WEEKDAY,Female,On-time,25,6,30
+11/6/2016 20:06,11/6/2016 20:21,Business,LA Downtown,LA Downtown,3.3,Other,WEEKDAY,Female,On-time,32,15,30
+11/7/2016 12:28,11/7/2016 12:57,Business,Richmond Downtown,Richmond hindu temple,11.8,Between Offices,WEEKDAY,Male,On-time,26,12,30
+11/7/2016 19:17,11/7/2016 19:57,Business,Chicago Downtown,Chicago Downtown,13.2,Between Offices,WEEKEND,Male,On-time,25,21,30
+11/8/2016 10:29,11/8/2016 10:57,Business,Richmond Downtown,Richmond hindu temple,12.2,Between Offices,WEEKEND,Male,On-time,32,18,30
+11/8/2016 12:16,11/8/2016 12:49,Business,Chicago Downtown,Chicago Downtown,11.3,Meeting,WEEKDAY,Female,On-time,26,27,18
+11/8/2016 13:41,11/8/2016 14:01,Business,Richmond Downtown,Richmond hindu temple,3.6,Other,WEEKDAY,Female,On-time,29,24,30
+11/8/2016 16:21,11/8/2016 16:34,Business,Boston Downtown,Boston tea Party,3,Other,WEEKDAY,Female,On-time,30,30,30
+11/9/2016 13:08,11/9/2016 13:41,Business,Richmond Downtown,Richmond hindu temple,11.4,Other,WEEKDAY,Female,On-time,37,3,30
+11/9/2016 15:58,11/9/2016 16:04,Business,Newjersey Airport,Newjersey Downtown,0.9,Other,WEEKDAY,Female,On-time,29,6,30
+11/9/2016 17:31,11/9/2016 18:03,Business,Ohio Downtown,Ohio Downtown,6.2,Other,WEEKEND,Female,On-time,37,15,35
+11/9/2016 18:09,11/9/2016 18:14,Business,Richmond Downtown,Richmond Hindu temple,0.7,Other,WEEKEND,Female,On-time,34,12,35
+11/9/2016 18:21,11/9/2016 18:35,Business,LA Amtrak station,LA Amtrak Downtown,5.5,Meeting,WEEKDAY,Female,On-time,35,21,35
+11/9/2016 18:40,11/9/2016 19:17,Business,Chicago Downtown,Chicago Downtown,12.7,Customer Visit,WEEKDAY,Female,On-time,25,18,35
+11/9/2016 20:52,11/9/2016 21:02,Business,Newjersey Airport,Newjersey Downtown,2.6,Other,WEEKDAY,Female,On-time,23,27,35
+11/9/2016 21:56,11/9/2016 22:02,Business,Milwaukee Downtown,Milwaukee Amtrak station,1.1,Other,WEEKDAY,Male,On-time,27,24,20
+11/10/2016 9:46,11/10/2016 10:15,Business,Richmond Downtown,Richmond hindu temple,12.6,Temporary Site,WEEKDAY,Male,On-time,29,30,35
+11/10/2016 10:20,11/10/2016 10:31,Business,Richmond Downtown,Richmond Hindu temple,1.2,Other,WEEKEND,Male,On-time,48,3,35
+11/10/2016 14:57,11/10/2016 15:07,Business,LA Downtown,LA Downtown,1.1,Other,WEEKEND,Male,On-time,26,9,35
+11/10/2016 15:17,11/10/2016 15:22,Business,Chicago Downtown,Chicago Downtown,9.9,Temporary Site,WEEKDAY,Male,On-time,73,6,60
+11/10/2016 15:30,11/10/2016 15:53,Business,Newjersey Airport,Newjersey Downtown,6,Meeting,WEEKDAY,Male,On-time,48,15,35
+11/10/2016 19:18,11/10/2016 19:21,Business,LA Downtown,LA Downtown,0.8,Other,WEEKDAY,Male,On-time,25,12,35
+11/11/2016 9:35,11/11/2016 10:23,Business,Richmond Downtown,Richmond hindu temple,45.9,Customer Visit,WEEKDAY,Female,On-time,27,21,35
+11/11/2016 12:58,11/11/2016 13:13,Business,West Palm Beach,West Palm Beach,4,Other,WEEKDAY,Female,On-time,28,18,35
+11/11/2016 14:20,11/11/2016 14:32,Business,Dallas Downtown,Dallas Downtown,2.5,Other,WEEKEND,Female,On-time,24,27,35
+11/11/2016 14:39,11/11/2016 15:46,Business,West Palm Beach,West Palm Beach,36.6,Customer Visit,WEEKEND,Female,On-time,34,24,48
+11/11/2016 18:30,11/11/2016 18:43,Business,Milwaukee Downtown,Milwaukee Amtrak station,2.9,Other,WEEKDAY,Female,On-time,32,30,48
+11/11/2016 21:08,11/11/2016 21:18,Business,Milwaukee Downtown,Milwaukee Downtown,2.6,Other,WEEKDAY,Female,On-time,30,3,48
+11/12/2016 10:32,11/12/2016 10:52,Business,Milwaukee Downtown,Milwaukee Amtrak station,2.3,Other,WEEKDAY,Female,On-time,71,9,48
+11/12/2016 10:55,11/12/2016 11:25,Business,LA Downtown,LA Downtown,6.4,Other,WEEKDAY,Male,On-time,37,6,20
+11/12/2016 13:07,11/12/2016 13:15,Business,Ohio Downtown,Ohio Downtown,1.4,Other,WEEKDAY,Male,On-time,34,15,48
+11/12/2016 13:46,11/12/2016 13:50,Business,Milwaukee Downtown,Milwaukee Amtrak station,0.6,Other,WEEKEND,Male,On-time,35,12,20
+11/12/2016 14:22,11/12/2016 14:53,Business,LA Downtown,LA Downtown,5.9,Meeting,WEEKEND,Male,On-time,25,21,20
+11/12/2016 15:14,11/12/2016 15:21,Business,LA Downtown,LA Downtown,0.8,Other,WEEKDAY,Female,On-time,23,18,16
+11/12/2016 15:25,11/12/2016 15:36,Business,Richmond Downtown,Richmond hindu temple,1.3,Other,WEEKDAY,Female,On-time,27,27,16
+11/12/2016 15:40,11/12/2016 15:59,Business,Boston Downtown,Boston tea Party,3.7,Errand/Supplies,WEEKDAY,Female,On-time,29,24,16
+11/13/2016 8:54,11/13/2016 9:02,Business,Milwaukee Downtown,Milwaukee Amtrak station,2.3,Other,WEEKDAY,Female,On-time,48,30,16
+11/13/2016 9:27,11/13/2016 9:53,Business,Milwaukee Downtown,Milwaukee Amtrak station,2.6,Other,WEEKDAY,Female,On-time,28,3,16
+11/13/2016 10:31,11/13/2016 10:37,Business,Milwaukee Downtown,Milwaukee Amtrak station,1.9,Other,WEEKEND,Female,On-time,37,9,16
+11/13/2016 11:04,11/13/2016 11:16,Business,LA Downtown,LA Downtown,2.1,Other,WEEKEND,Male,On-time,48,15,30
+11/13/2016 12:22,11/13/2016 12:51,Business,LA Downtown,LA Downtown,4,Meeting,WEEKDAY,Female,On-time,38,12,30
+11/13/2016 13:05,11/13/2016 13:11,Business,LA Downtown,LA Downtown,0.9,Other,WEEKDAY,Female,On-time,34,21,30
+11/13/2016 13:14,11/13/2016 13:18,Business,LA Downtown,LA Downtown,0.9,Other,WEEKDAY,Female,On-time,26,18,30
+11/13/2016 14:35,11/13/2016 14:46,Business,LA Downtown,LA Downtown,2.4,Other,WEEKDAY,Female,On-time,25,27,30
+11/13/2016 15:14,11/13/2016 15:24,Business,Milwaukee Downtown,Milwaukee Downtown,1.9,Other,WEEKDAY,Female,On-time,32,24,18
+11/13/2016 15:47,11/13/2016 15:59,Business,LA Downtown,LA Downtown,1.9,Other,WEEKEND,Female,On-time,20,30,30
+11/14/2016 11:24,11/14/2016 12:13,Business,Richmond Downtown,Richmond hindu temple,44.6,Customer Visit,WEEKEND,Female,On-time,28,3,30
+11/14/2016 13:40,11/14/2016 14:33,Business,Newjersey Airport,Newjersey Downtown,43.6,Customer Visit,WEEKDAY,Female,On-time,26,9,30
+11/14/2016 15:27,11/14/2016 15:36,Business,Richmond Downtown,Richmond hindu temple,2.5,Other,WEEKDAY,Female,On-time,29,6,10
+11/14/2016 20:19,11/14/2016 20:30,Business,Boston Downtown,Boston tea Party,3.7,Errand/Supplies,WEEKDAY,Female,On-time,30,15,30
+11/15/2016 13:59,11/15/2016 14:06,Business,Richmond Downtown,Richmond hindu temple,5.1,Other,WEEKDAY,Female,On-time,37,12,35
+11/15/2016 14:09,11/15/2016 14:26,Business,Newjersey Airport,Newjersey Downtown,9.7,Temporary Site,WEEKDAY,Male,On-time,29,21,35
+11/15/2016 20:44,11/15/2016 21:00,Business,Chicago Downtown,Chicago Downtown,11.8,Temporary Site,WEEKEND,Male,On-time,37,18,35
+11/16/2016 20:21,11/16/2016 20:27,Business,Richmond Downtown,Richmond hindu temple,2.3,Temporary Site,WEEKEND,Male,On-time,73,27,35
+11/16/2016 22:52,11/16/2016 23:02,Business,LA Downtown,LA amtrak station,3.1,Meal/Entertain,WEEKDAY,Male,On-time,48,24,35
+11/17/2016 10:13,11/17/2016 10:44,Business,Richmond Downtown,Richmond hindu temple,16.3,Customer Visit,WEEKDAY,Male,On-time,25,30,20
+11/18/2016 20:09,11/18/2016 20:19,Business,Chicago Downtown,Chicago Suburb,3.1,Meal/Entertain,WEEKDAY,Male,On-time,27,3,35
+11/18/2016 21:23,11/18/2016 21:34,Business,Chicago Suburb,Chicago Downtown,5.2,Meal/Entertain,WEEKDAY,Female,On-time,28,9,35
+11/18/2016 21:56,11/18/2016 22:21,Business,California Downtown,California suburb,6.1,Meeting,WEEKDAY,Female,On-time,24,6,35
+11/19/2016 13:51,11/19/2016 14:10,Business,Chicago Downtown,Durham,10.3,Meeting,WEEKEND,Female,On-time,34,15,60
+11/19/2016 14:30,11/19/2016 14:51,Business,Ohio Downtown,Ohio Downtown,10.5,Meeting,WEEKEND,Female,On-time,32,12,35
+11/19/2016 16:01,11/19/2016 16:06,Business,Chicago Downtown,Chicago Downtown,1.5,Other,WEEKDAY,Female,On-time,30,21,35
+11/19/2016 16:27,11/19/2016 16:41,Business,Chicago Downtown,Chicago Downtown,1.8,Other,WEEKDAY,Female,On-time,71,18,35
+11/19/2016 17:41,11/19/2016 17:54,Business,Chicago Downtown,Apex,5.4,Errand/Supplies,WEEKDAY,Female,On-time,28,27,35
+11/19/2016 21:14,11/19/2016 21:35,Business,Chicago suburb,Chicago Downtown,5.4,Customer Visit,WEEKDAY,Male,On-time,33,24,35
+11/20/2016 10:27,11/20/2016 11:32,Business,Chicago Downtown,Chicago Downtown,39.2,Between Offices,WEEKDAY,Male,On-time,33,30,48
+11/20/2016 11:58,11/20/2016 12:28,Business,Chicago Downtown,Chicago Downtown,6.4,Customer Visit,WEEKEND,Male,On-time,34,3,48
+11/20/2016 14:58,11/20/2016 15:07,Business,Chicago Downtown,Chicago Downtown,2.7,Meeting,WEEKEND,Male,On-time,35,9,48
+11/20/2016 17:45,11/20/2016 18:37,Business,Chicago Downtown,Chicago Downtown,18.5,Errand/Supplies,WEEKDAY,Male,On-time,25,6,48
+11/21/2016 13:37,11/21/2016 13:49,Business,Chicago Downtown,Chicago Downtown,2.5,Meal/Entertain,WEEKDAY,Male,On-time,23,15,20
+11/21/2016 14:34,11/21/2016 14:44,Business,Chicago Downtown,Chicago Downtown,2.1,Meal/Entertain,WEEKDAY,Female,On-time,27,12,48
+11/21/2016 17:50,11/21/2016 18:04,Business,Chicago Downtown,Unknown Location,6.7,Errand/Supplies,WEEKDAY,Female,On-time,29,21,20
+11/21/2016 18:18,11/21/2016 18:27,Business,Chicago Suburb,Chicago Suburb,3.5,Meal/Entertain,WEEKDAY,Female,On-time,48,18,20
+11/21/2016 18:43,11/21/2016 18:51,Business,Chicago Suburb,Chicago Downtown,3.4,Errand/Supplies,WEEKEND,Female,On-time,26,27,16
+11/22/2016 15:12,11/22/2016 15:27,Business,Chicago Downtown,Chicago Downtown,5.5,Meeting,WEEKEND,Female,On-time,39,24,16
+11/22/2016 15:31,11/22/2016 15:44,Business,Chicago Downtown,Chicago Downtown,4.1,Meeting,WEEKDAY,Male,On-time,48,30,16
+11/22/2016 15:51,11/22/2016 16:43,Business,Chicago Downtown,Chicago Downtown,12.7,Customer Visit,WEEKDAY,Male,On-time,28,3,16
+11/22/2016 18:18,11/22/2016 18:28,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain,WEEKDAY,Male,On-time,37,9,16
+11/22/2016 21:02,11/22/2016 21:14,Business,Chicago Suburb,Chicago Downtown,3.5,Customer Visit,WEEKDAY,Male,On-time,48,6,16
+11/23/2016 15:34,11/23/2016 15:50,Business,Chicago Downtown,Chicago Downtown,5.9,Meal/Entertain,WEEKDAY,Male,On-time,38,15,16
+11/23/2016 16:18,11/23/2016 16:29,Business,Chicago Downtown,Chicago Downtown,1.9,Other,WEEKEND,Male,On-time,34,12,30
+11/23/2016 16:49,11/23/2016 17:00,Business,Chicago Downtown,Chicago Downtown,3.3,Other,WEEKEND,Male,On-time,26,21,30
+11/23/2016 18:37,11/23/2016 18:47,Business,Chicago Downtown,Chicago Downtown,1.3,Other,WEEKDAY,Male,On-time,25,18,30
+11/25/2016 11:47,11/25/2016 12:04,Business,Chicago Downtown,Durham,10.3,Meeting,WEEKDAY,Male,On-time,32,27,30
+11/25/2016 13:13,11/25/2016 13:31,Business,Ohio Downtown,Ohio Downtown,11.1,Meeting,WEEKDAY,Male,On-time,30,24,30
+11/26/2016 15:54,11/26/2016 15:59,Business,Chicago Downtown,Chicago Downtown,1.4,Other,WEEKDAY,Male,On-time,37,30,18
+11/26/2016 17:00,11/26/2016 17:12,Business,Chicago Downtown,Apex,5.1,Meeting,WEEKDAY,Male,On-time,29,3,30
+11/26/2016 17:36,11/26/2016 17:56,Business,Chicago suburb,Chicago Downtown,9,Meeting,WEEKEND,Female,On-time,27,9,30
+11/26/2016 18:29,11/26/2016 19:04,Business,LA Amtrak station,LA Amtrak Downtown,13.3,Between Offices,WEEKEND,Female,On-time,28,6,30
+11/26/2016 19:47,11/26/2016 19:54,Business,Chicago Downtown,Chicago Downtown,2.5,Errand/Supplies,WEEKDAY,Female,On-time,24,15,10
+11/27/2016 15:59,11/27/2016 16:06,Business,Chicago Downtown,Chicago Suburb,3.3,Meal/Entertain,WEEKDAY,Female,On-time,34,12,30
+11/27/2016 18:55,11/27/2016 19:09,Business,Chicago Suburb,Chicago Downtown,2.9,Other,WEEKDAY,Female,On-time,32,21,35
+11/30/2016 11:03,11/30/2016 11:34,Business,Chicago Downtown,Raleigh,8.5,Customer Visit,WEEKDAY,Female,On-time,30,18,35
+11/30/2016 11:53,11/30/2016 12:35,Business,Chicago Downtown,Chicago Suburb,6.7,Temporary Site,WEEKDAY,Female,On-time,71,27,35
+11/30/2016 12:43,11/30/2016 12:53,Business,Chicago Suburb,Chicago Downtown,3.1,Other,WEEKEND,Female,On-time,53,24,35
+12/1/2016 7:44,12/1/2016 7:59,Business,Chicago Downtown,Chicago Downtown,5.5,Meeting,WEEKEND,Female,On-time,37,30,35
+12/1/2016 8:37,12/1/2016 8:53,Business,Chicago Downtown,Chicago Downtown,5.5,Errand/Supplies,WEEKDAY,Female,On-time,34,3,20
+12/1/2016 18:00,12/1/2016 18:12,Business,Chicago Downtown,Chicago Suburb,2.9,Meal/Entertain,WEEKDAY,Female,On-time,35,9,35
+12/1/2016 20:36,12/1/2016 20:46,Business,Chicago Suburb,Chicago Downtown,2.9,Customer Visit,WEEKDAY,Male,On-time,25,6,35
+12/2/2016 12:12,12/2/2016 12:23,Business,Chicago Downtown,Apex,5.1,Meal/Entertain,WEEKDAY,Male,On-time,23,15,35
+12/2/2016 13:07,12/2/2016 13:22,Business,Chicago suburb,Chicago Downtown,5.3,Customer Visit,WEEKDAY,Male,On-time,27,12,60
+12/2/2016 20:41,12/2/2016 20:48,Business,Chicago Downtown,Chicago Suburb,3.3,Meal/Entertain,WEEKEND,Male,On-time,29,21,35
+12/2/2016 22:59,12/2/2016 23:07,Business,Chicago Suburb,Chicago Downtown,3,Customer Visit,WEEKEND,Male,On-time,28,18,35
+12/3/2016 18:35,12/3/2016 18:56,Business,Chicago Downtown,Wake Co.,6.6,Errand/Supplies,WEEKDAY,Male,On-time,37,27,35
+12/3/2016 19:08,12/3/2016 19:15,Business,Chicago Suburb,Chicago Suburb,1.8,Other,WEEKDAY,Female,On-time,48,24,35
+12/3/2016 20:31,12/3/2016 20:41,Business,Chicago Suburb,Chicago Downtown,3,Customer Visit,WEEKDAY,Female,Cancelled,38,30,35
+12/4/2016 18:56,12/4/2016 19:03,Business,Chicago Downtown,Chicago Suburb,2.9,Meal/Entertain,WEEKDAY,Female,Cancelled,34,3,48
+12/4/2016 20:23,12/4/2016 20:34,Business,Chicago Suburb,Chicago Downtown,3.4,Customer Visit,WEEKDAY,Female,Cancelled,26,9,48
+12/5/2016 18:04,12/5/2016 18:17,Business,Chicago Downtown,Chicago Downtown,4.1,Other,WEEKEND,Female,Cancelled,25,6,48
+12/5/2016 19:22,12/5/2016 19:37,Business,Chicago Downtown,Chicago Downtown,3.8,Meal/Entertain,WEEKEND,Female,Cancelled,32,15,48
+12/7/2016 12:03,12/7/2016 12:32,Business,Chicago Downtown,Chicago Downtown,6.6,Meeting,WEEKDAY,Female,Cancelled,29,12,20
+12/7/2016 12:35,12/7/2016 12:46,Business,Chicago Downtown,Chicago Downtown,4,Meeting,WEEKDAY,Female,Cancelled,30,21,48
+12/7/2016 19:53,12/7/2016 20:13,Business,Chicago Downtown,Chicago Downtown,7,Customer Visit,WEEKDAY,Female,Cancelled,37,18,20
+12/7/2016 21:13,12/7/2016 21:50,Business,Chicago Downtown,Chicago Downtown,6.9,Meal/Entertain,WEEKDAY,Female,Cancelled,29,27,20
+12/8/2016 14:19,12/8/2016 14:32,Business,Chicago Downtown,Chicago Downtown,3.4,Errand/Supplies,WEEKDAY,Male,Cancelled,62,24,16
+12/8/2016 14:53,12/8/2016 15:02,Business,Chicago Downtown,Chicago Downtown,3.4,Errand/Supplies,WEEKEND,Male,Cancelled,37,30,16
+12/8/2016 19:22,12/8/2016 19:27,Business,Chicago Downtown,Chicago Downtown,2,Meeting,WEEKEND,Male,Cancelled,34,3,16
+12/8/2016 21:26,12/8/2016 21:31,Business,Chicago Downtown,Chicago Downtown,2,Errand/Supplies,WEEKDAY,Male,Cancelled,35,9,16
+12/9/2016 12:09,12/9/2016 12:24,Business,Chicago Downtown,Apex,5.1,Errand/Supplies,WEEKDAY,Male,Cancelled,25,6,16
+12/9/2016 13:15,12/9/2016 13:43,Business,Chicago suburb,Chicago Downtown,8.8,Temporary Site,WEEKDAY,Male,Cancelled,23,15,16
+12/9/2016 20:11,12/9/2016 20:34,Business,Chicago Downtown,Chicago Downtown,5.6,Meeting,WEEKDAY,Male,Cancelled,27,12,16
+12/9/2016 22:03,12/9/2016 22:57,Business,Chicago Downtown,Chicago Downtown,18.9,Customer Visit,WEEKDAY,Male,Cancelled,29,21,30
+12/10/2016 12:43,12/10/2016 13:16,Business,Chicago Downtown,Fuquay-Varina,15.6,Meeting,WEEKEND,Male,Cancelled,48,18,30
+12/10/2016 14:42,12/10/2016 15:18,Business,Chicago Downtown,Chicago suburb,15.6,Errand/Supplies,WEEKEND,Female,Cancelled,28,27,30
+12/10/2016 18:17,12/10/2016 18:27,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain,WEEKDAY,Female,Cancelled,37,24,30
+12/10/2016 22:09,12/10/2016 22:21,Business,Chicago Suburb,Chicago Downtown,3.1,Customer Visit,WEEKDAY,Female,Cancelled,48,30,30
+12/11/2016 16:06,12/11/2016 16:16,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain,WEEKDAY,Female,Cancelled,38,3,18
+12/11/2016 19:05,12/11/2016 19:15,Business,Chicago Suburb,Chicago Downtown,4.8,Errand/Supplies,WEEKDAY,Female,Cancelled,34,9,30
+12/11/2016 21:48,12/11/2016 21:56,Business,Chicago Downtown,Chicago Downtown,2.1,Errand/Supplies,WEEKDAY,Female,Cancelled,26,6,30
+12/12/2016 13:22,12/12/2016 13:32,Business,Chicago Downtown,Chicago Downtown,3.1,Errand/Supplies,WEEKEND,Female,Cancelled,25,15,30
+12/12/2016 13:36,12/12/2016 13:51,Business,Chicago Downtown,Apex,4.4,Meal/Entertain,WEEKEND,Female,Cancelled,32,12,10
+12/12/2016 14:26,12/12/2016 14:39,Business,Chicago suburb,Chicago Downtown,4.7,Customer Visit,WEEKDAY,Female,Cancelled,62,21,30
+12/12/2016 17:51,12/12/2016 18:01,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain,WEEKDAY,Male,Cancelled,37,18,35
+12/12/2016 20:48,12/12/2016 20:57,Business,Chicago Suburb,Chicago Downtown,3,Customer Visit,WEEKDAY,Male,Cancelled,73,27,35
+12/13/2016 18:19,12/13/2016 18:29,Business,Chicago Downtown,Chicago Downtown,4.2,Errand/Supplies,WEEKDAY,Male,Cancelled,48,24,35
+12/13/2016 20:20,12/13/2016 20:29,Business,Chicago Downtown,Chicago Downtown,4.1,Meal/Entertain,WEEKDAY,Male,Cancelled,25,30,35
+12/14/2016 16:52,12/14/2016 17:10,Business,Chicago Downtown,Chicago Downtown,3.4,Other,WEEKEND,Male,Cancelled,27,3,35
+12/14/2016 17:22,12/14/2016 17:34,Business,Chicago Downtown,Chicago Downtown,3.3,Other,WEEKEND,Male,Cancelled,28,9,20
+12/14/2016 17:50,12/14/2016 18:00,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain,WEEKDAY,Male,Cancelled,24,6,35
+12/14/2016 20:24,12/14/2016 20:40,Business,Chicago Suburb,Chicago Downtown,3.1,Customer Visit,WEEKDAY,Male,Cancelled,34,15,35
+12/15/2016 14:20,12/15/2016 14:54,Business,Chicago Downtown,Chicago Suburb,10.6,Meeting,WEEKDAY,Male,Cancelled,32,12,35
+12/17/2016 15:38,12/17/2016 16:12,Business,Richmond Downtown,Richmond Hindu temple,4.8,Airport/Travel,WEEKDAY,Female,Cancelled,30,21,60
+12/17/2016 17:19,12/17/2016 17:59,Business,Richmond Downtown,Richmond Hindu temple,5.3,Temporary Site,WEEKDAY,Female,Cancelled,71,18,35
+12/18/2016 13:03,12/18/2016 13:41,Business,Richmond Downtown,Richmond Hindu temple,4.9,Errand/Supplies,WEEKEND,Female,Cancelled,29,27,35
+12/18/2016 16:38,12/18/2016 17:25,Business,Richmond Downtown,Richmond Hindu temple,10.2,Errand/Supplies,WEEKEND,Female,Cancelled,46,24,35
+12/18/2016 20:35,12/18/2016 21:04,Business,Richmond Downtown,Richmond Hindu temple,9.2,Other,WEEKDAY,Female,Cancelled,43,30,35
+12/19/2016 9:08,12/19/2016 9:36,Business,Richmond Downtown,Richmond Hindu temple,7.7,Errand/Supplies,WEEKDAY,Female,Cancelled,80,3,35
+12/19/2016 10:15,12/19/2016 10:34,Business,LA Amtrak station,LA Amtrak Downtown,5.9,Temporary Site,WEEKDAY,Female,Cancelled,31,9,48
+12/19/2016 13:04,12/19/2016 13:08,Business,Chicago Downtown,Chicago Suburb,0.7,Errand/Supplies,WEEKDAY,Female,Cancelled,73,6,48
+12/19/2016 13:24,12/19/2016 13:35,Business,Richmond Downtown,Richmond Hindu temple,1.3,Other,WEEKDAY,Female,Cancelled,68,15,48
+12/19/2016 14:07,12/19/2016 14:15,Business,Richmond Downtown,Richmond Hindu temple,2.5,Other,WEEKEND,Female,Cancelled,22,12,48
+12/19/2016 14:18,12/19/2016 14:32,Business,Richmond Downtown,Richmond Hindu temple,5.3,Other,WEEKEND,Female,Cancelled,20,21,20
+12/19/2016 14:37,12/19/2016 14:50,Business,Richmond Downtown,Richmond Hindu temple,5.4,Other,WEEKDAY,Male,Cancelled,28,18,48
+12/19/2016 15:09,12/19/2016 15:38,Business,Richmond Downtown,Richmond Hindu temple,10.2,Customer Visit,WEEKDAY,Male,Cancelled,26,27,20
+12/19/2016 16:50,12/19/2016 17:09,Business,Chicago Downtown,Chicago Suburb,7.2,Customer Visit,WEEKDAY,Male,Cancelled,29,24,20
+12/19/2016 19:05,12/19/2016 19:17,Business,LA Amtrak station,LA Amtrak Downtown,2.2,Other,WEEKDAY,Male,Cancelled,30,30,16
+12/19/2016 19:55,12/19/2016 20:30,Business,Richmond Downtown,Richmond Hindu temple,11,Meeting,WEEKDAY,Male,Cancelled,37,3,16
+12/20/2016 8:49,12/20/2016 9:24,Business,Richmond Downtown,Richmond Hindu temple,12,Other,WEEKEND,Female,Cancelled,29,9,16
+12/20/2016 10:30,12/20/2016 10:48,Business,Chicago Downtown,Chicago Suburb,3.3,Errand/Supplies,WEEKEND,Female,Cancelled,35,6,16
+12/20/2016 11:30,12/20/2016 12:17,Business,Chicago Downtown,Chicago Suburb,19.4,Meeting,WEEKDAY,Female,Cancelled,44,15,16
+12/20/2016 13:14,12/20/2016 13:20,Business,Richmond Downtown,Richmond Hindu temple,1.7,Errand/Supplies,WEEKDAY,Female,Cancelled,55,12,16
+12/20/2016 13:54,12/20/2016 14:17,Business,Richmond Downtown,Richmond Hindu temple,5.7,Temporary Site,WEEKDAY,Female,Cancelled,38,18,30
+12/20/2016 16:14,12/20/2016 16:24,Business,LA Amtrak station,LA Amtrak Downtown,1.8,Errand/Supplies,WEEKDAY,Female,Cancelled,69,27,30
+12/20/2016 16:56,12/20/2016 17:07,Business,LA Amtrak station,LA Amtrak Downtown,1.4,Errand/Supplies,WEEKDAY,Female,Cancelled,37,24,30
+12/20/2016 18:47,12/20/2016 19:21,Business,LA Amtrak station,LA Amtrak Downtown,10.3,Customer Visit,WEEKEND,Male,Cancelled,48,30,30
+12/21/2016 7:42,12/21/2016 8:10,Business,Richmond Downtown,Richmond Hindu temple,11.5,Meeting,WEEKEND,Male,Cancelled,26,3,30
+12/21/2016 10:14,12/21/2016 10:30,Business,Richmond Downtown,Richmond Hindu temple,4.9,Errand/Supplies,WEEKDAY,Male,Cancelled,46,9,18
+12/21/2016 11:35,12/21/2016 11:49,Business,LA Amtrak station,LA Amtrak Downtown,3.5,Meal/Entertain,WEEKDAY,Male,Cancelled,43,6,30
+12/21/2016 12:51,12/21/2016 13:33,Business,Richmond Downtown,Richmond Hindu temple,16.2,Meeting,WEEKDAY,Male,Cancelled,80,15,30
+12/21/2016 15:38,12/21/2016 15:49,Business,Richmond Downtown,Richmond Hindu temple,2,Errand/Supplies,WEEKDAY,Male,Cancelled,31,12,30
+12/21/2016 15:55,12/21/2016 16:05,Business,Richmond Downtown,Richmond Hindu temple,2.1,Errand/Supplies,WEEKDAY,Male,Cancelled,73,21,10
+12/21/2016 17:45,12/21/2016 17:54,Business,LA Amtrak station,LA Amtrak Downtown,2.1,Meeting,WEEKEND,Male,Cancelled,68,18,30
+12/21/2016 17:59,12/21/2016 18:31,Business,LA Amtrak station,LA Amtrak Downtown,7.2,Customer Visit,WEEKEND,Female,Cancelled,22,27,35
+12/21/2016 19:49,12/21/2016 20:35,Business,Richmond Downtown,Richmond Hindu temple,12,Meeting,WEEKDAY,Female,Cancelled,20,24,35
+12/21/2016 20:56,12/21/2016 23:42,Business,Chicago Downtown,Chicago Suburb,103,Meeting,WEEKDAY,Female,Cancelled,28,30,35
+12/22/2016 15:40,12/22/2016 16:38,Business,Richmond Downtown,Richmond Hindu temple,32.3,Meeting,WEEKDAY,Female,Cancelled,26,3,35
+12/22/2016 17:04,12/22/2016 17:20,Business,Richmond Downtown,Richmond Hindu temple,5.3,Customer Visit,WEEKDAY,Female,Cancelled,29,9,35
+12/22/2016 17:27,12/22/2016 17:53,Business,Richmond Downtown,Richmond Hindu temple,11.6,Meeting,WEEKDAY,Female,Cancelled,30,6,20
+12/22/2016 17:56,12/22/2016 18:29,Business,Richmond Downtown,Richmond Hindu temple,23.2,Meeting,WEEKEND,Female,Cancelled,37,15,35
+12/22/2016 18:31,12/22/2016 18:37,Business,Richmond Downtown,Richmond Hindu temple,3.2,Errand/Supplies,WEEKEND,Female,Cancelled,29,12,35
+12/22/2016 18:38,12/22/2016 18:47,Business,Richmond Downtown,Richmond Hindu temple,12.3,Temporary Site,WEEKDAY,Female,Cancelled,55,21,35
+12/22/2016 19:04,12/22/2016 19:50,Business,Richmond Downtown,Richmond Hindu temple,14,Meeting,WEEKDAY,Female,Cancelled,42,18,60
+12/22/2016 21:41,12/22/2016 21:53,Business,NewYork Downtown,NewYork Downtown,2.1,Meal/Entertain,WEEKDAY,Male,Cancelled,62,27,35
+12/22/2016 23:27,12/22/2016 23:32,Business,NewYork Downtown,NewYork Downtown,2.1,Customer Visit,WEEKDAY,Male,Cancelled,37,24,35
+12/23/2016 9:21,12/23/2016 9:41,Business,NewYork Downtown,NewYork Downtown,3,Meeting,WEEKDAY,Male,Cancelled,73,30,35
+12/23/2016 11:33,12/23/2016 11:58,Business,NewYork Downtown,NewYork Downtown,6.2,Meeting,WEEKEND,Male,Cancelled,48,3,35
+12/23/2016 14:15,12/23/2016 15:25,Business,Richmond Downtown,Richmond Hindu temple,9.6,Meeting,WEEKEND,Female,Cancelled,25,9,35
+12/23/2016 16:23,12/23/2016 16:34,Business,Richmond Downtown,Richmond Hindu temple,1.3,Errand/Supplies,WEEKDAY,Female,Cancelled,27,6,48
+12/23/2016 17:34,12/23/2016 18:27,Business,Richmond Downtown,Richmond Hindu temple,7.1,Meal/Entertain,WEEKDAY,Female,Cancelled,28,15,48
+12/24/2016 7:43,12/24/2016 8:04,Business,NewYork Downtown,NewYork Downtown,6.3,Meal/Entertain,WEEKDAY,Female,Cancelled,24,12,48
+12/24/2016 9:19,12/24/2016 9:55,Business,Richmond Downtown,Richmond Hindu temple,10.7,Meal/Entertain,WEEKDAY,Female,Cancelled,34,21,48
+12/24/2016 10:34,12/24/2016 10:53,Business,NewYork Downtown,NewYork Downtown,5.3,Meal/Entertain,WEEKDAY,Male,Cancelled,32,18,20
+12/24/2016 12:51,12/24/2016 12:53,Business,NewYork Downtown,NewYork Downtown,1.6,Errand/Supplies,WEEKEND,Male,Cancelled,30,27,48
+12/24/2016 13:08,12/24/2016 13:29,Business,NewYork Downtown,NewYork Downtown,3.6,Errand/Supplies,WEEKEND,Male,Cancelled,71,24,20
+12/24/2016 17:12,12/24/2016 17:27,Business,NewYork Downtown,NewYork Downtown,1.7,Errand/Supplies,WEEKDAY,Male,Cancelled,36,30,20
+12/24/2016 19:12,12/24/2016 19:27,Business,NewYork Downtown,NewYork Downtown,2.9,Meal/Entertain,WEEKDAY,Male,Cancelled,23,3,16
+12/24/2016 22:04,12/24/2016 22:09,Business,NewYork Downtown,NewYork Downtown,0.6,Errand/Supplies,WEEKDAY,Male,Cancelled,29,9,16
+12/25/2016 0:10,12/25/2016 0:14,Business,NewYork Downtown,NewYork Downtown,0.6,Errand/Supplies,WEEKDAY,Female,Cancelled,33,6,16
+12/25/2016 19:15,12/25/2016 19:26,Business,NewYork Downtown,NewYork Downtown,2.3,Meal/Entertain,WEEKDAY,Female,Cancelled,39,15,16
+12/25/2016 21:58,12/25/2016 22:04,Business,NewYork Downtown,NewYork Downtown,2.3,Meal/Entertain,WEEKEND,Female,Cancelled,44,12,16
+12/26/2016 8:30,12/26/2016 8:41,Business,NewYork Downtown,NewYork Downtown,3.2,Meal/Entertain,WEEKEND,Female,Cancelled,46,21,16
+12/26/2016 9:05,12/26/2016 9:19,Business,NewYork Downtown,NewYork Downtown,6.2,Customer Visit,WEEKDAY,Female,Cancelled,28,18,16
+12/26/2016 10:15,12/26/2016 10:36,Business,NewYork Downtown,NewYork Downtown,7.7,Customer Visit,WEEKDAY,Female,Cancelled,33,27,30
+12/26/2016 11:29,12/26/2016 11:42,Business,NewYork Downtown,NewYork Downtown,3.8,Customer Visit,WEEKDAY,Female,Cancelled,78,24,30
+12/26/2016 13:09,12/26/2016 13:43,Business,NewYork Downtown,NewYork Downtown,7.9,Meeting,WEEKDAY,Female,Cancelled,28,30,30
+12/27/2016 7:02,12/27/2016 7:14,Business,Dallas Airport,Dallas Downtown,4.9,Temporary Site,WEEKDAY,Male,Cancelled,53,3,30
+12/27/2016 8:37,12/27/2016 8:59,Business,Dallas Airport,Dallas Downtown,5,Meal/Entertain,WEEKEND,Male,Cancelled,39,9,30
+12/27/2016 12:53,12/27/2016 12:57,Business,Dallas Airport,Dallas Downtown,0.6,Meal/Entertain,WEEKEND,Male,Cancelled,48,6,18
+12/27/2016 14:49,12/27/2016 15:03,Business,Dallas Airport,Dallas Downtown,3.1,Customer Visit,WEEKDAY,Male,Cancelled,28,15,30
+12/27/2016 16:34,12/27/2016 16:58,Business,Richmond Downtown,Richmond Hindu temple,7.9,Meeting,WEEKDAY,Female,On-time,37,12,30
+12/27/2016 19:19,12/27/2016 19:50,Business,Dallas Airport,Dallas Downtown,5.5,Customer Visit,WEEKDAY,Female,On-time,48,21,30
+12/28/2016 8:34,12/28/2016 9:06,Business,Dallas Airport,Dallas Downtown,10.3,Meal/Entertain,WEEKDAY,Female,On-time,38,18,10
+12/28/2016 11:42,12/28/2016 12:12,Business,Richmond Downtown,Richmond Hindu temple,10.4,Errand/Supplies,WEEKDAY,Female,On-time,34,27,30
+12/28/2016 13:53,12/28/2016 14:01,Business,Dallas Airport,Dallas Downtown,2,Errand/Supplies,WEEKEND,Female,On-time,26,24,35
+12/28/2016 15:04,12/28/2016 15:39,Business,Dallas Airport,Dallas Downtown,8.5,Meal/Entertain,WEEKEND,Female,On-time,25,30,35
+12/28/2016 17:02,12/28/2016 17:16,Business,Richmond Downtown,Richmond Hindu temple,4.4,Errand/Supplies,WEEKDAY,Female,On-time,32,3,35
+12/28/2016 18:33,12/28/2016 18:56,Business,Dallas Airport,Dallas Downtown,3.8,Errand/Supplies,WEEKDAY,Female,On-time,73,9,35
+12/28/2016 22:44,12/28/2016 23:18,Business,Dallas Airport,Dallas Downtown,5.1,Errand/Supplies,WEEKDAY,Female,On-time,68,6,35
+12/29/2016 0:49,12/29/2016 1:06,Business,Dallas Airport,Dallas Downtown,3.8,Errand/Supplies,WEEKDAY,Female,On-time,22,15,20
+12/29/2016 9:44,12/29/2016 10:07,Business,Dallas Airport,Dallas Downtown,11.6,Meal/Entertain,WEEKDAY,Female,On-time,20,12,35
+12/29/2016 11:28,12/29/2016 12:00,Business,Richmond Downtown,Richmond Hindu temple,11.9,Meal/Entertain,WEEKEND,Female,On-time,28,25,20
+12/29/2016 12:25,12/29/2016 12:33,Business,Dallas Airport,Dallas Downtown,1.4,Errand/Supplies,WEEKEND,Female,On-time,26,28,52
+12/29/2016 13:17,12/29/2016 13:24,Business,Dallas Airport,Dallas Downtown,1.1,Errand/Supplies,WEEKDAY,Female,On-time,29,35,10
+12/29/2016 13:56,12/29/2016 14:11,Business,Dallas Airport,Dallas Downtown,4.1,Airport/Travel,WEEKDAY,Female,On-time,30,65,15
+12/29/2016 14:42,12/29/2016 14:58,Business,Dallas Airport,Dallas Downtown,6.1,Between Offices,WEEKDAY,Female,On-time,37,75,16
+12/29/2016 15:05,12/29/2016 15:16,Business,Dallas Airport,Dallas Downtown,1.3,Errand/Supplies,WEEKDAY,Female,On-time,29,80,30
+12/29/2016 18:59,12/29/2016 19:14,Business,Dallas Airport,Dallas Downtown,3,Meal/Entertain,WEEKDAY,Female,On-time,25,82,45
+12/29/2016 19:50,12/29/2016 20:10,Business,Richmond Downtown,Richmond Hindu temple,4.1,Customer Visit,WEEKEND,Female,On-time,27,40,32
+12/29/2016 20:15,12/29/2016 20:45,Business,Dallas Airport,Dallas Downtown,7.2,Meeting,WEEKEND,Female,On-time,28,45,24
+12/29/2016 20:53,12/29/2016 21:42,Business,Dallas Airport,Dallas Downtown,6.4,Other,WEEKDAY,Female,On-time,24,25,23
+12/29/2016 23:14,12/29/2016 23:47,Business,Richmond Downtown,Richmond Hindu temple,12.9,Meeting,WEEKDAY,Female,On-time,34,16,22
+12/30/2016 10:15,12/30/2016 10:33,Business,Dallas Airport,Dallas Downtown,2.8,Errand/Supplies,WEEKDAY,Female,On-time,32,21,14
+12/30/2016 11:31,12/30/2016 11:56,Business,Dallas Airport,Dallas Downtown,2.9,Errand/Supplies,WEEKDAY,Female,On-time,30,26,5
+12/30/2016 15:41,12/30/2016 16:03,Business,Dallas Airport,Dallas Downtown,4.6,Errand/Supplies,WEEKDAY,Female,On-time,71,27,32
+12/30/2016 16:45,12/30/2016 17:08,Business,Dallas Airport,Dallas Downtown,4.6,Meeting,WEEKEND,Female,On-time,32,57,45
+12/30/2016 23:06,12/30/2016 23:10,Business,Dallas Airport,Dallas Downtown,0.8,Customer Visit,WEEKEND,Female,On-time,53,27,20
+12/31/2016 1:07,12/31/2016 1:14,Business,Dallas Airport,Dallas Downtown,0.7,Meeting,WEEKDAY,Female,On-time,62,28,20
+12/31/2016 13:24,12/31/2016 13:42,Business,Dallas Airport,Dallas Downtown,3.9,Temporary Site,WEEKDAY,Female,On-time,36,24,35
+12/31/2016 15:03,12/31/2016 15:38,Business,Richmond Downtown,Richmond Hindu temple,16.2,Meeting,WEEKDAY,Female,On-time,23,27,41
+12/31/2016 21:32,12/31/2016 21:50,Business,Dallas Airport,Dallas Downtown,6.4,Temporary Site,WEEKDAY,Female,On-time,29,37,10
+12/31/2016 22:08,12/31/2016 23:51,Business,Chicago Downtown,Chicago suburb,48.2,Temporary Site,WEEKDAY,Female,On-time,33,47,20
+1/1/2017 22:08,1/1/2017 23:51,Business,Chicago Downtown,Chicago suburb,42,Other,WEEKEND,Female,On-time,39,27,65

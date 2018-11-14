@@ -1,0 +1,1156 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
+1/1/2016 21:11,1/1/2016 21:17,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain
+1/2/2016 1:25,1/2/2016 1:37,Business,Fort Pierce,Fort Pierce,5,Other
+1/2/2016 20:25,1/2/2016 20:38,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies
+1/5/2016 17:31,1/5/2016 17:45,Business,Fort Pierce,Fort Pierce,4.7,Meeting
+1/6/2016 14:42,1/6/2016 15:49,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit
+1/6/2016 17:15,1/6/2016 17:19,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain
+1/6/2016 17:30,1/6/2016 17:35,Business,West Palm Beach,Palm Beach,7.1,Meeting
+1/7/2016 13:27,1/7/2016 13:33,Business,Chicago Downtown,Chicago Downtown,0.8,Meeting
+1/10/2016 8:05,1/10/2016 8:25,Business,Chicago Downtown,Chicago Suburb,8.3,Meeting
+1/10/2016 12:17,1/10/2016 12:44,Business,Richmond Downtown,Richmond hindu temple,16.5,Customer Visit
+1/10/2016 15:08,1/10/2016 15:51,Business,Richmond hindu temple,Richmond Downtown,10.8,Meeting
+1/10/2016 18:18,1/10/2016 18:53,Business,Richmond Downtown,Richmond hindu temple,7.5,Meeting
+1/10/2016 19:12,1/10/2016 19:32,Business,Boston Downtown,Boston Tea Party,6.2,Meeting
+1/11/2016 8:55,1/11/2016 9:21,Business,Dallas Downtown,Dallas airport,6.4,Temporary Site
+1/11/2016 11:56,1/11/2016 12:03,Business,Dallas airport,Dallas Downtown,1.6,Errand/Supplies
+1/11/2016 13:32,1/11/2016 13:46,Business,Boston Downtown,Boston Downtown East,1.7,Meal/Entertain
+1/11/2016 14:30,1/11/2016 14:43,Business,Boston Downtown East,Boston Downtown,1.9,Meal/Entertain
+1/12/2016 12:33,1/12/2016 12:49,Business,Boston Downtown,Boston Tea Party,1.9,Meal/Entertain
+1/12/2016 12:53,1/12/2016 13:09,Business,New york Downtown,Newyork timesquare,4,Meal/Entertain
+1/12/2016 14:42,1/12/2016 14:56,Business,Newyork timesquare,New york Downtown,1.8,Errand/Supplies
+1/12/2016 15:13,1/12/2016 15:28,Business,New york Downtown,Boston tea party,2.4,Customer Visit
+1/12/2016 15:42,1/12/2016 15:54,Business,Boston tea party,Boston Downtown,2,Errand/Supplies
+1/12/2016 16:02,1/12/2016 17:00,Business,Richmond hindu temple,Richmond Downtown,15.1,Meeting
+1/13/2016 13:54,1/13/2016 14:07,Business,LA Downtown,LA Downtown,11.2,Meeting
+1/13/2016 15:00,1/13/2016 15:28,Business,LA Downtown,LA Downtown,11.8,Meeting
+1/14/2016 16:29,1/14/2016 17:05,Business,Miami beach,Miami beach,21.9,Customer Visit
+1/14/2016 21:39,1/14/2016 21:45,Business,Newjersey Airport,Newjersey Downtown,3.9,Errand/Supplies
+1/15/2016 0:41,1/15/2016 1:01,Business,Chicago Suburb,Chicago Downtown,8,Errand/Supplies
+1/15/2016 11:43,1/15/2016 12:03,Business,Chicago Downtown,Chicago Suburb,10.4,Meal/Entertain
+1/15/2016 13:26,1/15/2016 13:44,Business,Chicago Suburb,Chicago Downtown,10.4,Meal/Entertain
+1/18/2016 14:55,1/18/2016 15:06,Business,Chicago Downtown,Chicago Downtown,4.8,Meal/Entertain
+1/18/2016 16:13,1/18/2016 16:24,Business,LA Amtrak station,LA Downtown,4.7,Meal/Entertain
+1/19/2016 9:09,1/19/2016 9:23,Business,LA Downtown,LA Amtrak station,7.2,Other
+1/19/2016 10:55,1/19/2016 11:09,Business,LA Amtrak station,LA Downtown,7.6,Temporary Site
+1/20/2016 10:36,1/20/2016 11:11,Business,Chicago Downtown,Chicago suburb,17.1,Meeting
+1/20/2016 11:48,1/20/2016 12:19,Business,Dallas Downtown,Dallas airport,15.1,Meeting
+1/20/2016 13:25,1/20/2016 14:19,Business,Chicago suburb,Chicago Downtown,40.2,Customer Visit
+1/21/2016 14:25,1/21/2016 14:29,Business,Chicago Downtown,Chicago Downtown,1.6,Errand/Supplies
+1/21/2016 14:43,1/21/2016 14:51,Business,Chicago Downtown,Chicago Downtown,2.4,Meal/Entertain
+1/21/2016 16:01,1/21/2016 16:06,Business,Chicago Downtown,Chicago Downtown,1,Meal/Entertain
+1/26/2016 10:41,1/26/2016 10:50,Business,LA Downtown,LA Amtrak station,2,Meal/Entertain
+1/26/2016 12:33,1/26/2016 12:41,Business,LA Amtrak station,LA Downtown,2.3,Errand/Supplies
+1/26/2016 16:24,1/26/2016 16:32,Business,LA Downtown,Westpark Place,1.9,Errand/Supplies
+1/26/2016 17:17,1/26/2016 17:22,Business,Chicago Downtown,Chicago Downtown,1.4,Errand/Supplies
+1/26/2016 17:27,1/26/2016 17:29,Business,Chicago Downtown,Chicago Downtown,0.5,Errand/Supplies
+1/27/2016 9:24,1/27/2016 9:31,Business,Chicago Downtown,Chicago Downtown,1.8,Meeting
+1/27/2016 10:19,1/27/2016 10:48,Business,Chicago Downtown,Chicago Suburb,18.7,Customer Visit
+1/27/2016 12:34,1/27/2016 12:44,Business,Boston Downtown,Boston tea Party,3.4,Customer Visit
+1/27/2016 14:05,1/27/2016 14:13,Business,Dallas Downtown,Dallas Downtown,2.7,Customer Visit
+1/27/2016 14:46,1/27/2016 15:08,Business,Chicago Downtown,Chicago Downtown,12.9,Customer Visit
+1/28/2016 12:28,1/28/2016 13:00,Business,Chicago Downtown,Raleigh,19,Temporary Site
+1/28/2016 15:11,1/28/2016 15:31,Business,West Palm Beach,West Palm Beach,14.7,Meeting
+1/28/2016 16:21,1/28/2016 16:51,Business,Chicago Downtown,Chicago Downtown,15.7,Meeting
+1/29/2016 9:31,1/29/2016 9:45,Business,Chicago Downtown,Chicago Downtown,4.6,Customer Visit
+1/29/2016 10:56,1/29/2016 11:07,Business,Chicago Downtown,Chicago Downtown,5.2,Meeting
+1/29/2016 11:43,1/29/2016 12:03,Business,Chicago Downtown,Durham,10.4,Meeting
+1/29/2016 13:24,1/29/2016 13:47,Business,Chicago Downtown,Chicago Downtown,10.1,Meeting
+1/29/2016 18:31,1/29/2016 18:52,Business,Chicago Downtown,Apex,5.8,Errand/Supplies
+1/29/2016 21:21,1/29/2016 21:40,Business,Chicago Downtown,Chicago Downtown,5.5,Meal/Entertain
+1/30/2016 16:21,1/30/2016 16:33,Business,Chicago Downtown,Apex,5.7,Errand/Supplies
+1/30/2016 18:09,1/30/2016 18:24,Business,Chicago Downtown,Chicago Downtown,5.7,Customer Visit
+2/1/2016 10:35,2/1/2016 11:15,Business,Chicago Downtown,Chapel Hill,19.4,Customer Visit
+2/1/2016 12:10,2/1/2016 12:43,Business,Milwaukee Downtown,Milwaukee Downtown,23.3,Customer Visit
+2/1/2016 12:56,2/1/2016 13:07,Business,LA amtrak station,LA Downtown,3.9,Meal/Entertain
+2/2/2016 13:04,2/2/2016 13:23,Business,LA Downtown,Williamsburg Manor,8.3,Meeting
+2/2/2016 13:51,2/2/2016 14:06,Business,Chicago Downtown,Chicago Downtown,6,Errand/Supplies
+2/2/2016 14:38,2/2/2016 14:42,Business,Chicago Downtown,Chicago Downtown,1.6,Errand/Supplies
+2/4/2016 8:40,2/4/2016 9:01,Business,Chicago Downtown,Chicago Suburb,5.2,Errand/Supplies
+2/4/2016 9:37,2/4/2016 10:09,Business,Chicago Suburb,Chicago Downtown,9.7,Meal/Entertain
+2/4/2016 10:26,2/4/2016 10:32,Business,Chicago Downtown,Chicago Downtown,1.6,Meal/Entertain
+2/4/2016 15:59,2/4/2016 16:03,Business,Chicago Downtown,Chicago Downtown,1.1,Meal/Entertain
+2/4/2016 16:35,2/4/2016 16:39,Business,Chicago Downtown,Chicago Downtown,1.6,Meal/Entertain
+2/4/2016 18:04,2/4/2016 18:31,Business,LA Downtown,Macgregor Downs,9,Meeting
+2/4/2016 20:36,2/4/2016 20:55,Business,Chicago Downtown,Chicago Downtown,7.7,Meeting
+2/5/2016 11:47,2/5/2016 12:07,Business,Chicago Downtown,Durham,10.4,Meeting
+2/5/2016 13:22,2/5/2016 13:41,Business,Chicago Downtown,Chicago Downtown,10.4,Meeting
+2/6/2016 16:20,2/6/2016 16:53,Business,Chicago Downtown,Raleigh,11.4,Between Offices
+2/6/2016 18:57,2/6/2016 19:21,Business,Chicago Downtown,Chicago Downtown,9,Errand/Supplies
+2/6/2016 19:28,2/6/2016 19:37,Business,LA Downtown,LA Downtown,3.2,Meal/Entertain
+2/7/2016 16:49,2/7/2016 17:01,Business,Chicago Downtown,Apex,5.6,Errand/Supplies
+2/7/2016 18:03,2/7/2016 18:17,Business,Chicago Downtown,Chicago Downtown,5.7,Customer Visit
+2/7/2016 18:39,2/7/2016 18:53,Business,Chicago Downtown,Chicago Suburb,6.1,Temporary Site
+2/7/2016 20:22,2/7/2016 20:40,Business,Chicago Suburb,Chicago Downtown,6.1,Meeting
+2/8/2016 12:57,2/8/2016 13:08,Business,LA Downtown,Edgehill Farms,4.3,Meal/Entertain
+2/8/2016 14:00,2/8/2016 14:10,Business,LA Downtown,LA Downtown,2.7,Meal/Entertain
+2/9/2016 10:54,2/9/2016 11:07,Personal,LA Downtown,Northwoods,5.3,Other
+2/9/2016 11:43,2/9/2016 11:50,Personal,Newjersey Airport,Newjersey Downtown,3,Other
+2/9/2016 13:36,2/9/2016 13:52,Personal,Chicago Suburb,Chicago Suburb,5.1,Other
+2/9/2016 13:58,2/9/2016 14:02,Personal,LA Downtown,LA Downtown,1.5,Other
+2/9/2016 18:55,2/9/2016 19:11,Business,Chicago Downtown,Chicago Suburb,6.1,Other
+2/9/2016 20:24,2/9/2016 20:40,Business,Chicago Suburb,Chicago Downtown,6.1,Meal/Entertain
+2/11/2016 16:28,2/11/2016 17:10,Business,Chicago Downtown,Raleigh,17.3,Meal/Entertain
+2/11/2016 17:49,2/11/2016 18:10,Business,LA Downtown,LA Downtown,5.7,Meal/Entertain
+2/11/2016 18:24,2/11/2016 18:46,Business,Chicago Downtown,Chicago Downtown,13.5,Temporary Site
+2/11/2016 20:36,2/11/2016 20:51,Business,Chicago Suburb,Chicago Downtown,6.1,Temporary Site
+2/12/2016 8:21,2/12/2016 8:42,Business,Chicago Downtown,Durham,8.5,Temporary Site
+2/12/2016 10:45,2/12/2016 10:52,Business,Chicago Downtown,Chicago Suburb,2.6,Temporary Site
+2/12/2016 11:14,2/12/2016 11:35,Business,Chicago Suburb,Raleigh,17,Customer Visit
+2/12/2016 13:02,2/12/2016 13:36,Business,Chicago Downtown,Chicago Downtown,18,Meeting
+2/12/2016 14:49,2/12/2016 15:06,Business,Chicago Downtown,Chicago Suburb,8.4,Meeting
+2/12/2016 15:33,2/12/2016 16:06,Business,Chicago Suburb,Chicago Downtown,11.5,Customer Visit
+2/13/2016 14:21,2/13/2016 14:41,Business,Chicago Downtown,Chicago Suburb,8.9,Meeting
+2/13/2016 23:45,2/14/2016 0:01,Personal,LA Downtown,LA amtrak station,2.7,Other
+2/14/2016 0:50,2/14/2016 1:00,Personal,Richmond hindu temple ,Richmond Downtown,1.8,Other
+2/14/2016 14:07,2/14/2016 14:40,Business,LA Downtown,LA amtrak station,8.1,Meeting
+2/14/2016 14:46,2/14/2016 15:03,Business,Boston Downtown,Boston Downtown West,2,Meeting
+2/14/2016 16:35,2/14/2016 17:02,Business,Richmond hindu temple,Long Island City,13,Meeting
+2/14/2016 17:06,2/14/2016 17:29,Business,NewYork Downtown,NewYork Downtown,13.9,Meeting
+2/16/2016 3:21,2/16/2016 4:13,Business,Dallas Airport,Dallas Downtown,43.7,Customer Visit
+2/16/2016 8:29,2/16/2016 9:34,Business,Chicago Suburb,Chicago Suburb,14.1,Other
+2/16/2016 10:31,2/16/2016 10:41,Business,Milwaukee Downtown,Milwaukee Downtown,2.6,Other
+2/16/2016 11:32,2/16/2016 12:02,Business,Milwaukee Downtown,Milwaukee Downtown,4.5,Other
+2/16/2016 12:39,2/16/2016 12:42,Business,Milwaukee Downtown,Milwaukee Downtown,1.7,Other
+2/16/2016 13:43,2/16/2016 13:55,Business,Milwaukee Downtown,Milwaukee Downtown,1.8,Temporary Site
+2/16/2016 16:34,2/16/2016 17:10,Business,Milwaukee Downtown,Milwaukee Downtown,6,Other
+2/16/2016 17:17,2/16/2016 17:26,Business,Milwaukee Downtown,Milwaukee Downtown,1.1,Meal/Entertain
+2/16/2016 17:40,2/16/2016 17:44,Business,Newjersey Airport,Newjersey Downtown,3.6,Errand/Supplies
+2/17/2016 13:18,2/17/2016 14:04,Business,Chicago Suburb,Chicago Suburb,14.7,Temporary Site
+2/17/2016 15:17,2/17/2016 15:22,Business,Milwaukee Downtown,Milwaukee Downtown,1.7,Meal/Entertain
+2/17/2016 15:33,2/17/2016 16:17,Business,Milwaukee Downtown,Milwaukee Downtown,21.4,Temporary Site
+2/17/2016 16:38,2/17/2016 16:43,Business,Dallas Airport,Dallas Downtown,0.5,Errand/Supplies
+2/18/2016 8:19,2/18/2016 8:27,Business,Chicago Suburb,Chicago Suburb,23.5,Temporary Site
+2/18/2016 14:03,2/18/2016 14:45,Business,Chicago Suburb,Chicago Suburb,12.7,Temporary Site
+2/18/2016 15:16,2/18/2016 15:31,Business,Richmond hindu temple ,Richmond Downtown,6,Temporary Site
+2/18/2016 18:44,2/18/2016 18:58,Business,Chicago Suburb,Chicago Suburb,5.2,Customer Visit
+2/18/2016 19:27,2/18/2016 20:08,Business,Richmond hindu temple ,Richmond Downtown,10,Meeting
+2/19/2016 9:02,2/19/2016 9:14,Business,Chicago Suburb,Chicago Suburb,18.3,Meeting
+2/19/2016 9:21,2/19/2016 9:51,Business,Chicago Suburb,Chicago Suburb,11.2,Meeting
+2/19/2016 10:21,2/19/2016 10:48,Business,Chicago Suburb,Chicago Suburb,7.6,Meeting
+2/19/2016 11:20,2/19/2016 11:26,Personal,Richmond hindu temple ,Richmond Downtown,1.5,Other
+2/19/2016 11:45,2/19/2016 11:50,Personal,Richmond hindu temple ,Richmond Downtown,1,Other
+2/19/2016 12:09,2/19/2016 12:27,Business,Richmond hindu temple ,Richmond Downtown,7.3,Temporary Site
+2/19/2016 16:26,2/19/2016 16:45,Business,Chicago Suburb,Chicago Suburb,3.5,Other
+2/19/2016 17:09,2/19/2016 17:20,Business,Richmond hindu temple ,Richmond Downtown,4.2,Other
+2/19/2016 20:08,2/19/2016 20:30,Personal,Richmond hindu temple ,Richmond Downtown,13.6,Other
+2/19/2016 20:34,2/19/2016 20:51,Personal,Chicago Suburb,Chicago Suburb,2.5,Other
+2/20/2016 7:59,2/20/2016 8:32,Personal,Chicago Suburb,Chicago Suburb,14.4,Other
+2/20/2016 10:48,2/20/2016 10:56,Personal,Richmond hindu temple ,Richmond Downtown,3,Other
+2/20/2016 11:45,2/20/2016 11:53,Personal,Richmond hindu temple ,Richmond Downtown,1.5,Other
+2/20/2016 12:41,2/20/2016 13:17,Business,Richmond hindu temple ,Richmond Downtown,18.4,Other
+2/20/2016 14:50,2/20/2016 15:54,Business,Chicago Downtown,Chicago Downtown,23.1,Meeting
+2/20/2016 16:59,2/20/2016 17:54,Personal,Chicago Downtown,Chicago Downtown,16.5,Other
+2/20/2016 18:00,2/20/2016 18:03,Business,Chicago Suburb,Chicago Suburb,3.2,Errand/Supplies
+2/20/2016 19:28,2/20/2016 19:49,Business,Chicago Suburb,Chicago Suburb,7.7,Errand/Supplies
+2/21/2016 9:07,2/21/2016 9:46,Business,Chicago Suburb,Chicago Suburb,14.5,Other
+2/21/2016 11:39,2/21/2016 11:43,Business,Chicago Suburb,Chicago Suburb,2.4,Errand/Supplies
+2/21/2016 11:47,2/21/2016 12:01,Business,Richmond hindu temple ,Richmond Downtown,4.6,Errand/Supplies
+2/21/2016 12:13,2/21/2016 12:35,Business,Richmond hindu temple ,Richmond Downtown,8.8,Meal/Entertain
+2/21/2016 12:51,2/21/2016 13:12,Business,Chicago Suburb,Chicago Suburb,8.3,Temporary Site
+2/21/2016 13:33,2/21/2016 14:30,Business,Chicago Suburb,Chicago Suburb,22.7,Temporary Site
+2/21/2016 14:36,2/21/2016 15:03,Business,Chicago Suburb,Chicago Suburb,13,Temporary Site
+2/21/2016 15:14,2/21/2016 15:31,Business,Richmond hindu temple ,Richmond Downtown,8.1,Temporary Site
+2/21/2016 15:36,2/21/2016 15:41,Business,Newjersey Airport,Newjersey Downtown,2.2,Meal/Entertain
+2/21/2016 16:04,2/21/2016 16:32,Business,Chicago Suburb,Chicago Suburb,9.7,Other
+2/21/2016 23:15,2/21/2016 23:52,Business,Chicago Suburb,Chicago Suburb,20,Meeting
+2/22/2016 21:54,2/22/2016 22:09,Business,Chicago Suburb,Chicago Downtown,8.1,Customer Visit
+2/24/2016 14:30,2/24/2016 14:35,Business,LA Downtown,Preston,1.5,Other
+2/24/2016 15:19,2/24/2016 15:25,Business,LA Downtown,LA Downtown,1.7,Errand/Supplies
+2/25/2016 16:27,2/25/2016 16:35,Business,LA Downtown,Heritage Pines,3.1,Errand/Supplies
+2/25/2016 16:47,2/25/2016 17:02,Business,Richmond hindu temple ,Richmond Downtown,3.2,Errand/Supplies
+2/25/2016 17:16,2/25/2016 17:36,Business,LA Downtown,Tanglewood,6,Meal/Entertain
+2/25/2016 18:22,2/25/2016 18:39,Business,LA Downtown,LA Downtown,5.8,Meal/Entertain
+2/26/2016 9:06,2/26/2016 9:29,Business,LA Downtown,Westpark Place,6.3,Other
+2/26/2016 11:05,2/26/2016 11:11,Personal,LA amtrak station,LA Downtown,1.7,Other
+2/26/2016 11:35,2/26/2016 11:59,Business,Chicago Downtown,Durham,10.6,Meeting
+2/26/2016 13:01,2/26/2016 13:24,Business,Chicago Downtown,Chicago Downtown,9.9,Meeting
+2/26/2016 14:38,2/26/2016 14:46,Personal,LA Downtown,Westpark Place,1.9,Other
+2/26/2016 15:00,2/26/2016 15:18,Personal,LA amtrak station,LA Downtown,4.2,Other
+2/26/2016 17:01,2/26/2016 17:12,Personal,Chicago Downtown,Chicago suburb,2,Other
+2/28/2016 5:22,2/28/2016 5:38,Business,LA Downtown,Waverly Place,7.7,Meeting
+2/28/2016 9:26,2/28/2016 9:42,Business,LA amtrak station,LA Downtown,6.8,Meeting
+2/29/2016 11:07,2/29/2016 11:14,Personal,LA Downtown,Westpark Place,2.1,Other
+2/29/2016 11:30,2/29/2016 11:40,Business,Chicago Downtown,Apex,3.8,Meeting
+2/29/2016 12:36,2/29/2016 12:48,Business,Chicago Downtown,Chicago Downtown,5.6,Meeting
+2/29/2016 14:55,2/29/2016 15:03,Business,LA Downtown,Hazelwood,2.6,Other
+2/29/2016 16:40,2/29/2016 17:00,Business,Chicago Downtown,Chicago suburb,6.6,Customer Visit
+3/1/2016 18:47,3/1/2016 19:10,Business,LA Downtown,Wayne Ridge,8,Meal/Entertain
+3/1/2016 21:27,3/1/2016 21:45,Business,LA amtrak station,LA Downtown,8,Meeting
+3/3/2016 9:45,3/3/2016 9:52,Personal,LA Downtown,Westpark Place,2.2,Other
+3/3/2016 11:04,3/3/2016 11:10,Business,LA amtrak station,LA Downtown,2.3,Errand/Supplies
+3/3/2016 14:44,3/3/2016 14:58,Business,LA Downtown,Northwoods,5.2,Meal/Entertain
+3/3/2016 15:27,3/3/2016 15:48,Business,Chicago Downtown,Raleigh,7.6,Customer Visit
+3/3/2016 16:02,3/3/2016 16:42,Business,Chicago Downtown,Chicago Downtown,17.3,Meeting
+3/4/2016 7:47,3/4/2016 8:06,Business,Chicago Downtown,Durham,9.9,Meeting
+3/4/2016 9:46,3/4/2016 10:03,Business,Chicago Downtown,Chicago Downtown,9.9,Customer Visit
+3/4/2016 11:46,3/4/2016 12:06,Business,Chicago Downtown,Durham,10.4,Meeting
+3/4/2016 13:03,3/4/2016 13:25,Business,Chicago Downtown,Chicago Downtown,10.9,Meeting
+3/4/2016 13:40,3/4/2016 14:09,Business,Chicago Downtown,Raleigh,15.7,Customer Visit
+3/4/2016 15:56,3/4/2016 16:08,Business,Chicago Downtown,Chicago Downtown,4.9,Meal/Entertain
+3/4/2016 16:16,3/4/2016 16:22,Business,Dallas Downtown,Depot Historic District,0.8,Errand/Supplies
+3/4/2016 16:43,3/4/2016 17:12,Business,Chicago Downtown,Chicago Downtown,13.5,Meeting
+3/4/2016 19:02,3/4/2016 19:08,Business,Chicago Downtown,Chicago Suburb,1.9,Temporary Site
+3/4/2016 19:16,3/4/2016 19:25,Business,Chicago Suburb,Chicago Downtown,2,Meal/Entertain
+3/5/2016 11:44,3/5/2016 11:59,Business,Chicago Downtown,Chicago Suburb,6.5,Meal/Entertain
+3/5/2016 12:57,3/5/2016 13:12,Personal,LA amtrak station,LA Downtown,4.2,Other
+3/5/2016 14:08,3/5/2016 14:18,Personal,Chicago Suburb,Chicago Downtown,3.5,Other
+3/5/2016 14:39,3/5/2016 15:01,Business,LA Downtown,Wayne Ridge,7.8,Meal/Entertain
+3/5/2016 16:52,3/5/2016 17:13,Business,Chicago Downtown,Chicago Suburb,7.8,Meal/Entertain
+3/5/2016 17:23,3/5/2016 17:34,Business,Chicago Suburb,Chicago Downtown,3.9,Meal/Entertain
+3/7/2016 9:10,3/7/2016 9:20,Business,LA Downtown,Edgehill Farms,2.8,Errand/Supplies
+3/7/2016 9:23,3/7/2016 9:47,Business,Chicago Downtown,Raleigh,12.4,Customer Visit
+3/7/2016 12:10,3/7/2016 12:26,Business,Dallas Downtown,Meredith Townes,5.9,Customer Visit
+3/7/2016 13:57,3/7/2016 14:18,Business,West Palm Beach,West Palm Beach,9.4,Meeting
+3/7/2016 15:19,3/7/2016 15:45,Business,Chicago Downtown,Chicago Downtown,11.9,Between Offices
+3/8/2016 14:38,3/8/2016 14:55,Business,LA Downtown,Waverly Place,7.2,Between Offices
+3/8/2016 15:35,3/8/2016 16:00,Business,LA amtrak station,LA Downtown,7.6,Meal/Entertain
+3/8/2016 16:13,3/8/2016 16:25,Personal,LA Downtown,LA Downtown,1.6,Other
+3/10/2016 3:36,3/10/2016 3:53,Business,Chicago Downtown,Chicago Suburb,8.4,Meeting
+3/10/2016 10:08,3/10/2016 10:37,Business,LA Downtown,LA amtrak station,12.8,Meeting
+3/10/2016 14:39,3/10/2016 14:55,Business,LA amtrak station,LA Downtown,2.3,Other
+3/10/2016 16:18,3/10/2016 16:28,Business,LA amtrak station,LA Downtown,1.6,Other
+3/11/2016 9:47,3/11/2016 9:59,Business,LA Downtown,LA Downtown,2,Meal/Entertain
+3/11/2016 10:29,3/11/2016 10:36,Business,Dallas Downtown,Dallas airport,0.8,Other
+3/11/2016 11:57,3/11/2016 12:04,Business,Chicago Downtown,Chicago Downtown,1.2,Other
+3/11/2016 13:43,3/11/2016 13:51,Business,Chicago Downtown,Chicago Downtown,1,Other
+3/11/2016 19:21,3/11/2016 19:35,Business,LA amtrak station,LA Downtown,2.1,Other
+3/12/2016 9:13,3/12/2016 9:22,Business,LA Downtown,LA Downtown,2.2,Other
+3/12/2016 18:27,3/12/2016 18:37,Personal,LA amtrak station,LA Downtown,1.9,Other
+3/13/2016 9:07,3/13/2016 9:37,Business,LA Downtown,LA Downtown,5.7,Meal/Entertain
+3/13/2016 18:23,3/13/2016 18:43,Business,LA amtrak station,LA Downtown,8.4,Meal/Entertain
+3/13/2016 20:07,3/13/2016 20:28,Business,Chicago Downtown,Chicago suburb,6.2,Meal/Entertain
+3/13/2016 20:39,3/13/2016 20:58,Business,LA Downtown,LA Downtown,10.5,Meal/Entertain
+3/13/2016 21:11,3/13/2016 21:23,Business,Newjersey Airport,Newjersey Downtown,7.2,Meal/Entertain
+3/13/2016 22:19,3/13/2016 22:39,Business,Dallas airport,Dallas Downtown,12.5,Other
+3/14/2016 8:34,3/14/2016 8:49,Business,LA Downtown,LA Downtown,2,Errand/Supplies
+3/14/2016 18:39,3/14/2016 18:55,Business,LA amtrak station,LA Downtown,2.7,Other
+3/15/2016 8:45,3/15/2016 8:57,Business,LA Downtown,LA Downtown,2,Meal/Entertain
+3/15/2016 20:48,3/15/2016 21:01,Business,Richmond hindu temple,Richmond Downtown,2.8,Meal/Entertain
+3/16/2016 11:34,3/16/2016 11:45,Business,LA Downtown,LA Downtown,1.7,Meal/Entertain
+3/16/2016 14:44,3/16/2016 14:55,Business,Dallas airport,Dallas Downtown,2,Other
+3/16/2016 18:43,3/16/2016 18:56,Business,LA amtrak station,LA Downtown,2.1,Meal/Entertain
+3/17/2016 0:33,3/17/2016 0:44,Personal,Richmond hindu temple,Richmond Downtown,1.7,Other
+3/17/2016 12:52,3/17/2016 15:11,Business,Ohio Suburb,Ohio Suburb,136,Customer Visit
+3/17/2016 15:16,3/17/2016 15:58,Business,Dallas Airport,Dallas Downtown,30.2,Meeting
+3/17/2016 17:20,3/17/2016 18:02,Business,Boston Downtown,Alief,15.5,Meal/Entertain
+3/17/2016 18:47,3/17/2016 19:09,Personal,Miami beach,Miami beach,4.9,Other
+3/17/2016 20:57,3/17/2016 21:28,Personal,Miami beach,Miami beach,12.6,Other
+3/17/2016 21:48,3/17/2016 22:04,Personal,Boston Downtown,Boston Downtown,10.4,Other
+3/18/2016 7:15,3/18/2016 7:21,Business,Boston Downtown,Boston Downtown,1.1,Meal/Entertain
+3/18/2016 8:35,3/18/2016 8:43,Business,Boston Downtown,Boston Downtown,1.1,Meal/Entertain
+3/18/2016 18:24,3/18/2016 19:08,Business,Boston Downtown,Sharpstown,13.2,Meeting
+3/18/2016 19:23,3/18/2016 19:29,Business,Boston Downtown,Boston Downtown,1,Errand/Supplies
+3/18/2016 21:01,3/18/2016 21:15,Business,Boston Downtown,Boston Downtown,9.2,Customer Visit
+3/19/2016 9:10,3/19/2016 9:25,Business,Boston Downtown,Sharpstown,9.4,Meal/Entertain
+3/19/2016 12:50,3/19/2016 13:13,Business,Miami beach,Sugar Land,12,Customer Visit
+3/19/2016 14:01,3/19/2016 14:57,Business,West Palm Beach,Miami beach,35.1,Customer Visit
+3/19/2016 15:34,3/19/2016 16:38,Business,Miami beach,Galveston,36.5,Meal/Entertain
+3/19/2016 17:17,3/19/2016 17:32,Business,Chicago Downtown,Chicago suburb,3.1,Meal/Entertain
+3/19/2016 17:37,3/19/2016 17:47,Business,Dallas Downtown,Dallas Downtown,2.1,Errand/Supplies
+3/19/2016 17:52,3/19/2016 18:00,Business,Dallas Downtown,Dallas Downtown,1.2,Other
+3/19/2016 18:53,3/19/2016 19:29,Business,Dallas Downtown,Dallas Downtown,7.5,Meeting
+3/19/2016 19:33,3/19/2016 20:39,Business,Chicago Downtown,Chicago suburb,57,Customer Visit
+3/20/2016 7:37,3/20/2016 7:48,Business,Boston Downtown,Washington Avenue,5.9,Meeting
+3/20/2016 11:42,3/20/2016 11:56,Business,Boston tea party,Boston Downtown,6.2,Meeting
+3/20/2016 17:08,3/20/2016 17:34,Business,Boston Downtown,Sharpstown,10.4,Other
+3/20/2016 18:34,3/20/2016 18:40,Personal,Boston Downtown,Boston Downtown,1.2,Other
+3/20/2016 18:45,3/20/2016 19:06,Business,Boston Downtown,Boston Downtown,9.6,Customer Visit
+3/21/2016 10:21,3/21/2016 10:26,Personal,Boston Downtown,Downtown,1,Other
+3/21/2016 16:05,3/21/2016 16:13,Business,Richmond hindu temple,Richmond Downtown,0.9,Meal/Entertain
+3/21/2016 18:59,3/21/2016 19:15,Business,Boston Downtown,Sharpstown,8.8,Other
+3/21/2016 20:18,3/21/2016 20:55,Business,Boston Downtown,Boston Downtown,25.6,Meal/Entertain
+3/22/2016 6:17,3/22/2016 6:43,Business,Boston Downtown,Greater Greenspoint,23,Meal/Entertain
+3/22/2016 12:06,3/22/2016 12:24,Personal,Chicago Suburb,Chicago Downtown,8.1,Other
+3/22/2016 19:12,3/22/2016 19:25,Personal,LA Downtown,LA Downtown,1.4,Other
+3/23/2016 14:37,3/23/2016 14:42,Personal,LA Downtown,Preston,1.7,Other
+3/23/2016 14:53,3/23/2016 14:59,Personal,LA Downtown,LA Downtown,1.6,Other
+3/24/2016 19:47,3/24/2016 19:54,Personal,LA Downtown,Westpark Place,2,Other
+3/24/2016 20:34,3/24/2016 20:40,Business,LA Downtown,LA Downtown,2.2,Other
+3/25/2016 13:24,3/25/2016 16:22,Business,Chicago Downtown,Latta,144,Customer Visit
+3/25/2016 16:52,3/25/2016 22:22,Business,NewYork Downtown,NewYork Downtown,310.3,Customer Visit
+3/25/2016 22:54,3/26/2016 1:39,Business,Richmond hindu temple ,Richmond Downtown,201,Meeting
+3/26/2016 14:05,3/26/2016 14:29,Personal,Dallas airport,Dallas Downtown,6.7,Other
+3/26/2016 15:19,3/26/2016 15:49,Personal,California Downtown,California suburb,8.8,Other
+3/26/2016 16:26,3/26/2016 16:30,Personal,NewYork Downtown,NewYork Downtown,1.2,Other
+3/27/2016 0:31,3/27/2016 0:40,Business,NewYork Downtown,NewYork Downtown,2.1,Errand/Supplies
+3/27/2016 1:11,3/27/2016 1:23,Business,Newjersey Airport,Newjersey Downtown,6.6,Meal/Entertain
+3/27/2016 15:31,3/27/2016 15:56,Business,California Downtown,California suburb,6.1,Customer Visit
+3/27/2016 21:26,3/27/2016 21:41,Personal,Newjersey Airport,Newjersey Downtown,6.9,Other
+3/27/2016 23:04,3/27/2016 23:18,Personal,Newjersey Airport,Newjersey Downtown,7.3,Other
+3/28/2016 12:29,3/28/2016 12:42,Personal,California Downtown,California suburb,3.6,Other
+3/28/2016 19:30,3/28/2016 20:23,Personal,Dallas airport,Dallas Downtown,27.2,Other
+3/28/2016 22:55,3/28/2016 23:26,Personal,Newjersey Airport,Newjersey Downtown,25.7,Other
+3/29/2016 15:27,3/29/2016 16:11,Personal,California Downtown,California suburb,13.6,Other
+3/29/2016 18:20,3/29/2016 18:39,Personal,Chicago Downtown,Chicago Downtown,6.2,Other
+3/29/2016 20:29,3/29/2016 20:44,Personal,Boston Downtown,Boston Downtown,6,Other
+3/29/2016 23:04,3/29/2016 23:21,Personal,Newjersey Airport,Newjersey Downtown,13.8,Other
+3/30/2016 22:05,3/30/2016 22:55,Business,Newjersey Airport,Newjersey Downtown,28.8,Meal/Entertain
+3/31/2016 12:47,3/31/2016 13:22,Business,California Downtown,California suburb,16.1,Temporary Site
+3/31/2016 14:37,3/31/2016 15:09,Business,Newjersey Airport,Newjersey Downtown,16.4,Meal/Entertain
+4/1/2016 13:43,4/1/2016 14:01,Business,California Downtown,California suburb,11,Meeting
+4/1/2016 14:36,4/1/2016 15:24,Business,California Downtown,California suburb,15.5,Customer Visit
+4/1/2016 16:01,4/1/2016 16:49,Business,Newjersey Airport,Newjersey Downtown,20.3,Meeting
+4/1/2016 16:52,4/1/2016 16:57,Personal,California Downtown,California suburb,0.7,Other
+4/2/2016 8:48,4/2/2016 9:04,Personal,California Downtown,California suburb,5.5,Other
+4/2/2016 11:01,4/2/2016 11:16,Personal,California Downtown,California suburb,5.1,Other
+4/2/2016 12:21,4/2/2016 14:47,Business,California Downtown,California suburb,77.3,Customer Visit
+4/2/2016 16:57,4/2/2016 18:09,Business,Richmond hindu temple,Richmond Downtown,80.5,Customer Visit
+4/2/2016 19:38,4/2/2016 22:36,Business,Richmond hindu temple ,Richmond Downtown,174.2,Customer Visit
+4/2/2016 23:11,4/3/2016 1:34,Business,Chicago Downtown,Chicago Downtown,144,Meeting
+4/3/2016 2:00,4/3/2016 4:16,Business,Boston Downtown,Boston tea Party,159.3,Meeting
+4/5/2016 21:39,4/5/2016 21:55,Business,LA Downtown,Wayne Ridge,7.9,Meal/Entertain
+4/6/2016 0:19,4/6/2016 0:39,Business,LA Downtown,LA Downtown,8,Meal/Entertain
+4/7/2016 18:20,4/7/2016 18:39,Business,Chicago Downtown,Chicago Suburb,6.1,Meal/Entertain
+4/7/2016 19:45,4/7/2016 20:00,Business,Chicago Suburb,Chicago Downtown,6.1,Errand/Supplies
+4/8/2016 12:30,4/8/2016 12:48,Business,Chicago Downtown,Durham,10.5,Meeting
+4/8/2016 13:34,4/8/2016 13:51,Business,Richmond hindu temple,Richmond Downtown,8.7,Meal/Entertain
+4/8/2016 13:55,4/8/2016 14:03,Business,LA Downtown,LA Downtown,1.8,Errand/Supplies
+4/8/2016 14:43,4/8/2016 15:20,Business,Chicago Downtown,Raleigh,19.1,Meeting
+4/8/2016 16:05,4/8/2016 16:47,Business,Chicago Downtown,Chicago Downtown,18.6,Meeting
+4/12/2016 9:15,4/12/2016 9:26,Business,LA Downtown,Edgehill Farms,2.8,Errand/Supplies
+4/12/2016 9:34,4/12/2016 9:53,Business,Chicago Downtown,Raleigh,8.9,Meeting
+4/12/2016 10:58,4/12/2016 11:18,Business,West Palm Beach,West Palm Beach,7.5,Customer Visit
+4/12/2016 12:22,4/12/2016 12:44,Business,Chicago Downtown,Chicago Suburb,15.9,Meeting
+4/12/2016 13:42,4/12/2016 14:01,Business,Chicago Suburb,Chicago Downtown,6.5,Meal/Entertain
+4/14/2016 7:29,4/14/2016 8:09,Business,Chicago Downtown,Holly Springs,15.3,Temporary Site
+4/14/2016 16:00,4/14/2016 16:43,Business,Richmond hindu temple ,Richmond Downtown,13.7,Temporary Site
+4/15/2016 11:36,4/15/2016 12:07,Business,Chicago Downtown,Raleigh,11.9,Temporary Site
+4/15/2016 12:29,4/15/2016 12:32,Business,West Palm Beach,West Palm Beach,1.4,Errand/Supplies
+4/15/2016 14:31,4/15/2016 15:01,Business,Chicago Downtown,Chicago Downtown,15.2,Meeting
+4/16/2016 12:59,4/16/2016 13:17,Business,Chicago Downtown,Chicago Suburb,6,Errand/Supplies
+4/16/2016 15:10,4/16/2016 15:26,Business,Chicago Suburb,Chicago Downtown,6.1,Meal/Entertain
+4/19/2016 17:44,4/19/2016 18:08,Business,LA Downtown,Wayne Ridge,8.2,Meal/Entertain
+4/19/2016 19:57,4/19/2016 20:19,Business,LA Downtown,LA Downtown,8,Meal/Entertain
+4/22/2016 8:25,4/22/2016 9:04,Business,Chicago Downtown,Raleigh,13.6,Meeting
+4/22/2016 10:10,4/22/2016 10:40,Business,Chicago Downtown,Chicago Downtown,22.5,Meeting
+4/22/2016 12:08,4/22/2016 12:28,Business,Chicago Downtown,Durham,10.4,Meeting
+4/22/2016 13:02,4/22/2016 13:26,Business,Richmond hindu temple,Richmond Downtown,10,Meeting
+4/23/2016 17:03,4/23/2016 17:16,Business,LA Downtown,Tanglewood,6,Meal/Entertain
+4/23/2016 18:49,4/23/2016 19:05,Business,LA Downtown,LA Downtown,6.5,Meal/Entertain
+4/24/2016 19:07,4/24/2016 19:16,Business,Chicago Downtown,Chicago Suburb,3.1,Errand/Supplies
+4/24/2016 19:46,4/24/2016 19:52,Business,Milwaukee Downtown,Milwaukee Downtown,1.9,Errand/Supplies
+4/24/2016 21:41,4/24/2016 21:50,Business,Chicago Suburb,Chicago Downtown,4.2,Between Offices
+4/27/2016 13:30,4/27/2016 13:40,Business,LA Downtown,Burtrose,4.9,Between Offices
+4/27/2016 14:13,4/27/2016 14:25,Business,LA Downtown,LA Downtown,4.8,Between Offices
+4/28/2016 12:09,4/28/2016 12:34,Business,Chicago Downtown,Raleigh,12.4,Customer Visit
+4/28/2016 13:30,4/28/2016 13:49,Business,Chicago Downtown,Chicago Downtown,32.8,Customer Visit
+4/28/2016 22:10,4/28/2016 22:28,Business,Chicago Suburb,Chicago Downtown,5.5,Customer Visit
+4/29/2016 11:44,4/29/2016 12:01,Business,Chicago Downtown,Durham,9.9,Meeting
+4/29/2016 13:13,4/29/2016 13:34,Business,Richmond hindu temple,Richmond Downtown,10,Meeting
+4/29/2016 18:46,4/29/2016 19:18,Business,Chicago Downtown,Durham,14.2,Customer Visit
+4/29/2016 22:44,4/29/2016 23:19,Business,Richmond hindu temple,Richmond Downtown,18.2,Meeting
+4/30/2016 18:42,4/30/2016 18:57,Business,LA Downtown,Waverly Place,7.7,Meal/Entertain
+4/30/2016 22:16,4/30/2016 22:34,Business,LA Downtown,LA Downtown,6.8,Other
+5/1/2016 13:45,5/1/2016 13:53,Business,LA Downtown,Westpark Place,2.1,Meal/Entertain
+5/1/2016 14:26,5/1/2016 14:31,Business,LA Downtown,LA Downtown,2.3,Other
+5/1/2016 17:33,5/1/2016 17:45,Business,LA Downtown,Tanglewood,6.2,Between Offices
+5/1/2016 17:54,5/1/2016 18:10,Business,LA Downtown,LA Downtown,7.5,Meeting
+5/1/2016 22:38,5/1/2016 22:49,Business,LA Downtown,LA Downtown,3.1,Errand/Supplies
+5/2/2016 14:14,5/2/2016 14:21,Business,LA Downtown,Westpark Place,2.2,Errand/Supplies
+5/2/2016 15:37,5/2/2016 15:48,Business,LA Downtown,LA Downtown,3.9,Meal/Entertain
+5/3/2016 22:20,5/3/2016 22:28,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain
+5/4/2016 15:16,5/4/2016 15:37,Business,Chicago Downtown,Chicago Suburb,8.7,Meal/Entertain
+5/4/2016 20:55,5/4/2016 21:14,Business,West Palm Beach,West Palm Beach,14.5,Errand/Supplies
+5/4/2016 21:30,5/4/2016 21:36,Business,Miami beach,West Palm Beach,4.5,Meal/Entertain
+5/4/2016 22:19,5/4/2016 22:27,Business,LA Downtown,LA Downtown,5,Meal/Entertain
+5/5/2016 21:24,5/5/2016 21:36,Business,Boston Downtown,Boston Downtown,14.2,Meal/Entertain
+5/5/2016 22:34,5/5/2016 22:40,Business,Chicago Downtown,Chicago Downtown,2.9,Errand/Supplies
+5/5/2016 23:55,5/6/2016 0:08,Business,Fort Pierce,Miami beach,12.9,Meeting
+5/6/2016 5:47,5/6/2016 6:02,Business,Miami beach,West Palm Beach,14.4,Meeting
+5/6/2016 16:45,5/6/2016 16:59,Business,Milwaukee Downtown,Milwaukee Downtown,17,Meeting
+5/6/2016 17:18,5/6/2016 17:44,Business,Chicago Suburb,Chicago Downtown,7.9,Customer Visit
+5/9/2016 6:08,5/9/2016 6:25,Business,Chicago Downtown,Chicago Suburb,8.4,Customer Visit
+5/9/2016 14:39,5/9/2016 15:06,Business,Chicago Downtown,Chicago Downtown,20.5,Between Offices
+5/9/2016 17:58,5/9/2016 18:26,Business,Dallas Downtown,Dallas Downtown,9.8,Customer Visit
+5/9/2016 19:35,5/9/2016 19:59,Business,LA Downtown,LA Downtown,17.6,Customer Visit
+5/10/2016 9:03,5/10/2016 9:20,Business,Newjersey Airport,Newjersey Downtown,9.3,Customer Visit
+5/10/2016 17:19,5/10/2016 17:31,Business,West Palm Beach,West Palm Beach,7.9,Customer Visit
+5/11/2016 8:35,5/11/2016 9:12,Business,Newjersey Airport,Newjersey Downtown,25.6,Meeting
+5/11/2016 21:47,5/11/2016 22:04,Business,Chicago Suburb,Chicago Downtown,8.1,Meeting
+5/14/2016 18:35,5/14/2016 18:39,Business,Chicago Downtown,Chicago Suburb,3.1,Meal/Entertain
+5/14/2016 23:01,5/14/2016 23:05,Business,Chicago Suburb,Chicago Downtown,3.1,Meal/Entertain
+5/17/2016 13:15,5/17/2016 13:23,Business,LA Downtown,Preston,2.8,Errand/Supplies
+5/17/2016 13:56,5/17/2016 14:08,Business,Dallas Downtown,Dallas Downtown,2.7,Errand/Supplies
+5/17/2016 14:34,5/17/2016 14:40,Business,LA Downtown,LA Downtown,1.9,Errand/Supplies
+5/18/2016 9:11,5/18/2016 9:41,Business,Chicago Downtown,Chicago Suburb,8.4,Customer Visit
+5/18/2016 13:00,5/18/2016 13:02,Business,Chicago Suburb,Raleigh,7.6,Customer Visit
+5/19/2016 14:37,5/19/2016 15:01,Business,Newjersey Airport,Newjersey Downtown,2.9,Meal/Entertain
+5/20/2016 10:56,5/20/2016 11:07,Business,Newjersey Airport,Newjersey Downtown,11.2,Meeting
+5/20/2016 15:43,5/20/2016 16:12,Business,Chicago Suburb,Chicago Downtown,8.2,Meal/Entertain
+5/22/2016 15:39,5/22/2016 15:46,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain
+5/22/2016 18:46,5/22/2016 18:53,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain
+5/23/2016 20:19,5/23/2016 20:27,Business,LA Downtown,Savon Height,3.6,Meal/Entertain
+5/23/2016 21:09,5/23/2016 21:21,Business,LA Downtown,LA Downtown,3.6,Errand/Supplies
+5/27/2016 20:26,5/27/2016 20:30,Business,LA Downtown,Kildaire Farms,4.5,Errand/Supplies
+5/27/2016 20:47,5/27/2016 20:53,Business,LA Downtown,LA Downtown,1.2,Other
+5/27/2016 22:11,5/27/2016 22:14,Business,California Downtown,California suburb,1.7,Errand/Supplies
+5/28/2016 0:15,5/28/2016 0:21,Business,California Downtown,California suburb,4.7,Errand/Supplies
+5/28/2016 12:52,5/28/2016 13:06,Business,Chicago Downtown,Chicago Suburb,6.1,Meal/Entertain
+5/28/2016 14:35,5/28/2016 15:04,Business,Chicago Suburb,Chicago Downtown,11.3,Customer Visit
+5/31/2016 13:54,5/31/2016 14:41,Business,Chicago Downtown,Raleigh,14.9,Meeting
+5/31/2016 16:02,5/31/2016 16:39,Business,Chicago Downtown,Chicago Downtown,14,Meeting
+5/31/2016 17:50,5/31/2016 17:59,Business,LA Downtown,LA Downtown,1.8,Other
+6/1/2016 10:19,6/1/2016 10:47,Business,Chicago Downtown,Chicago Suburb,6.7,Customer Visit
+6/1/2016 13:10,6/1/2016 13:39,Business,Chicago Suburb,Chicago Downtown,9.6,Meeting
+6/3/2016 11:29,6/3/2016 11:49,Business,Chicago Downtown,Durham,10.4,Meeting
+6/3/2016 13:08,6/3/2016 13:38,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+6/3/2016 15:31,6/3/2016 15:54,Business,Chicago Downtown,Chicago Suburb,6,Meal/Entertain
+6/3/2016 18:14,6/3/2016 18:29,Business,LA Downtown,LA Downtown,3.3,Errand/Supplies
+6/3/2016 18:41,6/3/2016 18:53,Business,Chicago Suburb,Chicago Downtown,3.1,Errand/Supplies
+6/3/2016 19:36,6/3/2016 19:42,Business,Richmond hindu temple ,Richmond Downtown,1.7,Errand/Supplies
+6/3/2016 22:47,6/3/2016 23:06,Business,Chicago Suburb,Chicago Downtown,4,Between Offices
+6/5/2016 14:03,6/5/2016 14:33,Business,LA Downtown,Savon Height,7.8,Customer Visit
+6/5/2016 15:06,6/5/2016 15:22,Business,Chicago Downtown,Chicago Suburb,7.8,Customer Visit
+6/5/2016 15:57,6/5/2016 16:08,Business,Richmond Downtown,Richmond Downtown,3.8,Meal/Entertain
+6/5/2016 18:05,6/5/2016 18:14,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain
+6/5/2016 21:53,6/5/2016 22:05,Business,Chicago Downtown,Durham,9.9,Meeting
+6/5/2016 23:52,6/6/2016 0:08,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+6/6/2016 15:36,6/6/2016 15:45,Business,LA Downtown,Hazelwood,3,Errand/Supplies
+6/6/2016 16:16,6/6/2016 16:24,Business,Chicago Downtown,Chicago suburb,2.4,Errand/Supplies
+6/6/2016 20:06,6/6/2016 20:20,Business,Chicago Downtown,Apex,5.7,Meal/Entertain
+6/6/2016 21:08,6/6/2016 21:37,Business,Chicago suburb,Chicago Downtown,7.2,Meal/Entertain
+6/6/2016 21:41,6/6/2016 22:00,Business,Chicago Downtown,Durham,10.4,Meeting
+6/6/2016 23:34,6/6/2016 23:48,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+6/7/2016 21:42,6/7/2016 22:00,Business,Chicago Downtown,Durham,10.4,Meeting
+6/7/2016 23:41,6/8/2016 0:04,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+6/8/2016 8:23,6/8/2016 8:53,Business,Chicago Downtown,Chicago Suburb,8.7,Meal/Entertain
+6/8/2016 12:04,6/8/2016 13:01,Business,Richmond Downtown,Richmond hindu temple,22.3,Errand/Supplies
+6/8/2016 13:12,6/8/2016 13:29,Business,LA Downtown,LA Downtown,3.3,Meal/Entertain
+6/8/2016 14:31,6/8/2016 14:37,Business,West Palm Beach,West Palm Beach,0.7,Errand/Supplies
+6/8/2016 16:55,6/8/2016 17:11,Business,Chicago Downtown,Chicago Downtown,2.5,Meal/Entertain
+6/8/2016 17:16,6/8/2016 17:18,Business,LA Downtown,LA Downtown,0.5,Errand/Supplies
+6/8/2016 17:59,6/8/2016 18:05,Business,LA Downtown,LA Downtown,0.9,Errand/Supplies
+6/8/2016 20:11,6/8/2016 20:25,Business,Boston Downtown,Boston tea Party,4.8,Errand/Supplies
+6/10/2016 15:19,6/10/2016 16:28,Business,Richmond hindu temple,Richmond Downtown,16.3,Meeting
+6/10/2016 21:47,6/10/2016 22:04,Business,Chicago Downtown,Durham,10.4,Meeting
+6/10/2016 23:53,6/11/2016 0:01,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+6/11/2016 17:08,6/11/2016 17:16,Business,Chicago Downtown,Chicago Suburb,3.7,Errand/Supplies
+6/11/2016 17:34,6/11/2016 17:39,Business,Chicago Suburb,Chicago Downtown,4.6,Meal/Entertain
+6/11/2016 17:50,6/11/2016 17:56,Business,LA Downtown,LA Downtown,1.7,Other
+6/11/2016 21:45,6/11/2016 22:04,Business,Chicago Downtown,Durham,10.4,Meeting
+6/11/2016 23:39,6/12/2016 0:05,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+6/12/2016 19:53,6/12/2016 19:56,Business,Chicago Downtown,Chicago Suburb,2.5,Meal/Entertain
+6/12/2016 20:05,6/12/2016 20:16,Business,Chicago Suburb,Chicago Downtown,4.3,Errand/Supplies
+6/12/2016 21:58,6/12/2016 22:19,Business,LA Downtown,LA Downtown,2.8,Errand/Supplies
+6/13/2016 5:23,6/13/2016 5:42,Business,Chicago Downtown,Chicago Suburb,8.4,Meal/Entertain
+6/13/2016 14:17,6/13/2016 14:46,Business,Newjersey Airport,Newjersey Downtown,13.2,Meeting
+6/13/2016 18:08,6/13/2016 18:47,Business,Boston Downtown,Boston tea Party,3.9,Meal/Entertain
+6/13/2016 18:54,6/13/2016 19:23,Business,Richmond Downtown,Richmond hindu temple,5.1,Meal/Entertain
+6/13/2016 20:00,6/13/2016 20:05,Business,Newjersey Airport,Newjersey Downtown,5.2,Customer Visit
+6/14/2016 12:03,6/14/2016 12:21,Business,Boston Downtown,Boston tea Party,9.8,Other
+6/14/2016 16:09,6/14/2016 16:39,Business,Chicago Downtown,Chicago Downtown,11.6,Meeting
+6/14/2016 17:15,6/14/2016 17:24,Business,Boston Downtown,Boston tea Party,5.1,Meeting
+6/14/2016 17:27,6/14/2016 17:57,Business,Richmond hindu temple,Richmond Downtown,9.3,Errand/Supplies
+6/15/2016 1:46,6/15/2016 2:06,Business,West Palm Beach,West Palm Beach,12.4,Between Offices
+6/15/2016 15:26,6/15/2016 15:34,Business,Miami beach,Miami beach,1.9,Between Offices
+6/15/2016 16:37,6/15/2016 17:02,Business,NewYork Downtown,NewYork Downtown,6.4,Customer Visit
+6/15/2016 17:29,6/15/2016 17:49,Personal,NewYork Downtown,NewYork Downtown,5.5,Other
+6/15/2016 19:52,6/15/2016 19:58,Business,Chicago downtown,Chicago downtown,1.5,Meal/Entertain
+6/16/2016 13:36,6/16/2016 14:30,Business,Newjersey Airport,Newjersey Downtown,14.5,Other
+6/16/2016 14:42,6/16/2016 14:46,Business,Newjersey Airport,Newjersey Downtown,2.7,Other
+6/16/2016 15:17,6/16/2016 15:41,Business,West Palm Beach,West Palm Beach,15,Other
+6/16/2016 19:39,6/16/2016 19:56,Business,Newjersey Airport,Newjersey Downtown,12.9,Other
+6/16/2016 21:43,6/16/2016 21:56,Business,West Palm Beach,West Palm Beach,13.6,Other
+6/17/2016 16:11,6/17/2016 16:44,Business,Newjersey Airport,Newjersey Downtown,12.2,Other
+6/18/2016 0:29,6/18/2016 0:51,Business,Chicago Suburb,Chicago Downtown,8.7,Other
+6/19/2016 2:39,6/19/2016 2:50,Business,Chicago Downtown,Raleigh,6,Other
+6/19/2016 5:51,6/19/2016 6:00,Business,Chicago Downtown,Chicago Downtown,5.9,Other
+6/21/2016 15:39,6/21/2016 16:08,Business,Chicago Downtown,Raleigh,19.3,Other
+6/21/2016 17:11,6/21/2016 18:02,Business,Chicago Downtown,Chicago Downtown,16.6,Meal/Entertain
+6/24/2016 10:41,6/24/2016 10:57,Business,LA Downtown,Waverly Place,7.1,Meal/Entertain
+6/24/2016 11:54,6/24/2016 12:01,Business,Chicago downtown,Chicago downtown,2.1,Meal/Entertain
+6/24/2016 12:19,6/24/2016 12:37,Business,Chicago Downtown,Raleigh,8.6,Errand/Supplies
+6/24/2016 12:50,6/24/2016 13:12,Business,Chicago Downtown,Chicago Suburb,9,Errand/Supplies
+6/24/2016 13:18,6/24/2016 13:27,Business,Chicago Suburb,Chicago Downtown,3.1,Errand/Supplies
+6/24/2016 14:01,6/24/2016 14:20,Business,Chicago Downtown,Chicago Suburb,8.4,Temporary Site
+6/24/2016 20:44,6/24/2016 21:02,Business,West Palm Beach,West Palm Beach,12.8,Other
+6/25/2016 9:03,6/25/2016 9:12,Business,Miami beach,Miami beach,4.5,Other
+6/25/2016 9:15,6/25/2016 10:08,Business,Newjersey Airport,Newjersey Downtown,11.8,Between Offices
+6/25/2016 10:18,6/25/2016 10:25,Business,Milwaukee Downtown,Milwaukee Downtown,1.1,Errand/Supplies
+6/25/2016 10:50,6/25/2016 11:18,Business,Boston Downtown,Boston Downtown,17,Meal/Entertain
+6/25/2016 11:25,6/25/2016 11:34,Business,Dallas Downtown,LA Downtown,1.7,Meeting
+6/25/2016 11:53,6/25/2016 13:21,Business,Newjersey Airport,Newjersey Downtown,15.5,Meeting
+6/25/2016 19:47,6/25/2016 19:58,Business,Chicago downtown,Chicago downtown,1.6,Other
+6/25/2016 23:19,6/25/2016 23:26,Business,NewYork Downtown,NewYork Downtown,1.5,Other
+6/26/2016 17:43,6/26/2016 18:18,Business,Newjersey Airport,Newjersey Downtown,12.6,Meeting
+6/26/2016 18:45,6/26/2016 19:12,Business,Dallas Downtown,LA Downtown,4.8,Other
+6/26/2016 19:41,6/26/2016 19:50,Business,West Palm Beach,West Palm Beach,2.2,Other
+6/26/2016 21:14,6/26/2016 21:42,Business,West Palm Beach,West Palm Beach,13,Other
+6/27/2016 7:37,6/27/2016 8:48,Business,Newjersey Airport,Newjersey Downtown,46.9,Other
+6/27/2016 8:51,6/27/2016 9:00,Business,Dallas airport,Dallas Downtown,2.5,Other
+6/27/2016 9:05,6/27/2016 9:33,Business,Dallas airport,Dallas Downtown,8.6,Other
+6/27/2016 9:43,6/27/2016 10:08,Business,Dallas airport,Dallas Downtown,5.2,Other
+6/27/2016 10:22,6/27/2016 10:39,Business,Dallas airport,Dallas Downtown,7.6,Other
+6/27/2016 10:51,6/27/2016 10:58,Business,Dallas airport,Dallas Downtown,1.8,Other
+6/27/2016 11:06,6/27/2016 11:24,Business,Dallas airport,Dallas Downtown,4.7,Other
+6/27/2016 11:30,6/27/2016 11:42,Business,NewYork Downtown,NewYork Downtown,2.8,Other
+6/27/2016 12:22,6/27/2016 13:02,Business,NewYork Downtown,NewYork Downtown,30,Other
+6/27/2016 13:56,6/27/2016 14:05,Business,Newjersey Airport,Newjersey Downtown,4.4,Other
+6/27/2016 21:09,6/27/2016 21:19,Business,Newjersey Downtown,Newjersey Downtown,1,Other
+6/28/2016 0:48,6/28/2016 1:05,Business,Chicago Suburb,Chicago Downtown,8.2,Customer Visit
+6/28/2016 20:13,6/28/2016 20:33,Business,Chicago Downtown,Durham,10.4,Meeting
+6/28/2016 23:34,6/28/2016 23:59,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+6/28/2016 23:34,6/28/2016 23:59,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+6/29/2016 8:56,6/29/2016 9:24,Business,Chicago Downtown,Chicago Suburb,7.3,Other
+6/29/2016 10:22,6/29/2016 10:38,Business,Chicago Suburb,Chicago Downtown,7.4,Other
+6/29/2016 11:49,6/29/2016 11:51,Business,LA Downtown,Westpark Place,1.6,Other
+6/29/2016 12:11,6/29/2016 12:16,Business,LA Downtown,LA Downtown,1.8,Other
+6/29/2016 20:11,6/29/2016 20:29,Business,Chicago Downtown,Durham,10.4,Meeting
+6/29/2016 23:38,6/30/2016 0:00,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+6/30/2016 20:09,6/30/2016 20:26,Business,Chicago Downtown,Durham,9.9,Meeting
+7/1/2016 0:00,7/1/2016 0:25,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+7/1/2016 9:34,7/1/2016 9:57,Business,Chicago Downtown,Raleigh,13.3,Meeting
+7/1/2016 12:36,7/1/2016 13:00,Business,Chicago Downtown,Chicago Downtown,11.3,Meeting
+7/1/2016 20:06,7/1/2016 20:24,Business,Chicago Downtown,Durham,10.5,Meeting
+7/1/2016 23:48,7/2/2016 0:09,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+7/2/2016 20:18,7/2/2016 20:36,Business,Chicago Downtown,Durham,10.1,Meeting
+7/2/2016 23:48,7/3/2016 0:12,Business,Richmond hindu temple,Richmond Downtown,9.9,Meeting
+7/3/2016 0:28,7/3/2016 0:38,Business,Chicago Downtown,Chicago Suburb,3.1,Errand/Supplies
+7/3/2016 3:02,7/3/2016 3:08,Business,Chicago Suburb,Chicago Downtown,3.1,Errand/Supplies
+7/3/2016 20:00,7/3/2016 20:18,Business,Chicago Downtown,Durham,9.9,Meeting
+7/4/2016 0:32,7/4/2016 0:47,Business,Ohio Downtown,Ohio Downtown,9.9,Meeting
+7/4/2016 17:31,7/4/2016 17:49,Business,LA Downtown,Summerwinds,8.8,Meeting
+7/4/2016 18:23,7/4/2016 18:49,Business,LA Downtown,LA Downtown,8.7,Temporary Site
+7/4/2016 20:00,7/4/2016 20:17,Business,Chicago Downtown,Durham,11.8,Meeting
+7/5/2016 0:00,7/5/2016 0:05,Business,Dallas Downtown,LA Downtown,1.2,Errand/Supplies
+7/5/2016 0:08,7/5/2016 0:28,Business,Ohio Downtown,Ohio Downtown,9.9,Meeting
+7/5/2016 16:48,7/5/2016 16:52,Business,LA Downtown,LA Downtown,0.6,Errand/Supplies
+7/5/2016 20:06,7/5/2016 20:26,Business,Chicago Downtown,Durham,9.9,Other
+7/5/2016 22:41,7/5/2016 23:02,Business,Ohio Downtown,Ohio Downtown,8.6,Other
+7/6/2016 0:33,7/6/2016 0:53,Business,Chicago Suburb,Chicago Downtown,6.3,Meal/Entertain
+7/6/2016 9:06,7/6/2016 9:25,Business,Chicago Downtown,Durham,9.9,Meeting
+7/6/2016 12:48,7/6/2016 13:08,Business,Ohio Downtown,Ohio Downtown,9.9,Other
+7/6/2016 20:04,7/6/2016 20:14,Business,Chicago Downtown,Chicago Suburb,3.3,Meal/Entertain
+7/6/2016 23:46,7/6/2016 23:59,Business,Chicago Suburb,Chicago Downtown,3.1,Customer Visit
+7/7/2016 8:22,7/7/2016 8:50,Business,Chicago Downtown,Chicago Suburb,7.9,Temporary Site
+7/7/2016 10:27,7/7/2016 10:33,Business,Chicago Suburb,Chicago Downtown,8.9,Other
+7/7/2016 12:59,7/7/2016 13:35,Business,West Palm Beach,West Palm Beach,12.8,Other
+7/8/2016 9:50,7/8/2016 10:13,Business,Miami beach,Miami beach,7.7,Other
+7/8/2016 10:51,7/8/2016 11:12,Business,Dallas Downtown,LA Downtown,7,Other
+7/8/2016 13:48,7/8/2016 14:11,Business,Newjersey Airport,Newjersey Downtown,12.5,Other
+7/8/2016 17:11,7/8/2016 17:30,Business,West Palm Beach,West Palm Beach,13.2,Other
+7/9/2016 9:03,7/9/2016 9:46,Business,Newjersey Airport,Newjersey Downtown,13,Other
+7/9/2016 9:52,7/9/2016 10:06,Business,West Palm Beach,West Palm Beach,4.9,Other
+7/9/2016 10:15,7/9/2016 10:33,Business,Newjersey Airport,Newjersey Downtown,8.5,Other
+7/10/2016 14:10,7/10/2016 14:17,Business,Miami beach,Miami beach,1.3,Other
+7/10/2016 16:04,7/10/2016 16:15,Business,LA Downtown,LA Downtown,1.8,Other
+7/10/2016 18:05,7/10/2016 18:21,Business,Newjersey Airport,Newjersey Downtown,13.6,Other
+7/10/2016 19:51,7/10/2016 20:08,Business,West Palm Beach,West Palm Beach,13.4,Other
+7/12/2016 16:10,7/12/2016 16:45,Business,Newjersey Airport,Newjersey Downtown,12.3,Other
+7/12/2016 19:21,7/12/2016 19:26,Personal,West Palm Beach,West Palm Beach,1.4,Other
+7/12/2016 23:47,7/13/2016 0:11,Personal,Chicago Suburb,Chicago Downtown,8.7,Other
+7/13/2016 12:39,7/13/2016 13:20,Personal,Chicago Downtown,Chicago Suburb,23.5,Other
+7/13/2016 13:25,7/13/2016 13:39,Personal,Chicago Suburb,Chicago Suburb,2.2,Other
+7/13/2016 13:42,7/13/2016 13:54,Personal,Chicago Suburb,Chicago Downtown,4.4,Other
+7/14/2016 15:51,7/14/2016 15:59,Personal,Chicago Downtown,Chicago Suburb,3.3,Other
+7/14/2016 16:03,7/14/2016 16:34,Business,Chicago Suburb,Chicago Suburb,11.8,Errand/Supplies
+7/14/2016 16:39,7/14/2016 20:05,Business,Chicago Suburb,Banner Elk,195.3,Other
+7/15/2016 11:32,7/15/2016 11:53,Personal,Miami beach,Miami Downtown,8.3,Other
+7/15/2016 12:09,7/15/2016 12:19,Personal,Miami beach,Miami Downtown,3.2,Other
+7/15/2016 12:35,7/15/2016 13:15,Personal,Miami beach,Miami Downtown,22.4,Other
+7/15/2016 15:03,7/15/2016 15:33,Personal,Boston Downtown,Boston tea Party,12.2,Other
+7/15/2016 15:40,7/15/2016 15:52,Personal,Miami beach,Miami Downtown,4.5,Other
+7/16/2016 13:14,7/16/2016 14:10,Personal,Miami beach,Miami Downtown,28.1,Other
+7/16/2016 14:14,7/16/2016 14:30,Personal,Newjersey Airport,Newjersey Downtown,3.8,Other
+7/16/2016 15:29,7/16/2016 16:57,Personal,Newjersey Airport,Newjersey Downtown,41.9,Other
+7/16/2016 19:42,7/16/2016 20:35,Personal,Chicago Downtown,Chicago Downtown,23.8,Other
+7/16/2016 21:45,7/16/2016 22:18,Personal,Miami beach,Miami Downtown,13,Other
+7/16/2016 22:50,7/16/2016 23:03,Business,Miami beach,Miami Downtown,4.4,Errand/Supplies
+7/17/2016 11:23,7/17/2016 11:50,Personal,Miami beach,Miami Downtown,15.1,Charity ($)
+7/17/2016 12:20,7/17/2016 15:25,Personal,Chicago Downtown,Chicago Downtown,180.2,Commute
+7/18/2016 10:37,7/18/2016 10:49,Personal,Chicago Downtown,Chicago Suburb,4.1,Moving
+7/18/2016 10:54,7/18/2016 11:15,Personal,Chicago Suburb,Chicago Downtown,6.1,Moving
+7/18/2016 11:25,7/18/2016 11:36,Personal,Newjersey Airport,Newjersey Downtown,3.3,Moving
+7/18/2016 11:40,7/18/2016 11:56,Personal,LA Downtown,LA Downtown,4.7,Moving
+7/18/2016 17:12,7/18/2016 17:33,Business,Chicago Downtown,Apex,7.2,Meeting
+7/18/2016 18:32,7/18/2016 18:47,Business,Chicago suburb,Chicago Downtown,5.5,Meal/Entertain
+7/18/2016 19:07,7/18/2016 19:14,Business,Chicago Downtown,Chicago Suburb,3.3,Meal/Entertain
+7/18/2016 20:28,7/18/2016 20:32,Business,Chicago Downtown,Chicago suburb,0.9,Errand/Supplies
+7/18/2016 21:11,7/18/2016 21:19,Business,Chicago Suburb,Chicago Downtown,3.8,Meal/Entertain
+7/19/2016 10:35,7/19/2016 10:51,Business,LA Downtown,Stonewater,6.4,Customer Visit
+7/19/2016 10:56,7/19/2016 11:11,Business,LA Downtown,LA Downtown,3,Meeting
+7/19/2016 11:30,7/19/2016 12:00,Business,NewYork Downtown,NewYork Downtown,8.7,Meal/Entertain
+7/19/2016 17:14,7/19/2016 17:24,Business,LA Downtown,Chessington,3.9,Errand/Supplies
+7/19/2016 17:50,7/19/2016 18:08,Personal,Milwaukee Downtown,Milwaukee Downtown,4.8,Other
+7/20/2016 17:12,7/20/2016 17:24,Personal,LA Downtown,Edgehill Farms,2.8,Other
+7/20/2016 17:50,7/20/2016 17:57,Personal,LA Downtown,LA amtrak station,1.4,Other
+7/20/2016 18:16,7/20/2016 18:20,Personal,LA Downtown,LA Downtown,1.4,Other
+7/21/2016 17:17,7/21/2016 17:23,Business,LA Downtown,Edgehill Farms,2.7,Other
+7/21/2016 17:42,7/21/2016 17:51,Business,LA Downtown,LA amtrak station,2.3,Other
+7/21/2016 18:27,7/21/2016 18:42,Business,Chicago Downtown,Chicago Suburb,3.7,Other
+7/21/2016 19:30,7/21/2016 19:39,Business,Chicago Suburb,Chicago Downtown,2.9,Other
+7/22/2016 10:42,7/22/2016 10:53,Business,Chicago Downtown,Chicago Suburb,3.8,Other
+7/22/2016 11:11,7/22/2016 11:25,Business,Chicago Suburb,Chicago Downtown,5.1,Other
+7/22/2016 11:37,7/22/2016 12:00,Business,Chicago Downtown,Chicago suburb,9.1,Other
+7/22/2016 12:14,7/22/2016 12:31,Business,Chicago Downtown,Durham,8,Other
+7/22/2016 13:21,7/22/2016 13:42,Business,Ohio Downtown,Ohio Downtown,9.9,Meeting
+7/22/2016 14:27,7/22/2016 14:43,Business,Chicago Downtown,Chicago Suburb,6.1,Meal/Entertain
+7/22/2016 15:49,7/22/2016 16:22,Business,Chicago Suburb,Chicago Downtown,12.2,Other
+7/22/2016 18:33,7/22/2016 18:51,Business,LA Downtown,LA Downtown,8,Other
+7/23/2016 14:27,7/23/2016 14:44,Business,Chicago Downtown,Chicago Suburb,4,Other
+7/23/2016 14:48,7/23/2016 15:12,Business,Chicago Suburb,Chicago Downtown,9.5,Other
+7/23/2016 15:15,7/23/2016 15:27,Business,Chicago Downtown,Chicago Suburb,3,Other
+7/23/2016 15:50,7/23/2016 16:10,Business,Chicago Suburb,Chicago Downtown,6.3,Other
+7/23/2016 20:17,7/23/2016 20:33,Business,Chicago Downtown,Durham,10.4,Meeting
+7/23/2016 23:18,7/23/2016 23:43,Business,Ohio Downtown,Ohio Downtown,9.9,Meeting
+7/25/2016 10:35,7/25/2016 10:41,Business,LA Downtown,Parkway,1.5,Other
+7/25/2016 10:47,7/25/2016 10:58,Business,Chicago Downtown,Chicago Suburb,4.9,Other
+7/25/2016 11:04,7/25/2016 11:33,Business,Chicago Suburb,Chicago Downtown,7.9,Other
+7/25/2016 11:37,7/25/2016 11:44,Business,LA Downtown,LA Downtown,1.7,Other
+7/26/2016 15:43,7/26/2016 15:49,Business,LA Downtown,Westpark Place,2.2,Other
+7/26/2016 17:14,7/26/2016 17:24,Business,LA Downtown,LA Downtown,2.1,Other
+7/26/2016 20:52,7/26/2016 21:00,Business,Chicago Downtown,Chicago Suburb,2.5,Meal/Entertain
+7/26/2016 22:31,7/26/2016 22:39,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain
+7/27/2016 19:08,7/27/2016 19:20,Business,Chicago Downtown,Chicago Suburb,2.8,Other
+7/27/2016 21:34,7/27/2016 21:57,Business,Chicago Suburb,Raleigh,14.7,Other
+7/27/2016 22:00,7/27/2016 22:26,Business,Chicago Downtown,Chicago Suburb,14.6,Other
+7/28/2016 0:04,7/28/2016 0:09,Business,Chicago Suburb,Chicago Downtown,2.3,Other
+7/29/2016 15:45,7/29/2016 15:47,Business,LA Downtown,Westpark Place,2.2,Other
+7/29/2016 17:27,7/29/2016 17:45,Business,LA Downtown,LA Downtown,2.2,Meal/Entertain
+7/30/2016 17:02,7/30/2016 17:27,Business,Chicago Downtown,Durham,14,Other
+7/30/2016 21:16,7/30/2016 21:41,Business,Ohio Downtown,Ohio Downtown,13.3,Other
+7/31/2016 17:30,7/31/2016 17:37,Business,LA Downtown,LA Downtown,1.8,Other
+8/1/2016 12:47,8/1/2016 13:04,Business,LA Downtown,Arlington Park at Amberly,6.2,Other
+8/1/2016 13:08,8/1/2016 13:19,Business,Newjersey Airport,Newjersey Downtown,1.3,Other
+8/1/2016 13:28,8/1/2016 13:46,Business,NewYork Downtown,NewYork Downtown,1.9,Other
+8/1/2016 13:52,8/1/2016 14:14,Business,Chicago Downtown,Apex,6.9,Other
+8/1/2016 15:40,8/1/2016 15:47,Business,Chicago suburb,Chicago Downtown,4.6,Other
+8/1/2016 16:18,8/1/2016 16:25,Business,LA Downtown,Edgehill Farms,2.8,Other
+8/1/2016 16:29,8/1/2016 16:59,Business,Chicago Downtown,Chicago Suburb,9.1,Other
+8/1/2016 17:23,8/1/2016 17:55,Business,Chicago Suburb,Chicago Downtown,8.1,Other
+8/2/2016 8:11,8/2/2016 8:32,Business,Chicago Downtown,Chicago Suburb,8.4,Meeting
+8/2/2016 11:51,8/2/2016 12:15,Business,Newjersey Airport,Newjersey Downtown,4.9,Other
+8/2/2016 19:15,8/2/2016 19:23,Business,Dallas Airport,Dallas Downtown,1,Other
+8/2/2016 21:23,8/2/2016 21:29,Business,Dallas Airport,Dallas Downtown,1,Other
+8/3/2016 12:46,8/3/2016 13:00,Business,LA Downtown,LA Downtown,2,Other
+8/3/2016 14:59,8/3/2016 15:03,Business,Dallas Airport,Dallas Downtown,1.1,Other
+8/3/2016 16:00,8/3/2016 16:04,Business,Dallas Airport,Dallas Downtown,1.5,Other
+8/5/2016 17:23,8/5/2016 17:30,Business,Dallas Downtown,Dallas airport,1.3,Other
+8/5/2016 18:17,8/5/2016 18:21,Business,Dallas Airport,Dallas Downtown,1.8,Other
+8/5/2016 19:17,8/5/2016 19:27,Business,Milwaukee Downtown,Milwaukee Downtown,1.5,Other
+8/6/2016 6:40,8/6/2016 6:58,Business,LA Downtown,LA Downtown,6.6,Other
+8/6/2016 9:31,8/6/2016 9:53,Business,Chicago Suburb,Chicago Downtown,8,Other
+8/7/2016 17:14,8/7/2016 17:23,Business,LA Downtown,Edgehill Farms,2.7,Other
+8/7/2016 17:28,8/7/2016 17:43,Business,LA Downtown,LA amtrak station,2.7,Customer Visit
+8/7/2016 18:17,8/7/2016 18:23,Business,Chicago Downtown,Chicago Suburb,2.5,Other
+8/7/2016 20:15,8/7/2016 20:23,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain
+8/8/2016 16:17,8/8/2016 16:31,Business,LA Downtown,LA Amtrak station,5.2,Other
+8/8/2016 16:37,8/8/2016 16:50,Business,LA Amtrak station,Edgehill Farms,4,Other
+8/8/2016 17:02,8/8/2016 17:13,Business,LA Downtown,LA amtrak station,2.7,Customer Visit
+8/8/2016 21:50,8/8/2016 22:15,Business,Chicago Downtown,Chicago Suburb,4.8,Other
+8/8/2016 23:28,8/8/2016 23:37,Business,Chicago Suburb,Chicago Downtown,3.2,Customer Visit
+8/9/2016 14:20,8/9/2016 14:38,Business,LA Downtown,Waverly Place,6.9,Other
+8/9/2016 15:15,8/9/2016 15:36,Business,Chicago Downtown,Raleigh,14.9,Other
+8/9/2016 16:04,8/9/2016 16:37,Business,Chicago Downtown,Chicago Downtown,17.4,Other
+8/10/2016 16:56,8/10/2016 17:24,Business,Chicago Downtown,Durham,12.9,Other
+8/10/2016 17:53,8/10/2016 18:28,Business,Ohio Downtown,Ohio Downtown,15.3,Other
+8/10/2016 18:49,8/10/2016 18:50,Business,Chicago suburb,Chicago Downtown,1,Other
+8/10/2016 19:47,8/10/2016 20:02,Business,Chicago suburb,Chicago Downtown,6,Other
+8/11/2016 12:53,8/11/2016 13:00,Business,LA Downtown,Heritage Pines,2.2,Other
+8/11/2016 13:14,8/11/2016 13:28,Business,Richmond hindu temple ,Richmond Downtown,4.4,Other
+8/11/2016 13:32,8/11/2016 13:42,Business,LA Downtown,LA amtrak station,2.8,Other
+8/11/2016 18:37,8/11/2016 19:29,Business,Chicago Downtown,Wake Forest,31.7,Other
+8/11/2016 20:59,8/11/2016 21:44,Business,Chicago suburb,Chicago Downtown,31.9,Other
+8/12/2016 18:49,8/12/2016 18:52,Business,LA Downtown,Westpark Place,1.9,Other
+8/12/2016 18:56,8/12/2016 19:05,Business,LA Downtown,LA Downtown,1.8,Other
+8/13/2016 15:35,8/13/2016 15:58,Business,Chicago Downtown,Chicago Suburb,8.4,Meeting
+8/15/2016 9:05,8/15/2016 9:52,Business,Chicago Downtown,Chicago Downtown,15.6,Other
+8/15/2016 15:20,8/15/2016 15:47,Business,LA Downtown,LA Downtown,14.1,Other
+8/15/2016 16:52,8/15/2016 17:30,Business,LA Downtown,LA Downtown,15.7,Other
+8/15/2016 19:08,8/15/2016 20:30,Business,LA Downtown,LA Downtown,25.9,Temporary Site
+8/16/2016 7:58,8/16/2016 8:11,Business,LA Downtown,LA Downtown,7.9,Other
+8/16/2016 8:16,8/16/2016 8:23,Business,LA Downtown,LA Downtown,2.7,Other
+8/16/2016 8:46,8/16/2016 8:53,Business,LA Downtown,LA Downtown,5.5,Other
+8/16/2016 10:06,8/16/2016 10:27,Business,LA Downtown,LA Downtown,5.7,Other
+8/16/2016 10:31,8/16/2016 10:38,Business,Richmond hindu temple ,Richmond Downtown,1.2,Other
+8/16/2016 11:47,8/16/2016 12:03,Business,Richmond hindu temple ,Richmond Downtown,5.7,Temporary Site
+8/16/2016 15:13,8/16/2016 15:36,Business,LA Downtown,LA Downtown,16.2,Other
+8/17/2016 10:17,8/17/2016 10:41,Business,Richmond Downtown,Richmond Hindu temple,2.6,Other
+8/17/2016 10:57,8/17/2016 11:20,Business,Richmond Downtown,Richmond Hindu temple,12.1,Other
+8/17/2016 14:45,8/17/2016 14:50,Business,Richmond Downtown,Richmond Hindu temple,1.4,Other
+8/17/2016 15:32,8/17/2016 15:47,Business,Chicago Downtown,Chicago Downtown,6.4,Other
+8/17/2016 16:29,8/17/2016 16:50,Business,Richmond hindu temple ,Richmond Downtown,7.3,Other
+8/17/2016 16:54,8/17/2016 17:00,Business,Richmond Downtown,Richmond Hindu temple,5.3,Other
+8/17/2016 17:05,8/17/2016 17:34,Business,Richmond Downtown,Richmond Hindu temple,5.5,Other
+8/17/2016 18:38,8/17/2016 18:57,Business,Richmond Downtown,Richmond Hindu temple,7.7,Temporary Site
+8/18/2016 18:40,8/18/2016 19:07,Business,Richmond Downtown,Richmond Hindu temple,7.6,Temporary Site
+8/19/2016 8:24,8/19/2016 8:45,Business,Richmond Downtown,Richmond Hindu temple,7.6,Other
+8/19/2016 8:54,8/19/2016 9:07,Business,Newjersey Airport,Newjersey Downtown,3.3,Other
+8/19/2016 9:27,8/19/2016 9:47,Business,Richmond hindu temple ,Richmond Downtown,6.5,Other
+8/19/2016 10:57,8/19/2016 11:06,Business,Chicago Downtown,Chicago Downtown,2,Other
+8/19/2016 12:07,8/19/2016 12:24,Business,Richmond Downtown,Richmond Hindu temple,5.7,Other
+8/19/2016 15:51,8/19/2016 16:06,Business,Richmond hindu temple ,Richmond Downtown,3.2,Other
+8/19/2016 17:12,8/19/2016 17:52,Business,Richmond hindu temple ,Richmond Downtown,12.5,Other
+8/21/2016 10:00,8/21/2016 10:29,Business,Richmond Downtown,Richmond Hindu temple,7.6,Airport/Travel
+8/21/2016 14:05,8/21/2016 14:34,Business,Richmond Downtown,Richmond Hindu temple,7.7,Other
+8/21/2016 16:30,8/21/2016 17:02,Business,Richmond Downtown,Richmond Hindu temple,12.2,Other
+8/21/2016 18:10,8/21/2016 18:17,Business,Richmond hindu temple ,Richmond Downtown,1.4,Other
+8/21/2016 18:48,8/21/2016 19:24,Business,Richmond hindu temple ,Richmond Downtown,20.2,Other
+8/22/2016 10:00,8/22/2016 10:44,Business,Richmond Downtown,Richmond Hindu temple,9.8,Other
+8/22/2016 11:07,8/22/2016 11:23,Business,Richmond hindu temple ,Richmond Downtown,6.3,Other
+8/22/2016 12:36,8/22/2016 12:49,Business,Richmond Downtown,Richmond Hindu temple,4.9,Other
+8/22/2016 13:02,8/22/2016 13:11,Business,Richmond hindu temple ,Richmond Downtown,1.5,Other
+8/22/2016 14:07,8/22/2016 14:31,Business,Richmond hindu temple ,Richmond Downtown,10.9,Other
+8/22/2016 15:14,8/22/2016 15:49,Business,Richmond Downtown,Richmond Hindu temple,19,Other
+8/22/2016 15:59,8/22/2016 17:16,Business,Richmond Downtown,Richmond Hindu temple,19,Other
+8/22/2016 19:58,8/22/2016 20:50,Business,Richmond Downtown,Richmond Hindu temple,7.9,Other
+8/22/2016 20:53,8/22/2016 21:31,Business,Chicago Downtown,Chicago Downtown,4.1,Other
+8/22/2016 22:31,8/22/2016 23:00,Business,Chicago Downtown,Chicago Downtown,18.7,Other
+8/23/2016 8:10,8/23/2016 8:25,Business,Richmond Downtown,Richmond Hindu temple,8.7,Other
+8/23/2016 9:35,8/23/2016 10:09,Business,Newjersey Airport,Newjersey Downtown,7.5,Other
+8/23/2016 12:59,8/23/2016 13:15,Business,Richmond Downtown,Richmond Hindu temple,7.7,Other
+8/23/2016 13:19,8/23/2016 13:30,Business,Newjersey Airport,Newjersey Downtown,4.4,Other
+8/23/2016 13:49,8/23/2016 14:04,Business,Richmond hindu temple ,Richmond Downtown,5,Other
+8/23/2016 15:07,8/23/2016 15:12,Business,Richmond Downtown,Richmond Hindu temple,1.9,Other
+8/23/2016 15:15,8/23/2016 17:16,Business,Richmond Downtown,Richmond Hindu temple,7.9,Other
+8/23/2016 17:42,8/23/2016 18:31,Business,Richmond Downtown,Richmond Hindu temple,17.7,Other
+8/24/2016 12:05,8/24/2016 12:56,Business,Richmond Downtown,Richmond Hindu temple,25.2,Other
+8/24/2016 13:01,8/24/2016 15:25,Business,Richmond Downtown,Richmond Hindu temple,96.2,Other
+8/25/2016 15:17,8/25/2016 16:22,Business,Richmond Downtown,Richmond Hindu temple,35,Other
+8/25/2016 16:36,8/25/2016 16:56,Business,Richmond Downtown,Richmond Hindu temple,5.5,Other
+8/25/2016 17:19,8/25/2016 19:20,Business,Richmond Downtown,Richmond Hindu temple,50.4,Other
+8/25/2016 19:25,8/25/2016 19:57,Business,Richmond Downtown,Richmond Hindu temple,9.2,Other
+8/25/2016 22:58,8/25/2016 23:16,Business,NewYork Downtown,NewYork Downtown,7.3,Other
+8/26/2016 9:06,8/26/2016 9:20,Business,Richmond Downtown,Richmond Hindu temple,5,Other
+8/26/2016 11:14,8/26/2016 11:26,Business,Richmond Downtown,Richmond Hindu temple,3.8,Other
+8/26/2016 12:10,8/26/2016 12:20,Business,Richmond Downtown,Richmond Hindu temple,3.9,Other
+8/26/2016 14:10,8/26/2016 14:33,Business,NewYork Downtown,NewYork Downtown,7.4,Other
+8/26/2016 15:23,8/26/2016 15:35,Business,NewYork Downtown,NewYork Downtown,1.5,Other
+8/26/2016 15:59,8/26/2016 16:24,Business,NewYork Downtown,NewYork Downtown,7.9,Other
+8/26/2016 16:55,8/26/2016 17:12,Business,Richmond Downtown,Richmond Hindu temple,2.9,Other
+8/26/2016 18:42,8/26/2016 18:56,Business,NewYork Downtown,NewYork Downtown,3.4,Other
+8/26/2016 19:31,8/26/2016 19:54,Business,NewYork Downtown,NewYork Downtown,3.8,Other
+8/26/2016 20:06,8/26/2016 20:16,Business,NewYork Downtown,NewYork Downtown,5.9,Other
+8/27/2016 9:34,8/27/2016 10:11,Business,Richmond Downtown,Richmond Hindu temple,9.6,Other
+8/27/2016 11:47,8/27/2016 12:06,Business,NewYork Downtown,NewYork Downtown,7,Other
+8/27/2016 12:12,8/27/2016 12:17,Business,NewYork Downtown,NewYork Downtown,0.9,Other
+8/27/2016 14:01,8/27/2016 15:44,Business,NewYork Downtown,NewYork Downtown,86.6,Other
+8/27/2016 16:15,8/27/2016 19:13,Business,Richmond Downtown,Richmond Hindu temple,156.9,Other
+8/28/2016 9:57,8/28/2016 10:18,Business,Richmond Downtown,Richmond Hindu temple,10.1,Other
+8/28/2016 16:39,8/28/2016 16:55,Business,Newjersey Airport,Newjersey Downtown,6.2,Other
+8/28/2016 17:37,8/28/2016 17:55,Business,Richmond hindu temple ,Richmond Downtown,5.3,Other
+8/28/2016 21:15,8/28/2016 21:59,Business,Richmond hindu temple ,Richmond Downtown,12.1,Other
+8/29/2016 12:02,8/29/2016 12:31,Business,Richmond Downtown,Richmond Hindu temple,10.8,Other
+8/29/2016 13:38,8/29/2016 13:48,Business,Richmond hindu temple ,Richmond Downtown,4.3,Other
+8/29/2016 14:31,8/29/2016 14:41,Business,Richmond hindu temple ,Richmond Downtown,2.5,Other
+8/29/2016 14:49,8/29/2016 15:04,Business,Richmond hindu temple ,Richmond Downtown,5.7,Temporary Site
+8/29/2016 15:49,8/29/2016 15:59,Business,Richmond Downtown,Richmond Hindu temple,2.8,Other
+8/29/2016 16:06,8/29/2016 16:21,Business,LA Amtrak station,LA Amtrak Downtown,4,Other
+8/29/2016 17:24,8/29/2016 17:41,Business,Richmond Downtown,Richmond Hindu temple,5.5,Other
+8/29/2016 18:27,8/29/2016 18:36,Business,LA Amtrak station,LA Amtrak Downtown,2.6,Other
+8/30/2016 11:53,8/30/2016 12:05,Business,Richmond Downtown,Richmond Hindu temple,2.1,Other
+8/30/2016 12:46,8/30/2016 13:09,Business,Richmond Downtown,Richmond Hindu temple,8.8,Other
+8/30/2016 13:25,8/30/2016 13:46,Business,LA Amtrak station,LA Amtrak Downtown,4.4,Other
+8/30/2016 14:00,8/30/2016 14:20,Business,LA Amtrak station,LA Amtrak Downtown,5.3,Other
+8/30/2016 17:27,8/30/2016 18:09,Business,Richmond Downtown,Richmond Hindu temple,13,Other
+9/1/2016 11:51,9/1/2016 12:24,Business,Richmond Downtown,Richmond Hindu temple,13,Other
+9/1/2016 17:21,9/1/2016 17:36,Business,LA Amtrak station,LA Amtrak Downtown,10.6,Other
+9/1/2016 18:49,9/1/2016 19:08,Business,Richmond Downtown,Richmond Hindu temple,2.2,Other
+9/2/2016 11:37,9/2/2016 12:24,Business,Richmond Downtown,Richmond Hindu temple,9.2,Other
+9/2/2016 18:56,9/2/2016 19:37,Business,Richmond Downtown,Richmond Hindu temple,12.9,Other
+9/5/2016 10:25,9/5/2016 10:44,Business,Richmond Downtown,Richmond Hindu temple,17.2,Other
+9/6/2016 17:49,9/6/2016 17:49,Business,Richmond Downtown,Richmond Hindu temple,69.1,Other
+9/10/2016 10:28,9/10/2016 10:45,Business,Richmond Downtown,Richmond Hindu temple,2.8,Other
+9/11/2016 9:51,9/11/2016 9:55,Business,Richmond Downtown,Richmond Hindu temple,8.6,Other
+9/11/2016 21:40,9/11/2016 21:42,Business,Richmond Downtown,Richmond Hindu temple,9.8,Other
+9/12/2016 8:07,9/12/2016 8:12,Business,Richmond Downtown,Richmond Hindu temple,3.6,Other
+9/12/2016 11:15,9/12/2016 11:24,Business,Richmond Downtown,Richmond Hindu temple,1.7,Other
+9/12/2016 13:04,9/12/2016 13:44,Business,Richmond Downtown,Richmond Hindu temple,11.5,Other
+9/13/2016 16:56,9/13/2016 17:02,Business,Richmond Downtown,Richmond Hindu temple,0.7,Other
+9/14/2016 11:55,9/14/2016 11:59,Business,Richmond Downtown,Richmond Hindu temple,0.7,Other
+9/15/2016 20:33,9/15/2016 20:38,Business,Richmond Downtown,Richmond Hindu temple,0.9,Other
+9/16/2016 7:08,9/16/2016 7:08,Business,Richmond Downtown,Richmond Hindu temple,1.6,Other
+9/18/2016 18:07,9/18/2016 18:11,Business,Richmond Downtown,Richmond Hindu temple,9.4,Other
+9/19/2016 6:18,9/19/2016 6:49,Business,Chicago Downtown,Chicago Downtown,18.2,Other
+9/19/2016 14:40,9/19/2016 14:56,Business,Richmond Downtown,Richmond Hindu temple,10.5,Other
+9/19/2016 16:23,9/19/2016 16:31,Business,LA Amtrak station,LA Amtrak Downtown,5.7,Other
+9/19/2016 17:36,9/19/2016 18:20,Business,Richmond Downtown,Richmond Hindu temple,18,Other
+9/19/2016 19:10,9/19/2016 19:49,Business,Richmond Downtown,Richmond Hindu temple,18.3,Other
+9/20/2016 11:29,9/20/2016 11:48,Business,LA Amtrak station,LA Amtrak Downtown,16.5,Other
+9/20/2016 20:47,9/20/2016 22:47,Business,Richmond Downtown,Richmond Hindu temple,9.6,Other
+9/23/2016 13:15,9/23/2016 13:40,Business,Dallas Airport,Dallas Downtown,2.9,Other
+9/24/2016 14:34,9/24/2016 15:15,Business,Dallas Airport,Dallas Downtown,8.2,Other
+9/24/2016 20:29,9/24/2016 20:33,Business,Richmond Downtown,Richmond Hindu temple,2.4,Other
+9/27/2016 8:33,9/27/2016 8:35,Business,Richmond Downtown,Richmond Hindu temple,5.8,Other
+9/27/2016 13:21,9/27/2016 14:43,Business,NewYork Downtown,NewYork Downtown,9.8,Other
+9/27/2016 19:14,9/27/2016 20:34,Business,NewYork Downtown,NewYork Downtown,7.3,Other
+9/27/2016 21:01,9/28/2016 2:37,Business,Richmond Downtown,Richmond Hindu temple,195.6,Other
+9/28/2016 17:21,9/28/2016 19:36,Business,LA Amtrak station,LA Amtrak Downtown,20.5,Other
+9/29/2016 16:13,9/29/2016 18:47,Business,Richmond Downtown,Richmond Hindu temple,12.6,Other
+9/30/2016 17:39,9/30/2016 20:20,Business,LA Amtrak station,LA Amtrak Downtown,37.7,Other
+9/30/2016 20:59,9/30/2016 22:34,Business,LA Amtrak station,LA Amtrak Downtown,16.7,Other
+10/3/2016 17:09,10/3/2016 17:12,Business,Richmond Downtown,Richmond Hindu temple,10.5,Other
+10/3/2016 18:17,10/3/2016 18:34,Business,LA Amtrak station,LA Amtrak Downtown,2.8,Other
+10/3/2016 18:51,10/3/2016 19:01,Business,LA Amtrak station,LA Amtrak Downtown,1.6,Other
+10/3/2016 22:04,10/3/2016 22:33,Business,LA Amtrak station,LA Amtrak Downtown,12.7,Other
+10/4/2016 9:50,10/4/2016 10:52,Business,Richmond Downtown,Richmond Hindu temple,28.6,Other
+10/4/2016 12:17,10/4/2016 12:18,Business,Richmond Downtown,Richmond Hindu temple,15.1,Other
+10/6/2016 8:49,10/6/2016 11:36,Business,Richmond Downtown,Richmond Hindu temple,17.9,Other
+10/6/2016 17:23,10/6/2016 17:40,Business,Chicago Downtown,Chicago Downtown,112.6,Other
+10/6/2016 18:37,10/6/2016 18:39,Business,Richmond Downtown,Richmond Hindu temple,18.4,Other
+10/6/2016 19:46,10/6/2016 20:26,Business,Richmond Downtown,Richmond Hindu temple,13.8,Other
+10/7/2016 10:56,10/7/2016 10:59,Business,Richmond Downtown,Richmond Hindu temple,33.2,Other
+10/7/2016 11:27,10/7/2016 11:50,Business,NewYork Downtown,NewYork Downtown,2.6,Other
+10/7/2016 13:52,10/7/2016 14:08,Business,NewYork Downtown,NewYork Downtown,5.8,Other
+10/7/2016 14:29,10/7/2016 15:11,Business,Richmond Downtown,Richmond Hindu temple,8.3,Other
+10/7/2016 15:47,10/7/2016 16:02,Business,NewYork Downtown,NewYork Downtown,2.4,Other
+10/7/2016 18:08,10/7/2016 18:27,Business,NewYork Downtown,NewYork Downtown,3.1,Other
+10/7/2016 18:33,10/7/2016 19:01,Business,NewYork Downtown,NewYork Downtown,6.1,Other
+10/8/2016 15:03,10/8/2016 15:03,Business,Dallas Airport,Dallas Downtown,3.6,Other
+10/8/2016 18:15,10/8/2016 18:18,Business,Dallas Airport,Dallas Downtown,8,Other
+10/9/2016 14:04,10/9/2016 14:23,Business,Richmond Downtown,Richmond Hindu temple,7.7,Temporary Site
+10/10/2016 17:22,10/10/2016 17:28,Business,LA Amtrak station,LA Amtrak Downtown,1.7,Other
+10/10/2016 17:33,10/10/2016 18:13,Business,LA Amtrak station,LA Amtrak Downtown,9.5,Other
+10/11/2016 1:27,10/11/2016 2:08,Business,Richmond Downtown,Richmond Hindu temple,17.1,Meeting
+10/12/2016 19:18,10/12/2016 19:21,Business,Chicago Downtown,Chicago Downtown,18.4,Other
+10/13/2016 11:20,10/13/2016 11:58,Business,Richmond Downtown,Richmond Hindu temple,9.8,Other
+10/13/2016 12:08,10/13/2016 12:14,Business,LA Amtrak station,LA Amtrak Downtown,1,Other
+10/13/2016 13:02,10/13/2016 13:02,Business,LA Amtrak station,LA Amtrak Downtown,0.7,Other
+10/13/2016 13:37,10/13/2016 13:46,Business,LA Amtrak station,LA Amtrak Downtown,2.3,Other
+10/13/2016 16:08,10/13/2016 16:53,Business,LA Amtrak station,LA Amtrak Downtown,10.9,Other
+10/14/2016 8:50,10/14/2016 9:44,Business,Richmond Downtown,Richmond Hindu temple,12.7,Other
+10/14/2016 10:16,10/14/2016 10:52,Business,Chicago Downtown,Chicago Downtown,12.4,Other
+10/14/2016 15:56,10/14/2016 16:20,Business,Richmond Downtown,Richmond Hindu temple,3.8,Other
+10/14/2016 23:54,10/15/2016 2:06,Business,Richmond Downtown,Richmond Hindu temple,17,Meeting
+10/15/2016 22:28,10/15/2016 22:48,Business,Chicago Suburb,Chicago Suburb,6.2,Other
+10/16/2016 0:01,10/16/2016 0:14,Business,Chicago Suburb,Chicago Downtown,3.1,Other
+10/16/2016 12:52,10/16/2016 13:11,Business,Chicago Downtown,Durham,10.5,Meeting
+10/16/2016 14:40,10/16/2016 15:01,Business,Ohio Downtown,Ohio Downtown,8.1,Other
+10/16/2016 15:10,10/16/2016 15:19,Business,Chicago Suburb,Chicago Downtown,3.1,Other
+10/16/2016 19:27,10/16/2016 19:33,Business,LA Downtown,Parkway,2.1,Meeting
+10/16/2016 20:30,10/16/2016 20:39,Business,Chicago Downtown,Chicago Suburb,4.3,Other
+10/16/2016 21:34,10/16/2016 21:41,Business,Chicago Suburb,Chicago Downtown,2.5,Meal/Entertain
+10/17/2016 15:19,10/17/2016 15:57,Business,Chicago Downtown,Raleigh,20.6,Other
+10/17/2016 16:29,10/17/2016 17:11,Business,Chicago Downtown,Chicago Downtown,17.6,Other
+10/17/2016 18:02,10/17/2016 18:16,Business,Chicago Downtown,Apex,5.6,Other
+10/17/2016 18:31,10/17/2016 18:45,Business,Chicago suburb,Chicago Downtown,3.3,Other
+10/17/2016 19:08,10/17/2016 19:25,Business,Chicago suburb,Chicago Downtown,5.3,Other
+10/18/2016 8:12,10/18/2016 8:22,Business,LA Downtown,Edgehill Farms,3.3,Other
+10/18/2016 8:53,10/18/2016 9:02,Business,LA Downtown,LA amtrak station,3.3,Other
+10/18/2016 10:41,10/18/2016 11:09,Business,Chicago Downtown,Chicago Suburb,7.9,Temporary Site
+10/18/2016 18:12,10/18/2016 18:33,Business,Newjersey Airport,Newjersey Downtown,13,Other
+10/18/2016 19:03,10/18/2016 19:13,Business,Boston Downtown,Boston tea Party,3,Other
+10/18/2016 20:31,10/18/2016 20:37,Business,Richmond Downtown,Richmond hindu temple,3,Other
+10/19/2016 9:33,10/19/2016 9:47,Business,Boston Downtown,Boston tea Party,3.8,Other
+10/19/2016 9:54,10/19/2016 10:21,Business,Newjersey Airport,Newjersey Downtown,9.5,Other
+10/19/2016 13:45,10/19/2016 13:56,Business,LA Downtown,LA Downtown,1.7,Other
+10/19/2016 14:02,10/19/2016 14:31,Business,Chicago Downtown,Chicago Downtown,10.8,Other
+10/19/2016 15:44,10/19/2016 16:02,Business,LA Downtown,LA Downtown,4.1,Other
+10/19/2016 16:06,10/19/2016 16:19,Business,Newjersey Airport,Newjersey Downtown,2.2,Other
+10/19/2016 16:33,10/19/2016 17:01,Business,Richmond Downtown,Richmond hindu temple,4.6,Other
+10/20/2016 11:26,10/20/2016 11:34,Business,Boston Downtown,Boston tea Party,3.1,Other
+10/20/2016 12:19,10/20/2016 13:17,Business,Richmond Downtown,Richmond hindu temple,47.7,Other
+10/20/2016 20:44,10/20/2016 21:37,Business,Chicago Downtown,Chicago Downtown,44.6,Other
+10/21/2016 10:06,10/21/2016 10:21,Business,Boston Downtown,Boston tea Party,13.2,Other
+10/22/2016 0:54,10/22/2016 1:09,Business,Chicago Suburb,Chicago Downtown,8.7,Other
+10/22/2016 13:26,10/22/2016 14:03,Business,Chicago Downtown,Raleigh,17.2,Other
+10/22/2016 17:08,10/22/2016 17:55,Business,Chicago Downtown,Chicago Downtown,14,Other
+10/23/2016 9:24,10/23/2016 10:05,Business,Chicago Downtown,Raleigh,28.1,Other
+10/23/2016 12:17,10/23/2016 12:59,Business,Chicago Downtown,Chicago Downtown,28.2,Other
+10/23/2016 19:04,10/23/2016 19:14,Business,Chicago Downtown,Chicago Suburb,3.1,Meal/Entertain
+10/23/2016 21:10,10/23/2016 21:25,Business,Chicago Suburb,Chicago Downtown,3.1,Customer Visit
+10/24/2016 14:57,10/24/2016 15:26,Business,Chicago Downtown,Durham,16.4,Other
+10/24/2016 15:33,10/24/2016 16:13,Business,Ohio Downtown,Ohio Downtown,15.4,Other
+10/24/2016 16:34,10/24/2016 16:41,Business,Chicago Suburb,Chicago Downtown,2.2,Other
+10/25/2016 13:27,10/25/2016 14:08,Business,Chicago Downtown,Apex,11.2,Other
+10/25/2016 15:04,10/25/2016 15:11,Business,Chicago suburb,Chicago Downtown,2.2,Other
+10/25/2016 15:16,10/25/2016 15:33,Business,Ohio Downtown,Ohio Downtown,3.6,Other
+10/25/2016 20:00,10/25/2016 20:11,Business,LA Downtown,Savon Height,3.6,Meal/Entertain
+10/25/2016 20:54,10/25/2016 21:03,Business,LA Downtown,LA Downtown,4.9,Other
+10/25/2016 22:24,10/25/2016 22:45,Business,LA Downtown,LA Downtown,8.7,Errand/Supplies
+10/26/2016 19:25,10/26/2016 19:31,Business,LA Downtown,Parkway,2.1,Meeting
+10/26/2016 20:53,10/26/2016 21:03,Business,LA Downtown,LA Downtown,2.1,Other
+10/27/2016 18:51,10/27/2016 19:16,Business,Chicago Downtown,Chicago Suburb,8.4,Meeting
+10/27/2016 19:20,10/27/2016 19:35,Business,Chicago Suburb,Chicago Suburb,5.9,Other
+10/27/2016 19:52,10/27/2016 20:21,Business,LA Amtrak station,LA Amtrak Downtown,12.1,Other
+10/27/2016 20:47,10/27/2016 20:54,Business,LA Amtrak station,LA Amtrak Downtown,3.9,Other
+10/27/2016 21:26,10/27/2016 21:48,Business,Chicago Suburb,Chicago Downtown,6.2,Other
+10/28/2016 11:34,10/28/2016 11:52,Business,Chicago Downtown,Durham,10.4,Meeting
+10/28/2016 13:06,10/28/2016 13:36,Business,Ohio Downtown,Ohio Downtown,9.9,Meeting
+10/28/2016 15:53,10/28/2016 17:59,Business,Chicago Downtown,Winston Salem,107,Meeting
+10/28/2016 18:13,10/28/2016 20:07,Business,LA Downtown,LA Downtown,133.6,Meeting
+10/28/2016 20:13,10/28/2016 22:00,Business,Ohio Suburb,Ohio Downtown,91.8,Meeting
+10/29/2016 15:22,10/29/2016 17:05,Business,Richmond Downtown,Richmond Hindu temple,40.7,Meeting
+10/29/2016 17:13,10/29/2016 19:19,Business,Chicago Downtown,Chicago suburb,75.7,Other
+10/30/2016 7:49,10/30/2016 8:30,Business,Richmond Downtown,Richmond Hindu temple,29.8,Other
+10/30/2016 9:07,10/30/2016 10:09,Business,Chicago Downtown,Chicago Downtown,16.3,Other
+10/30/2016 10:11,10/30/2016 10:38,Business,Chicago Downtown,Chicago Downtown,6.5,Other
+10/30/2016 10:51,10/30/2016 11:21,Business,Chicago Downtown,Chicago Downtown,6.3,Other
+10/30/2016 12:24,10/30/2016 12:35,Business,Chicago Downtown,Chicago Downtown,6.6,Other
+10/30/2016 12:58,10/30/2016 13:18,Business,Richmond Downtown,Richmond suburb,15.2,Other
+10/30/2016 13:24,10/30/2016 14:37,Business,Chicago Downtown,Chicago Downtown,68.4,Other
+10/30/2016 15:22,10/30/2016 18:23,Business,Ohio Suburb,Ohio Downtown,195.9,Other
+10/30/2016 18:26,10/30/2016 19:39,Business,Chicago Downtown,Chicago Downtown,45.2,Other
+10/31/2016 18:11,10/31/2016 18:20,Business,Chicago Downtown,Chicago Suburb,3.2,Other
+10/31/2016 18:47,10/31/2016 19:16,Business,Chicago Suburb,Raleigh,10.3,Other
+10/31/2016 20:18,10/31/2016 20:44,Business,Chicago Downtown,Chicago Downtown,13.1,Other
+10/31/2016 21:45,10/31/2016 22:10,Business,LA Downtown,LA Downtown,9.6,Errand/Supplies
+11/1/2016 11:50,11/1/2016 12:27,Business,Chicago Downtown,Durham,16.5,Other
+11/1/2016 16:29,11/1/2016 17:02,Business,Ohio Downtown,Ohio Downtown,12.8,Other
+11/1/2016 17:35,11/1/2016 17:42,Business,LA Downtown,LA Downtown,1.2,Other
+11/1/2016 19:14,11/1/2016 19:20,Business,LA Downtown,LA Downtown,1,Other
+11/1/2016 19:59,11/1/2016 20:12,Business,LA Downtown,LA Downtown,4.1,Other
+11/1/2016 20:41,11/1/2016 20:55,Business,LA Downtown,LA Downtown,4.2,Meal/Entertain
+11/2/2016 15:10,11/2/2016 15:18,Business,LA Downtown,Westpark Place,1.4,Other
+11/2/2016 15:45,11/2/2016 15:52,Business,LA Downtown,LA Downtown,1.8,Other
+11/2/2016 16:46,11/2/2016 17:11,Business,Chicago Downtown,Chicago Suburb,8.5,Meeting
+11/2/2016 17:34,11/2/2016 17:49,Business,Chicago Suburb,Chicago Suburb,5,Other
+11/2/2016 17:53,11/2/2016 18:00,Business,Chicago Suburb,Chicago Downtown,3.8,Other
+11/3/2016 11:28,11/3/2016 11:34,Business,LA Downtown,Hazelwood,2.5,Other
+11/3/2016 12:43,11/3/2016 12:49,Business,Chicago Downtown,Chicago suburb,2.4,Other
+11/3/2016 13:42,11/3/2016 13:47,Business,LA Downtown,Westpark Place,1.4,Other
+11/3/2016 14:13,11/3/2016 14:26,Business,LA Downtown,LA Downtown,1.8,Other
+11/3/2016 18:51,11/3/2016 19:08,Business,Chicago Downtown,Chicago Suburb,3.1,Meal/Entertain
+11/3/2016 22:46,11/3/2016 22:58,Business,Chicago Suburb,Chicago Downtown,3.1,Customer Visit
+11/4/2016 10:02,11/4/2016 10:18,Business,Chicago Downtown,Chicago Suburb,7.9,Temporary Site
+11/4/2016 18:14,11/4/2016 18:21,Business,Chicago Downtown,Chicago Downtown,3.8,Other
+11/4/2016 21:04,11/4/2016 21:20,Business,Chicago Downtown,Chicago Suburb,4.3,Other
+11/4/2016 22:12,11/4/2016 22:25,Business,Dallas airport,Dallas Downtown,3.9,Other
+11/5/2016 8:34,11/5/2016 8:43,Business,Chicago Downtown,Chicago Suburb,2.2,Other
+11/5/2016 17:29,11/5/2016 17:40,Business,Chicago Downtown,Chicago Downtown,2.8,Other
+11/5/2016 19:20,11/5/2016 19:28,Business,Chicago Downtown,Chicago Suburb,2.2,Other
+11/6/2016 10:50,11/6/2016 11:04,Business,Chicago Downtown,Chicago Suburb,2.4,Other
+11/6/2016 16:05,11/6/2016 16:22,Business,Chicago Downtown,Chicago Downtown,2.8,Meeting
+11/6/2016 16:27,11/6/2016 17:28,Business,LA Downtown,LA Downtown,43.9,Customer Visit
+11/6/2016 19:04,11/6/2016 19:12,Business,Ohio Downtown,Ohio Downtown,1.8,Other
+11/6/2016 20:06,11/6/2016 20:21,Business,LA Downtown,LA Downtown,3.3,Other
+11/7/2016 12:28,11/7/2016 12:57,Business,Richmond Downtown,Richmond hindu temple,11.8,Between Offices
+11/7/2016 19:17,11/7/2016 19:57,Business,Chicago Downtown,Chicago Downtown,13.2,Between Offices
+11/8/2016 10:29,11/8/2016 10:57,Business,Richmond Downtown,Richmond hindu temple,12.2,Between Offices
+11/8/2016 12:16,11/8/2016 12:49,Business,Chicago Downtown,Chicago Downtown,11.3,Meeting
+11/8/2016 13:41,11/8/2016 14:01,Business,Richmond Downtown,Richmond hindu temple,3.6,Other
+11/8/2016 16:21,11/8/2016 16:34,Business,Boston Downtown,Boston tea Party,3,Other
+11/9/2016 13:08,11/9/2016 13:41,Business,Richmond Downtown,Richmond hindu temple,11.4,Other
+11/9/2016 15:58,11/9/2016 16:04,Business,Newjersey Airport,Newjersey Downtown,0.9,Other
+11/9/2016 17:31,11/9/2016 18:03,Business,Ohio Downtown,Ohio Downtown,6.2,Other
+11/9/2016 18:09,11/9/2016 18:14,Business,Richmond Downtown,Richmond Hindu temple,0.7,Other
+11/9/2016 18:21,11/9/2016 18:35,Business,LA Amtrak station,LA Amtrak Downtown,5.5,Meeting
+11/9/2016 18:40,11/9/2016 19:17,Business,Chicago Downtown,Chicago Downtown,12.7,Customer Visit
+11/9/2016 20:52,11/9/2016 21:02,Business,Newjersey Airport,Newjersey Downtown,2.6,Other
+11/9/2016 21:56,11/9/2016 22:02,Business,Milwaukee Downtown,Milwaukee Amtrak station,1.1,Other
+11/10/2016 9:46,11/10/2016 10:15,Business,Richmond Downtown,Richmond hindu temple,12.6,Temporary Site
+11/10/2016 10:20,11/10/2016 10:31,Business,Richmond Downtown,Richmond Hindu temple,1.2,Other
+11/10/2016 14:57,11/10/2016 15:07,Business,LA Downtown,LA Downtown,1.1,Other
+11/10/2016 15:17,11/10/2016 15:22,Business,Chicago Downtown,Chicago Downtown,9.9,Temporary Site
+11/10/2016 15:30,11/10/2016 15:53,Business,Newjersey Airport,Newjersey Downtown,6,Meeting
+11/10/2016 19:18,11/10/2016 19:21,Business,LA Downtown,LA Downtown,0.8,Other
+11/11/2016 9:35,11/11/2016 10:23,Business,Richmond Downtown,Richmond hindu temple,45.9,Customer Visit
+11/11/2016 12:58,11/11/2016 13:13,Business,West Palm Beach,West Palm Beach,4,Other
+11/11/2016 14:20,11/11/2016 14:32,Business,Dallas Downtown,Dallas Downtown,2.5,Other
+11/11/2016 14:39,11/11/2016 15:46,Business,West Palm Beach,West Palm Beach,36.6,Customer Visit
+11/11/2016 18:30,11/11/2016 18:43,Business,Milwaukee Downtown,Milwaukee Amtrak station,2.9,Other
+11/11/2016 21:08,11/11/2016 21:18,Business,Milwaukee Downtown,Milwaukee Downtown,2.6,Other
+11/12/2016 10:32,11/12/2016 10:52,Business,Milwaukee Downtown,Milwaukee Amtrak station,2.3,Other
+11/12/2016 10:55,11/12/2016 11:25,Business,LA Downtown,LA Downtown,6.4,Other
+11/12/2016 13:07,11/12/2016 13:15,Business,Ohio Downtown,Ohio Downtown,1.4,Other
+11/12/2016 13:46,11/12/2016 13:50,Business,Milwaukee Downtown,Milwaukee Amtrak station,0.6,Other
+11/12/2016 14:22,11/12/2016 14:53,Business,LA Downtown,LA Downtown,5.9,Meeting
+11/12/2016 15:14,11/12/2016 15:21,Business,LA Downtown,LA Downtown,0.8,Other
+11/12/2016 15:25,11/12/2016 15:36,Business,Richmond Downtown,Richmond hindu temple,1.3,Other
+11/12/2016 15:40,11/12/2016 15:59,Business,Boston Downtown,Boston tea Party,3.7,Errand/Supplies
+11/13/2016 8:54,11/13/2016 9:02,Business,Milwaukee Downtown,Milwaukee Amtrak station,2.3,Other
+11/13/2016 9:27,11/13/2016 9:53,Business,Milwaukee Downtown,Milwaukee Amtrak station,2.6,Other
+11/13/2016 10:31,11/13/2016 10:37,Business,Milwaukee Downtown,Milwaukee Amtrak station,1.9,Other
+11/13/2016 11:04,11/13/2016 11:16,Business,LA Downtown,LA Downtown,2.1,Other
+11/13/2016 12:22,11/13/2016 12:51,Business,LA Downtown,LA Downtown,4,Meeting
+11/13/2016 13:05,11/13/2016 13:11,Business,LA Downtown,LA Downtown,0.9,Other
+11/13/2016 13:14,11/13/2016 13:18,Business,LA Downtown,LA Downtown,0.9,Other
+11/13/2016 14:35,11/13/2016 14:46,Business,LA Downtown,LA Downtown,2.4,Other
+11/13/2016 15:14,11/13/2016 15:24,Business,Milwaukee Downtown,Milwaukee Downtown,1.9,Other
+11/13/2016 15:47,11/13/2016 15:59,Business,LA Downtown,LA Downtown,1.9,Other
+11/14/2016 11:24,11/14/2016 12:13,Business,Richmond Downtown,Richmond hindu temple,44.6,Customer Visit
+11/14/2016 13:40,11/14/2016 14:33,Business,Newjersey Airport,Newjersey Downtown,43.6,Customer Visit
+11/14/2016 15:27,11/14/2016 15:36,Business,Richmond Downtown,Richmond hindu temple,2.5,Other
+11/14/2016 20:19,11/14/2016 20:30,Business,Boston Downtown,Boston tea Party,3.7,Errand/Supplies
+11/15/2016 13:59,11/15/2016 14:06,Business,Richmond Downtown,Richmond hindu temple,5.1,Other
+11/15/2016 14:09,11/15/2016 14:26,Business,Newjersey Airport,Newjersey Downtown,9.7,Temporary Site
+11/15/2016 20:44,11/15/2016 21:00,Business,Chicago Downtown,Chicago Downtown,11.8,Temporary Site
+11/16/2016 20:21,11/16/2016 20:27,Business,Richmond Downtown,Richmond hindu temple,2.3,Temporary Site
+11/16/2016 22:52,11/16/2016 23:02,Business,LA Downtown,LA amtrak station,3.1,Meal/Entertain
+11/17/2016 10:13,11/17/2016 10:44,Business,Richmond Downtown,Richmond hindu temple,16.3,Customer Visit
+11/18/2016 20:09,11/18/2016 20:19,Business,Chicago Downtown,Chicago Suburb,3.1,Meal/Entertain
+11/18/2016 21:23,11/18/2016 21:34,Business,Chicago Suburb,Chicago Downtown,5.2,Meal/Entertain
+11/18/2016 21:56,11/18/2016 22:21,Business,California Downtown,California suburb,6.1,Meeting
+11/19/2016 13:51,11/19/2016 14:10,Business,Chicago Downtown,Durham,10.3,Meeting
+11/19/2016 14:30,11/19/2016 14:51,Business,Ohio Downtown,Ohio Downtown,10.5,Meeting
+11/19/2016 16:01,11/19/2016 16:06,Business,Chicago Downtown,Chicago Downtown,1.5,Other
+11/19/2016 16:27,11/19/2016 16:41,Business,Chicago Downtown,Chicago Downtown,1.8,Other
+11/19/2016 17:41,11/19/2016 17:54,Business,Chicago Downtown,Apex,5.4,Errand/Supplies
+11/19/2016 21:14,11/19/2016 21:35,Business,Chicago suburb,Chicago Downtown,5.4,Customer Visit
+11/20/2016 10:27,11/20/2016 11:32,Business,Chicago Downtown,Chicago Downtown,39.2,Between Offices
+11/20/2016 11:58,11/20/2016 12:28,Business,Chicago Downtown,Chicago Downtown,6.4,Customer Visit
+11/20/2016 14:58,11/20/2016 15:07,Business,Chicago Downtown,Chicago Downtown,2.7,Meeting
+11/20/2016 17:45,11/20/2016 18:37,Business,Chicago Downtown,Chicago Downtown,18.5,Errand/Supplies
+11/21/2016 13:37,11/21/2016 13:49,Business,Chicago Downtown,Chicago Downtown,2.5,Meal/Entertain
+11/21/2016 14:34,11/21/2016 14:44,Business,Chicago Downtown,Chicago Downtown,2.1,Meal/Entertain
+11/21/2016 17:50,11/21/2016 18:04,Business,Chicago Downtown,Unknown Location,6.7,Errand/Supplies
+11/21/2016 18:18,11/21/2016 18:27,Business,Chicago Suburb,Chicago Suburb,3.5,Meal/Entertain
+11/21/2016 18:43,11/21/2016 18:51,Business,Chicago Suburb,Chicago Downtown,3.4,Errand/Supplies
+11/22/2016 15:12,11/22/2016 15:27,Business,Chicago Downtown,Chicago Downtown,5.5,Meeting
+11/22/2016 15:31,11/22/2016 15:44,Business,Chicago Downtown,Chicago Downtown,4.1,Meeting
+11/22/2016 15:51,11/22/2016 16:43,Business,Chicago Downtown,Chicago Downtown,12.7,Customer Visit
+11/22/2016 18:18,11/22/2016 18:28,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain
+11/22/2016 21:02,11/22/2016 21:14,Business,Chicago Suburb,Chicago Downtown,3.5,Customer Visit
+11/23/2016 15:34,11/23/2016 15:50,Business,Chicago Downtown,Chicago Downtown,5.9,Meal/Entertain
+11/23/2016 16:18,11/23/2016 16:29,Business,Chicago Downtown,Chicago Downtown,1.9,Other
+11/23/2016 16:49,11/23/2016 17:00,Business,Chicago Downtown,Chicago Downtown,3.3,Other
+11/23/2016 18:37,11/23/2016 18:47,Business,Chicago Downtown,Chicago Downtown,1.3,Other
+11/25/2016 11:47,11/25/2016 12:04,Business,Chicago Downtown,Durham,10.3,Meeting
+11/25/2016 13:13,11/25/2016 13:31,Business,Ohio Downtown,Ohio Downtown,11.1,Meeting
+11/26/2016 15:54,11/26/2016 15:59,Business,Chicago Downtown,Chicago Downtown,1.4,Other
+11/26/2016 17:00,11/26/2016 17:12,Business,Chicago Downtown,Apex,5.1,Meeting
+11/26/2016 17:36,11/26/2016 17:56,Business,Chicago suburb,Chicago Downtown,9,Meeting
+11/26/2016 18:29,11/26/2016 19:04,Business,LA Amtrak station,LA Amtrak Downtown,13.3,Between Offices
+11/26/2016 19:47,11/26/2016 19:54,Business,Chicago Downtown,Chicago Downtown,2.5,Errand/Supplies
+11/27/2016 15:59,11/27/2016 16:06,Business,Chicago Downtown,Chicago Suburb,3.3,Meal/Entertain
+11/27/2016 18:55,11/27/2016 19:09,Business,Chicago Suburb,Chicago Downtown,2.9,Other
+11/30/2016 11:03,11/30/2016 11:34,Business,Chicago Downtown,Raleigh,8.5,Customer Visit
+11/30/2016 11:53,11/30/2016 12:35,Business,Chicago Downtown,Chicago Suburb,6.7,Temporary Site
+11/30/2016 12:43,11/30/2016 12:53,Business,Chicago Suburb,Chicago Downtown,3.1,Other
+12/1/2016 7:44,12/1/2016 7:59,Business,Chicago Downtown,Chicago Downtown,5.5,Meeting
+12/1/2016 8:37,12/1/2016 8:53,Business,Chicago Downtown,Chicago Downtown,5.5,Errand/Supplies
+12/1/2016 18:00,12/1/2016 18:12,Business,Chicago Downtown,Chicago Suburb,2.9,Meal/Entertain
+12/1/2016 20:36,12/1/2016 20:46,Business,Chicago Suburb,Chicago Downtown,2.9,Customer Visit
+12/2/2016 12:12,12/2/2016 12:23,Business,Chicago Downtown,Apex,5.1,Meal/Entertain
+12/2/2016 13:07,12/2/2016 13:22,Business,Chicago suburb,Chicago Downtown,5.3,Customer Visit
+12/2/2016 20:41,12/2/2016 20:48,Business,Chicago Downtown,Chicago Suburb,3.3,Meal/Entertain
+12/2/2016 22:59,12/2/2016 23:07,Business,Chicago Suburb,Chicago Downtown,3,Customer Visit
+12/3/2016 18:35,12/3/2016 18:56,Business,Chicago Downtown,Wake Co.,6.6,Errand/Supplies
+12/3/2016 19:08,12/3/2016 19:15,Business,Chicago Suburb,Chicago Suburb,1.8,Other
+12/3/2016 20:31,12/3/2016 20:41,Business,Chicago Suburb,Chicago Downtown,3,Customer Visit
+12/4/2016 18:56,12/4/2016 19:03,Business,Chicago Downtown,Chicago Suburb,2.9,Meal/Entertain
+12/4/2016 20:23,12/4/2016 20:34,Business,Chicago Suburb,Chicago Downtown,3.4,Customer Visit
+12/5/2016 18:04,12/5/2016 18:17,Business,Chicago Downtown,Chicago Downtown,4.1,Other
+12/5/2016 19:22,12/5/2016 19:37,Business,Chicago Downtown,Chicago Downtown,3.8,Meal/Entertain
+12/7/2016 12:03,12/7/2016 12:32,Business,Chicago Downtown,Chicago Downtown,6.6,Meeting
+12/7/2016 12:35,12/7/2016 12:46,Business,Chicago Downtown,Chicago Downtown,4,Meeting
+12/7/2016 19:53,12/7/2016 20:13,Business,Chicago Downtown,Chicago Downtown,7,Customer Visit
+12/7/2016 21:13,12/7/2016 21:50,Business,Chicago Downtown,Chicago Downtown,6.9,Meal/Entertain
+12/8/2016 14:19,12/8/2016 14:32,Business,Chicago Downtown,Chicago Downtown,3.4,Errand/Supplies
+12/8/2016 14:53,12/8/2016 15:02,Business,Chicago Downtown,Chicago Downtown,3.4,Errand/Supplies
+12/8/2016 19:22,12/8/2016 19:27,Business,Chicago Downtown,Chicago Downtown,2,Meeting
+12/8/2016 21:26,12/8/2016 21:31,Business,Chicago Downtown,Chicago Downtown,2,Errand/Supplies
+12/9/2016 12:09,12/9/2016 12:24,Business,Chicago Downtown,Apex,5.1,Errand/Supplies
+12/9/2016 13:15,12/9/2016 13:43,Business,Chicago suburb,Chicago Downtown,8.8,Temporary Site
+12/9/2016 20:11,12/9/2016 20:34,Business,Chicago Downtown,Chicago Downtown,5.6,Meeting
+12/9/2016 22:03,12/9/2016 22:57,Business,Chicago Downtown,Chicago Downtown,18.9,Customer Visit
+12/10/2016 12:43,12/10/2016 13:16,Business,Chicago Downtown,Fuquay-Varina,15.6,Meeting
+12/10/2016 14:42,12/10/2016 15:18,Business,Chicago Downtown,Chicago suburb,15.6,Errand/Supplies
+12/10/2016 18:17,12/10/2016 18:27,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain
+12/10/2016 22:09,12/10/2016 22:21,Business,Chicago Suburb,Chicago Downtown,3.1,Customer Visit
+12/11/2016 16:06,12/11/2016 16:16,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain
+12/11/2016 19:05,12/11/2016 19:15,Business,Chicago Suburb,Chicago Downtown,4.8,Errand/Supplies
+12/11/2016 21:48,12/11/2016 21:56,Business,Chicago Downtown,Chicago Downtown,2.1,Errand/Supplies
+12/12/2016 13:22,12/12/2016 13:32,Business,Chicago Downtown,Chicago Downtown,3.1,Errand/Supplies
+12/12/2016 13:36,12/12/2016 13:51,Business,Chicago Downtown,Apex,4.4,Meal/Entertain
+12/12/2016 14:26,12/12/2016 14:39,Business,Chicago suburb,Chicago Downtown,4.7,Customer Visit
+12/12/2016 17:51,12/12/2016 18:01,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain
+12/12/2016 20:48,12/12/2016 20:57,Business,Chicago Suburb,Chicago Downtown,3,Customer Visit
+12/13/2016 18:19,12/13/2016 18:29,Business,Chicago Downtown,Chicago Downtown,4.2,Errand/Supplies
+12/13/2016 20:20,12/13/2016 20:29,Business,Chicago Downtown,Chicago Downtown,4.1,Meal/Entertain
+12/14/2016 16:52,12/14/2016 17:10,Business,Chicago Downtown,Chicago Downtown,3.4,Other
+12/14/2016 17:22,12/14/2016 17:34,Business,Chicago Downtown,Chicago Downtown,3.3,Other
+12/14/2016 17:50,12/14/2016 18:00,Business,Chicago Downtown,Chicago Suburb,3,Meal/Entertain
+12/14/2016 20:24,12/14/2016 20:40,Business,Chicago Suburb,Chicago Downtown,3.1,Customer Visit
+12/15/2016 14:20,12/15/2016 14:54,Business,Chicago Downtown,Chicago Suburb,10.6,Meeting
+12/17/2016 15:38,12/17/2016 16:12,Business,Richmond Downtown,Richmond Hindu temple,4.8,Airport/Travel
+12/17/2016 17:19,12/17/2016 17:59,Business,Richmond Downtown,Richmond Hindu temple,5.3,Temporary Site
+12/18/2016 13:03,12/18/2016 13:41,Business,Richmond Downtown,Richmond Hindu temple,4.9,Errand/Supplies
+12/18/2016 16:38,12/18/2016 17:25,Business,Richmond Downtown,Richmond Hindu temple,10.2,Errand/Supplies
+12/18/2016 20:35,12/18/2016 21:04,Business,Richmond Downtown,Richmond Hindu temple,9.2,Other
+12/19/2016 9:08,12/19/2016 9:36,Business,Richmond Downtown,Richmond Hindu temple,7.7,Errand/Supplies
+12/19/2016 10:15,12/19/2016 10:34,Business,LA Amtrak station,LA Amtrak Downtown,5.9,Temporary Site
+12/19/2016 13:04,12/19/2016 13:08,Business,Chicago Downtown,Chicago Suburb,0.7,Errand/Supplies
+12/19/2016 13:24,12/19/2016 13:35,Business,Richmond Downtown,Richmond Hindu temple,1.3,Other
+12/19/2016 14:07,12/19/2016 14:15,Business,Richmond Downtown,Richmond Hindu temple,2.5,Other
+12/19/2016 14:18,12/19/2016 14:32,Business,Richmond Downtown,Richmond Hindu temple,5.3,Other
+12/19/2016 14:37,12/19/2016 14:50,Business,Richmond Downtown,Richmond Hindu temple,5.4,Other
+12/19/2016 15:09,12/19/2016 15:38,Business,Richmond Downtown,Richmond Hindu temple,10.2,Customer Visit
+12/19/2016 16:50,12/19/2016 17:09,Business,Chicago Downtown,Chicago Suburb,7.2,Customer Visit
+12/19/2016 19:05,12/19/2016 19:17,Business,LA Amtrak station,LA Amtrak Downtown,2.2,Other
+12/19/2016 19:55,12/19/2016 20:30,Business,Richmond Downtown,Richmond Hindu temple,11,Meeting
+12/20/2016 8:49,12/20/2016 9:24,Business,Richmond Downtown,Richmond Hindu temple,12,Other
+12/20/2016 10:30,12/20/2016 10:48,Business,Chicago Downtown,Chicago Suburb,3.3,Errand/Supplies
+12/20/2016 11:30,12/20/2016 12:17,Business,Chicago Downtown,Chicago Suburb,19.4,Meeting
+12/20/2016 13:14,12/20/2016 13:20,Business,Richmond Downtown,Richmond Hindu temple,1.7,Errand/Supplies
+12/20/2016 13:54,12/20/2016 14:17,Business,Richmond Downtown,Richmond Hindu temple,5.7,Temporary Site
+12/20/2016 16:14,12/20/2016 16:24,Business,LA Amtrak station,LA Amtrak Downtown,1.8,Errand/Supplies
+12/20/2016 16:56,12/20/2016 17:07,Business,LA Amtrak station,LA Amtrak Downtown,1.4,Errand/Supplies
+12/20/2016 18:47,12/20/2016 19:21,Business,LA Amtrak station,LA Amtrak Downtown,10.3,Customer Visit
+12/21/2016 7:42,12/21/2016 8:10,Business,Richmond Downtown,Richmond Hindu temple,11.5,Meeting
+12/21/2016 10:14,12/21/2016 10:30,Business,Richmond Downtown,Richmond Hindu temple,4.9,Errand/Supplies
+12/21/2016 11:35,12/21/2016 11:49,Business,LA Amtrak station,LA Amtrak Downtown,3.5,Meal/Entertain
+12/21/2016 12:51,12/21/2016 13:33,Business,Richmond Downtown,Richmond Hindu temple,16.2,Meeting
+12/21/2016 15:38,12/21/2016 15:49,Business,Richmond Downtown,Richmond Hindu temple,2,Errand/Supplies
+12/21/2016 15:55,12/21/2016 16:05,Business,Richmond Downtown,Richmond Hindu temple,2.1,Errand/Supplies
+12/21/2016 17:45,12/21/2016 17:54,Business,LA Amtrak station,LA Amtrak Downtown,2.1,Meeting
+12/21/2016 17:59,12/21/2016 18:31,Business,LA Amtrak station,LA Amtrak Downtown,7.2,Customer Visit
+12/21/2016 19:49,12/21/2016 20:35,Business,Richmond Downtown,Richmond Hindu temple,12,Meeting
+12/21/2016 20:56,12/21/2016 23:42,Business,Chicago Downtown,Chicago Suburb,103,Meeting
+12/22/2016 15:40,12/22/2016 16:38,Business,Richmond Downtown,Richmond Hindu temple,32.3,Meeting
+12/22/2016 17:04,12/22/2016 17:20,Business,Richmond Downtown,Richmond Hindu temple,5.3,Customer Visit
+12/22/2016 17:27,12/22/2016 17:53,Business,Richmond Downtown,Richmond Hindu temple,11.6,Meeting
+12/22/2016 17:56,12/22/2016 18:29,Business,Richmond Downtown,Richmond Hindu temple,23.2,Meeting
+12/22/2016 18:31,12/22/2016 18:37,Business,Richmond Downtown,Richmond Hindu temple,3.2,Errand/Supplies
+12/22/2016 18:38,12/22/2016 18:47,Business,Richmond Downtown,Richmond Hindu temple,12.3,Temporary Site
+12/22/2016 19:04,12/22/2016 19:50,Business,Richmond Downtown,Richmond Hindu temple,14,Meeting
+12/22/2016 21:41,12/22/2016 21:53,Business,NewYork Downtown,NewYork Downtown,2.1,Meal/Entertain
+12/22/2016 23:27,12/22/2016 23:32,Business,NewYork Downtown,NewYork Downtown,2.1,Customer Visit
+12/23/2016 9:21,12/23/2016 9:41,Business,NewYork Downtown,NewYork Downtown,3,Meeting
+12/23/2016 11:33,12/23/2016 11:58,Business,NewYork Downtown,NewYork Downtown,6.2,Meeting
+12/23/2016 14:15,12/23/2016 15:25,Business,Richmond Downtown,Richmond Hindu temple,9.6,Meeting
+12/23/2016 16:23,12/23/2016 16:34,Business,Richmond Downtown,Richmond Hindu temple,1.3,Errand/Supplies
+12/23/2016 17:34,12/23/2016 18:27,Business,Richmond Downtown,Richmond Hindu temple,7.1,Meal/Entertain
+12/24/2016 7:43,12/24/2016 8:04,Business,NewYork Downtown,NewYork Downtown,6.3,Meal/Entertain
+12/24/2016 9:19,12/24/2016 9:55,Business,Richmond Downtown,Richmond Hindu temple,10.7,Meal/Entertain
+12/24/2016 10:34,12/24/2016 10:53,Business,NewYork Downtown,NewYork Downtown,5.3,Meal/Entertain
+12/24/2016 12:51,12/24/2016 12:53,Business,NewYork Downtown,NewYork Downtown,1.6,Errand/Supplies
+12/24/2016 13:08,12/24/2016 13:29,Business,NewYork Downtown,NewYork Downtown,3.6,Errand/Supplies
+12/24/2016 17:12,12/24/2016 17:27,Business,NewYork Downtown,NewYork Downtown,1.7,Errand/Supplies
+12/24/2016 19:12,12/24/2016 19:27,Business,NewYork Downtown,NewYork Downtown,2.9,Meal/Entertain
+12/24/2016 22:04,12/24/2016 22:09,Business,NewYork Downtown,NewYork Downtown,0.6,Errand/Supplies
+12/25/2016 0:10,12/25/2016 0:14,Business,NewYork Downtown,NewYork Downtown,0.6,Errand/Supplies
+12/25/2016 19:15,12/25/2016 19:26,Business,NewYork Downtown,NewYork Downtown,2.3,Meal/Entertain
+12/25/2016 21:58,12/25/2016 22:04,Business,NewYork Downtown,NewYork Downtown,2.3,Meal/Entertain
+12/26/2016 8:30,12/26/2016 8:41,Business,NewYork Downtown,NewYork Downtown,3.2,Meal/Entertain
+12/26/2016 9:05,12/26/2016 9:19,Business,NewYork Downtown,NewYork Downtown,6.2,Customer Visit
+12/26/2016 10:15,12/26/2016 10:36,Business,NewYork Downtown,NewYork Downtown,7.7,Customer Visit
+12/26/2016 11:29,12/26/2016 11:42,Business,NewYork Downtown,NewYork Downtown,3.8,Customer Visit
+12/26/2016 13:09,12/26/2016 13:43,Business,NewYork Downtown,NewYork Downtown,7.9,Meeting
+12/27/2016 7:02,12/27/2016 7:14,Business,Dallas Airport,Dallas Downtown,4.9,Temporary Site
+12/27/2016 8:37,12/27/2016 8:59,Business,Dallas Airport,Dallas Downtown,5,Meal/Entertain
+12/27/2016 12:53,12/27/2016 12:57,Business,Dallas Airport,Dallas Downtown,0.6,Meal/Entertain
+12/27/2016 14:49,12/27/2016 15:03,Business,Dallas Airport,Dallas Downtown,3.1,Customer Visit
+12/27/2016 16:34,12/27/2016 16:58,Business,Richmond Downtown,Richmond Hindu temple,7.9,Meeting
+12/27/2016 19:19,12/27/2016 19:50,Business,Dallas Airport,Dallas Downtown,5.5,Customer Visit
+12/28/2016 8:34,12/28/2016 9:06,Business,Dallas Airport,Dallas Downtown,10.3,Meal/Entertain
+12/28/2016 11:42,12/28/2016 12:12,Business,Richmond Downtown,Richmond Hindu temple,10.4,Errand/Supplies
+12/28/2016 13:53,12/28/2016 14:01,Business,Dallas Airport,Dallas Downtown,2,Errand/Supplies
+12/28/2016 15:04,12/28/2016 15:39,Business,Dallas Airport,Dallas Downtown,8.5,Meal/Entertain
+12/28/2016 17:02,12/28/2016 17:16,Business,Richmond Downtown,Richmond Hindu temple,4.4,Errand/Supplies
+12/28/2016 18:33,12/28/2016 18:56,Business,Dallas Airport,Dallas Downtown,3.8,Errand/Supplies
+12/28/2016 22:44,12/28/2016 23:18,Business,Dallas Airport,Dallas Downtown,5.1,Errand/Supplies
+12/29/2016 0:49,12/29/2016 1:06,Business,Dallas Airport,Dallas Downtown,3.8,Errand/Supplies
+12/29/2016 9:44,12/29/2016 10:07,Business,Dallas Airport,Dallas Downtown,11.6,Meal/Entertain
+12/29/2016 11:28,12/29/2016 12:00,Business,Richmond Downtown,Richmond Hindu temple,11.9,Meal/Entertain
+12/29/2016 12:25,12/29/2016 12:33,Business,Dallas Airport,Dallas Downtown,1.4,Errand/Supplies
+12/29/2016 13:17,12/29/2016 13:24,Business,Dallas Airport,Dallas Downtown,1.1,Errand/Supplies
+12/29/2016 13:56,12/29/2016 14:11,Business,Dallas Airport,Dallas Downtown,4.1,Airport/Travel
+12/29/2016 14:42,12/29/2016 14:58,Business,Dallas Airport,Dallas Downtown,6.1,Between Offices
+12/29/2016 15:05,12/29/2016 15:16,Business,Dallas Airport,Dallas Downtown,1.3,Errand/Supplies
+12/29/2016 18:59,12/29/2016 19:14,Business,Dallas Airport,Dallas Downtown,3,Meal/Entertain
+12/29/2016 19:50,12/29/2016 20:10,Business,Richmond Downtown,Richmond Hindu temple,4.1,Customer Visit
+12/29/2016 20:15,12/29/2016 20:45,Business,Dallas Airport,Dallas Downtown,7.2,Meeting
+12/29/2016 20:53,12/29/2016 21:42,Business,Dallas Airport,Dallas Downtown,6.4,Other
+12/29/2016 23:14,12/29/2016 23:47,Business,Richmond Downtown,Richmond Hindu temple,12.9,Meeting
+12/30/2016 10:15,12/30/2016 10:33,Business,Dallas Airport,Dallas Downtown,2.8,Errand/Supplies
+12/30/2016 11:31,12/30/2016 11:56,Business,Dallas Airport,Dallas Downtown,2.9,Errand/Supplies
+12/30/2016 15:41,12/30/2016 16:03,Business,Dallas Airport,Dallas Downtown,4.6,Errand/Supplies
+12/30/2016 16:45,12/30/2016 17:08,Business,Dallas Airport,Dallas Downtown,4.6,Meeting
+12/30/2016 23:06,12/30/2016 23:10,Business,Dallas Airport,Dallas Downtown,0.8,Customer Visit
+12/31/2016 1:07,12/31/2016 1:14,Business,Dallas Airport,Dallas Downtown,0.7,Meeting
+12/31/2016 13:24,12/31/2016 13:42,Business,Dallas Airport,Dallas Downtown,3.9,Temporary Site
+12/31/2016 15:03,12/31/2016 15:38,Business,Richmond Downtown,Richmond Hindu temple,16.2,Meeting
+12/31/2016 21:32,12/31/2016 21:50,Business,Dallas Airport,Dallas Downtown,6.4,Temporary Site
+12/31/2016 22:08,12/31/2016 23:51,Business,Chicago Downtown,Chicago suburb,48.2,Temporary Site
